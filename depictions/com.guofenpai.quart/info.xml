@@ -14,6 +14,7 @@
 		<description>果粉派</description>
 		<description><![CDATA[
 		Discord：https://discord.gg/azYJZve
+		]]>
 		</description>
 	</descriptionlist>
 	<screenshots>
@@ -22,11 +23,12 @@
 			<image>quart.jpg</image>
 		</screenshot>		
 		<screenshot>
+	</changelog>
 	<links>
 		<link>
-			<name>/r/jailbreak</name>
+			<name>Discord</name>
 			<url>https://discord.gg/azYJZve</url>
-			<iconclass>fa fa-discord</iconclass>
+			<iconclass>discord</iconclass>
 		</link>
 	</links>
 </package>
