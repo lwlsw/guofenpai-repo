@@ -4,12 +4,13 @@
 	<version>1.4.1</version>
 	<compatibility>
 		<firmware>
-			<miniOS>13</miniOS>
+			<miniOS>13.3.1</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport</package>
-	</dependencies>
+	
+    </dependencies>
 	<shortDescription>果粉派</shortDescription>
 	<descriptionlist>
 		<description></description>
@@ -22,7 +23,7 @@
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>煥然一新的人控制中心</description>
+			<description>煥然一新的控制中心</description>
 			<image>prysm.jpg</image>
 		</screenshot>		
 		<screenshot>
