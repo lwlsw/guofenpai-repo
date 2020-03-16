@@ -65,3 +65,20 @@ SHA256: fc44a1cd021dda221c6f0edf6aecd44bc6429fab8c5a9ab000d8dfe0415405c5
 Description:控制中心美化
 Name: Magma EVO
 Author: 果粉派 <email@gmail.com>
+
+
+Package: com.gfp.jellyfish
+Version: 1.3.3
+Section: Tweaks
+Maintainer: 果粉派 <email@gmail.com>
+Depends: mobilesubstrate,preferenceloader,firmware (>= 11.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.gfp.jellyfish.deb
+Size: 192
+Depiction: https://guofenpai.github.io/repo/depictions/?p=com.gfp.jellyfish
+MD5sum: c90756f0fff56cfb684d2ecaca4de977
+SHA1:  243e47194038ed85beb5e7226c547e9d6a94078c
+SHA256: f698ed08029d8a1285c147937afdf616b879a90bca5864c1e28ae6ef9205ef46
+Description: 簡約鎖屏時鐘
+Name: Jellyfish
+Author: 果粉派 <email@gmail.com>
