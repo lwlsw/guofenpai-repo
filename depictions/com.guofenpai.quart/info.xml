@@ -22,4 +22,11 @@
 			<image>quart.jpg</image>
 		</screenshot>		
 		<screenshot>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://discord.gg/azYJZve</url>
+			<iconclass>fa fa-discord</iconclass>
+		</link>
+	</links>
 </package>
