@@ -8,7 +8,7 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate, com.rpetrich.rocketbootstrap, preferenceloader, com.laughingquoll.prefixui, com.spark.libsparkapplist
+<package>mobilesubstrate,com.rpetrich.rocketbootstrap, preferenceloader, com.laughingquoll.prefixui, com.spark.libsparkapplist
 </package>
 	</dependencies>
 	<shortDescription>果粉派</shortDescription>
