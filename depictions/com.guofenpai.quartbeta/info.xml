@@ -1,0 +1,23 @@
+<package>
+	<id>com.guifenpai.quartbeta</id>
+	<name>Quart</name>
+	<version>0.1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>14</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			全新的通知欄
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>全新的通知欄</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
