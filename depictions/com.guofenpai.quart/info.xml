@@ -1,17 +1,19 @@
 <package>
-	<id>com.guofenpai.quart</id>
+	<id>com.guifenpai.quart</id>
 	<name>Quart</name>
 	<version>0.1</version>
 	<compatibility>
 		<firmware>
-			<miniOS>13</miniOS>
+			<miniOS>14</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>果粉派</shortDescription>
 	<descriptionlist>
-		<description>全新的通知欄</description>
-		<description>果粉派</description>
+		<description></description>
+		<description></description>
 		<description><![CDATA[
 		You can also have<br/> 
 		a multi-line item.
@@ -20,16 +22,24 @@
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>全新的通知欄</description>
+			<description>全新通知欄</description>
 			<image>quart.jpg</image>
 		</screenshot>		
 		<screenshot>
+			<description></description>
+			<image></image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Second release</change>
+		<change>It has feature 1</change>
+		<change>It has feature 2</change>
 	</changelog>
 	<links>
 		<link>
 			<name>Discord</name>
 			<url>https://discord.gg/azYJZve</url>
-			<iconclass>discord</iconclass>
+			<iconclass>fa fa-Discord</iconclass>
 		</link>
 	</links>
 </package>

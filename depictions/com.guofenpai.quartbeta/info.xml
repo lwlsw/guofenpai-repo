@@ -1,5 +1,5 @@
 <package>
-	<id>com.guifenpai.quartbeta</id>
+	<id>com.guofenpai.quart</id>
 	<name>Quart</name>
 	<version>0.1</version>
 	<compatibility>
@@ -7,7 +7,7 @@
 			<maxiOS>14</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 			<!--
-			全新的通知欄
+			for otherVersions, you can put either unsupported or unconfirmed
 			-->
 		</firmware>
 	</compatibility>
