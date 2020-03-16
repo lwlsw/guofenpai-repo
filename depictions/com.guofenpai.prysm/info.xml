@@ -1,14 +1,14 @@
 <package>
-	<id>com.guofenpai.quart</id>
-	<name>Quart</name>
-	<version>0.1</version>
+	<id>com.guofenpai.prysm</id>
+	<name>Prysm</name>
+	<version>1.4.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>14</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate</package>
+		<package>mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport</package>
 	</dependencies>
 	<shortDescription>果粉派</shortDescription>
 	<descriptionlist>
@@ -22,8 +22,8 @@
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>全新通知欄</description>
-			<image>quart.jpg</image>
+			<description>煥然一新的人控制中心</description>
+			<image>prysm.jpg</image>
 		</screenshot>		
 		<screenshot>
 			<description></description>
