@@ -8,7 +8,8 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate, com.rpetrich.rocketbootstrap, preferenceloader, com.laughingquoll.prefixui, com.spark.libsparkapplist</package>
+		<package>mobilesubstrate, com.rpetrich.rocketbootstrap, preferenceloader, com.laughingquoll.prefixui, com.spark.libsparkapplist
+</package>
 	</dependencies>
 	<shortDescription>果粉派</shortDescription>
 	<descriptionlist>
@@ -17,9 +18,9 @@
 		<description><![CDATA[
 		果粉派<br/> 
 		集美化、破解、分享、交流為一體的團體！
-		]]>
-		</description>
+		]]></description>
 	</descriptionlist>
+
 	<screenshots>
 		<screenshot>
 			<description>智能方向鎖</description>
