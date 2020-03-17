@@ -227,4 +227,5 @@ MD5sum: 45fca4ccf11554162e4349234d63f158
 SHA1:  649557604b706b43f5ba06910234498ac0707649
 SHA256: 02a8d0f9ff1f27c47d6c66b6b636b62b6466ecf0eff55ef44da32dd7b2ba8307
 Description: Should be used only by IArrays products. This is closed library and no support is provided for this package.
+Name: libiarrays
 Author: 果粉派 <email@gmail.com>
