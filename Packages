@@ -1,0 +1,13 @@
+Package: com.gfp.prysm
+Version: 1.4.1
+Section: Tweaks
+Maintainer: 果粉派 <gfp@gmail.com>
+Depends: mobilesubstrate,com.laughingquoll.prefixui, com.opa334.ccsupport
+Architecture: iphoneos-arm
+Filename: ./debs/com.gfp.prysm.deb
+Size: 149
+MD5sum: e6fce2505da50960103965210265e119
+Description: 煥然一新的控制中心
+Name: Prysm
+Author: 果粉派 <gfp@gmail.com>
+Depiction: https://guofenpai.github.io/repo/depictions/?p=com.gfp.prysm
