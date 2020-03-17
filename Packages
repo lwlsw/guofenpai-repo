@@ -111,7 +111,7 @@ Package: com.gfp.ultrasound
 Version: 1.2.13
 Section: Tweaks
 Maintainer: 果粉派 <email@gmail.com>
-Depends: mobilesubstrate,preferenceloader
+Depends: 
 Filename: ./debs/com.gfp.ultrasound.deb
 Size: 344
 Depiction: https://guofenpai.github.io/repo/depictions/?p=com.gfp.ultrasound
@@ -119,7 +119,7 @@ MD5sum: 81741704e1df145bcc94a514a010109b
 SHA1:  4a6af65f99165aef7ece2c2bdc6257c7797c32d2
 SHA256: 537ad69b0741d54864d05df83a2b3b9368bc32c68641c7bcb33bf440fde91cca
 Description: Customize your volume HUD.
-Name: Uktrasound
+Name: Ultrasound
 Author: 果粉派 <email@gmail.com>
 
 Package: com.gfp.shortlook
