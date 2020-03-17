@@ -82,3 +82,84 @@ SHA256: f698ed08029d8a1285c147937afdf616b879a90bca5864c1e28ae6ef9205ef46
 Description: 簡約鎖屏時鐘
 Name: Jellyfish
 Author: 果粉派 <email@gmail.com>
+
+
+Package: com.gfp.appleturboboost
+Version: 0.5.0
+Section: Tweaks
+Maintainer: 果粉派 <email@gmail.com>
+Depends: firmware (>= 12.0), darwintools, com.bingner.plutil (>= 0.1.0), sed, system-cmds
+Architecture: iphoneos-arm
+Filename: ./debs/com.gfp.appleturboboost.deb
+Size: 2
+Depiction: https://guofenpai.github.io/repo/depictions/?p=com.gfp.appleturboboost
+MD5sum: 4bd7f9341d295d9488cb720da7571b1b
+SHA1:  49745c1b01a3d094e098814027b5aa1ab7d23a0d
+SHA256: d01d8bf8ddbebe5761056081516c4f96f68e420a9adc69fc3a224b316ebbadab
+Description: 降頻插件
+Name: Apple Turbo Boost
+Author: 果粉派 <email@gmail.com>
+
+
+Package: com.gfp.sedfix
+Version: 100.3
+Section: Systems
+Maintainer: 果粉派 <email@gmail.com>
+Depends:
+Filename: ./debs/com.gfp.sedfix.deb
+Size: 260
+Depiction: https://guofenpai.github.io/repo/depictions/?p=com.gfp.sedfix
+MD5sum: cfd86fd7826d521968ec3b70eb908677
+SHA1:  146c08f5140872e63a654522c1c5a2ef882efec7
+SHA256: 74186b5e394189bb778ed657f46564a920fe2b7a27378db58b805996cc27b123
+Description: P佬破解必備依賴
+Name: CracksHelper
+Author: 果粉派 <email@gmail.com>
+
+
+Package: com.gfp.gump
+Version: 2.0
+Section: Tweaks
+Maintainer: 果粉派 <email@gmail.com>
+Depends: mobilesubstrate, firmware (>= 13.0), applist
+Filename: ./debs/com.gfp.gump.deb
+Size: 111
+Depiction: https://guofenpai.github.io/repo/depictions/?p=com.gfp.gump
+MD5sum: cfd86fd7826d521968ec3b70eb908677
+SHA1:  146c08f5140872e63a654522c1c5a2ef882efec7
+SHA256: 74186b5e394189bb778ed657f46564a920fe2b7a27378db58b805996cc27b123
+Description: 真實常駐後台
+Name: Gump
+Author: 果粉派 <email@gmail.com>
+
+
+Package: com.gfp.nfcwriterxs
+Version: 3.2-16
+Section: Tweaks
+Maintainer: 果粉派 <email@gmail.com>
+Depends: mobilesubstrate, net.limneos.libbulletin
+Filename: ./debs/com.gfp.nfcwriterxs.deb
+Size: 964
+Depiction: https://guofenpai.github.io/repo/depictions/?p=com.gfp.nfcwriterxs
+MD5sum: 2a34274aec8bd4a2b295eca75e3541d2
+SHA1:  f08fd787db315bb404d751ebc233a367ec75a28b
+SHA256: b941d56b6faf07cd89aa4e08225472573e322670926bd662f3127cf406f4ce53
+Description: NFCWriter XS for iOS 11/12/13, (ISSUE CRACK CONFLICT with CallbarXS, AudiorecorderXS, BioprotectXS).
+Name: NFCWriter XS
+Author: 果粉派 <email@gmail.com>
+
+
+Package: com.gfp.kalm
+Version: 1.3.2
+Section: Tweaks
+Maintainer: 果粉派 <email@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.gfp.kalm.deb
+Size: 278
+Depiction: https://guofenpai.github.io/repo/depictions/?p=com.gfp.kalm
+MD5sum: fa50da9584a413b13038ed000880345a
+SHA1:  86665ee21881738249b22943ea5f25b81ab9aa77
+SHA256: 2e8651eeb1ee1073ee6d38f349dae1393fc7d8a87c92eacfd7c71bec1a869223
+Description: A beautiful first sight.
+Name: Kalm
+Author: 果粉派 <email@gmail.com>
