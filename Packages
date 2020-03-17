@@ -5,8 +5,8 @@ Maintainer: 果粉派 <gfp@gmail.com>
 Depends: mobilesubstrate,com.laughingquoll.prefixui, com.opa334.ccsupport
 Architecture: iphoneos-arm
 Filename: ./debs/com.gfp.prysm.deb
-Size: 149
-MD5sum: e6fce2505da50960103965210265e119
+Size: 394
+MD5sum: c683875a9d50ab8b0a649295282ecc35
 Description: 煥然一新的控制中心
 Name: Prysm
 Author: 果粉派 <gfp@gmail.com>
