@@ -109,21 +109,6 @@ Description: 真實常駐後台
 Name: Gump
 Author: 果粉派 <email@gmail.com>
 
-Package: com.gfp.nfcwriterxs
-Version: 3.2-16
-Section: Utilities
-Maintainer: 果粉派 <email@gmail.com>
-Depends: mobilesubstrate, net.limneos.libbulletin
-Filename: ./debs/com.gfp.nfcwriterxs.deb
-Size: 964
-Depiction: https://guofenpai.github.io/repo/depictions/?p=com.gfp.nfcwriterxs
-MD5sum: 2a34274aec8bd4a2b295eca75e3541d2
-SHA1:  f08fd787db315bb404d751ebc233a367ec75a28b
-SHA256: b941d56b6faf07cd89aa4e08225472573e322670926bd662f3127cf406f4ce53
-Description: NFCWriter XS for iOS 11/12/13, (ISSUE CRACK CONFLICT with CallbarXS, AudiorecorderXS, BioprotectXS).
-Name: NFCWriter XS
-Author: 果粉派 <email@gmail.com>
-
 Package: com.gfp.kalm
 Version: 1.3.2
 Section: Tweaks
@@ -167,21 +152,6 @@ SHA1:  8591a42449c419735fcc5af47b3306c18b212f54
 SHA256: 01fd540c7d945086181e5cfa5d977560c9d44b27cedc025d528dbecde2524f1d
 Description: 熄屏通知大頭像
 Name: ShortLook
-Author: 果粉派 <email@gmail.com>
-
-Package: com.gfp.safeshutdown
-Version: 1.60
-Section: Tweaks
-Maintainer: 果粉派 <email@gmail.com>
-Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader, net.limneos.libbulletin, ws.hbang.common (>= 1.11)
-Filename: ./debs/com.gfp.safeshutdown.deb
-Size: 9326858
-Depiction: https://guofenpai.github.io/repo/depictions/?p=com.gfp.safeshutdown
-MD5sum: 008528cc40f4e089071ed363eb2728a3
-SHA1:  72778997d2f1fb2456c8250ba493a01ba01e76d2
-SHA256: 7e7e7dd2ec62517921fd070fed629e166775709df4972272f678e516b2d680b2
-Description: Avoid re-jailbreaking when your iDevice have not battery.
-Name: SafeShutdown
 Author: 果粉派 <email@gmail.com>
 
 Package: com.gfp.lockpluspro
