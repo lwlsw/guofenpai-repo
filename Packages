@@ -14,6 +14,7 @@ Description: 全新通知欄
 Name: Quart
 Author: 果粉派 <email@gmail.com>
 
+
 Package: com.guofenpai.betterrotate
 Version: 1.3.6
 Section: Tweaks
@@ -30,6 +31,7 @@ Description: 智能方向鎖
 Name: SmartRotate
 Author: 果粉派 <email@gmail.com>
 
+
 Package: com.laughingquoll.prysm
 Version: 1.4.1
 Section: Tweaks
@@ -45,6 +47,7 @@ SHA256: c48eed5f2f7539bb19a27bb2916e2472bc013e773880a1e9a0f539d078c27dc8
 Description: 煥然一新的控制中心
 Name: Prysm
 Author: 果粉派 <email@gmail.com>
+
 
 Package: com.guofenpai.magmaevo
 Version: 1.1.6
@@ -63,6 +66,7 @@ Description:控制中心美化
 Name: Magma EVO
 Author: 果粉派 <email@gmail.com>
 
+
 Package: com.gfp.jellyfish
 Version: 1.3.3
 Section: Tweaks
@@ -78,6 +82,7 @@ SHA256: f698ed08029d8a1285c147937afdf616b879a90bca5864c1e28ae6ef9205ef46
 Description: 簡約鎖屏時鐘
 Name: Jellyfish
 Author: 果粉派 <email@gmail.com>
+
 
 Package: com.gfp.appleturboboost
 Version: 0.5.0
@@ -95,6 +100,7 @@ Description: 降頻插件
 Name: Apple Turbo Boost
 Author: 果粉派 <email@gmail.com>
 
+
 Package: com.gfp.sedfix
 Version: 100.3
 Section: System
@@ -109,6 +115,7 @@ SHA256: 74186b5e394189bb778ed657f46564a920fe2b7a27378db58b805996cc27b123
 Description: P佬破解必備依賴
 Name: CracksHelper
 Author: 果粉派 <email@gmail.com>
+
 
 Package: com.gfp.gump
 Version: 2.0
@@ -125,6 +132,7 @@ Description: 真實常駐後台
 Name: Gump
 Author: 果粉派 <email@gmail.com>
 
+
 Package: com.gfp.nfcwriterxs
 Version: 3.2-16
 Section: Utilities
@@ -139,6 +147,7 @@ SHA256: b941d56b6faf07cd89aa4e08225472573e322670926bd662f3127cf406f4ce53
 Description: NFCWriter XS for iOS 11/12/13, (ISSUE CRACK CONFLICT with CallbarXS, AudiorecorderXS, BioprotectXS).
 Name: NFCWriter XS
 Author: 果粉派 <email@gmail.com>
+
 
 Package: com.gfp.kalm
 Version: 1.3.2
@@ -155,6 +164,7 @@ Description: A beautiful first sight.
 Name: Kalm
 Author: 果粉派 <email@gmail.com>
 
+
 Package: com.gfp.ultrasound
 Version: 1.2.13
 Section: Tweaks
@@ -169,6 +179,7 @@ SHA256: 537ad69b0741d54864d05df83a2b3b9368bc32c68641c7bcb33bf440fde91cca
 Description: Customize your volume HUD.
 Name: Uktrasound
 Author: 果粉派 <email@gmail.com>
+
 
 Package: com.gfp.shortlook
 Version: 1.0.17
@@ -185,6 +196,7 @@ Description: 熄屏通知大頭像
 Name: ShortLook
 Author: 果粉派 <email@gmail.com>
 
+
 Package: com.gfp.safeshutdown
 Version: 1.60
 Section: Tweaks
@@ -200,6 +212,7 @@ Description: Avoid re-jailbreaking when your iDevice have not battery.
 Name: SafeShutdown
 Author: 果粉派 <email@gmail.com>
 
+
 Package: com.gfp.lockpluspro
 Version: 1.60
 Section: Tweaks
@@ -214,6 +227,7 @@ SHA256: f2a5ba6e31093a70ed5c4f3be9c3b03e7bc2e5f36abe408636ec2e9f438b9881
 Description: The ultimate lock screen tweak!
 Name: LockPlus Pro
 Author: 果粉派 <email@gmail.com>
+
 
 Package: com.gfp.libiarrays
 Version: 1.0.11-beta-10
