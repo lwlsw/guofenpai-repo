@@ -1,0 +1,45 @@
+<package>
+	<id>com.gfp.safeshutdown</id>
+	<name>SafeShutdown</name>
+	<version>1.60</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate, firmware (>= 10.0), preferenceloader, net.limneos.libbulletin, ws.hbang.common (>= 1.11)</package>
+	</dependencies>
+	<shortDescription>果粉派</shortDescription>
+	<descriptionlist>
+		<description></description>
+		<description></description>
+		<description><![CDATA[
+		果粉派<br/> 
+		集美化、破解、分享、交流為一體的團體！
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Avoid re-jailbreaking when your iDevice have not battery.</description>
+			<image>safeshutdown.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description></description>
+			<image></image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>❤️❤️❤️❤️</change>
+		<change>感謝您的支持</change>
+		<change>❤️❤️❤️❤️</change>
+	</changelog>
+	<links>
+		<link>
+			<name>加入Discord群組</name>
+			<url>https://discord.gg/azYJZve</url>
+			<iconclass>fa fa-Discord</iconclass>
+		</link>
+	</links>
+</package>

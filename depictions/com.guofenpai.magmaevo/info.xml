@@ -1,0 +1,46 @@
+<package>
+	<id>com.guofenpai.magmaevo</id>
+	<name>Magma EVO</name>
+	<version>1.1.6</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate, firmware (>= 12.0), preferenceloader, com.opa334.ccsupport, org.thebigboss.libcolorpicker (>= 1.6.7)
+ Conflicts: com.noisyflake.magma, com.noisyflake.magmapro</package>
+	</dependencies>
+	<shortDescription>果粉派</shortDescription>
+	<descriptionlist>
+		<description></description>
+		<description></description>
+		<description><![CDATA[
+		果粉派<br/> 
+		集美化、破解、分享、交流為一體的團體！
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>控制中心美化</description>
+			<image>megmaevo.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description></description>
+			<image></image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>❤️❤️❤️❤️</change>
+		<change>感謝您的支持</change>
+		<change>❤️❤️❤️❤️</change>
+	</changelog>
+	<links>
+		<link>
+			<name>加入Discord群組</name>
+			<url>https://discord.gg/azYJZve</url>
+			<iconclass>fa fa-Discord</iconclass>
+		</link>
+	</links>
+</package>

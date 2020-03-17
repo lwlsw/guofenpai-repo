@@ -1,0 +1,45 @@
+<package>
+	<id>com.gfp.ultrasound</id>
+	<name>Ultrasound</name>
+	<version>1.2.13</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate, firmware (>= 11.0), preferenceloader</package>
+	</dependencies>
+	<shortDescription>果粉派</shortDescription>
+	<descriptionlist>
+		<description></description>
+		<description></description>
+		<description><![CDATA[
+		果粉派<br/> 
+		集美化、破解、分享、交流為一體的團體！
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Customize your volume HUD.</description>
+			<image>ultrasound.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description></description>
+			<image></image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>❤️❤️❤️❤️</change>
+		<change>感謝您的支持</change>
+		<change>❤️❤️❤️❤️</change>
+	</changelog>
+	<links>
+		<link>
+			<name>加入Discord群組</name>
+			<url>https://discord.gg/azYJZve</url>
+			<iconclass>fa fa-Discord</iconclass>
+		</link>
+	</links>
+</package>

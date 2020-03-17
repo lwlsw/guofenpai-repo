@@ -1,13 +1,215 @@
-Package: com.gfp.prysm
-Version: 1.4.1
+Package: com.guofenpai.quart
+Version: 0.1
 Section: Tweaks
-Maintainer: 果粉派 <gfp@gmail.com>
-Depends: mobilesubstrate,com.laughingquoll.prefixui, com.opa334.ccsupport
+Maintainer: 果粉派 <email@gmail.com>
+Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.gfp.prysm.deb
-Size: 394
-MD5sum: c683875a9d50ab8b0a649295282ecc35
-Description: 煥然一新的控制中心
-Name: Prysm
-Author: 果粉派 <gfp@gmail.com>
-Depiction: https://guofenpai.github.io/repo/depictions/?p=com.gfp.prysm
+Filename: ./debs/com.guofenpai.quart.deb
+Size: 149
+Depiction: https://guofenpai.github.io/repo/depictions/?p=com.guofenpai.quart
+MD5sum: F913901F6ABB045349A0FEE5F560DF8C
+SHA1:  4E88CFD26449CE6ABC8199AD780B6B5A1CBDAAF3
+SHA256: ACD8881E191FBBB5821EC8388770762BDE83BE832C6B3E1A7BA1F721687425B5
+Description: 全新通知欄
+Name: Quart
+Author: 果粉派 <email@gmail.com>
+
+Package: com.guofenpai.betterrotate
+Version: 1.3.6
+Section: Tweaks
+Maintainer: 果粉派 <email@gmail.com>
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap, preferenceloader, com.laughingquoll.prefixui, com.spark.libsparkapplist
+Architecture: iphoneos-arm
+Filename: ./debs/com.guofenpai.betterrotate.deb
+Size: 62
+Depiction: https://guofenpai.github.io/repo/depictions/?p=com.guofenpai.smsrtrotate
+MD5sum: c5ffe2dda0ab4d296b25dac3c2b98f6d
+SHA1:  16c5bedf9befd144f1aec8fadf2b439f496fb6fd
+SHA256: 353cfb49a539462fc3f62c86774746e286e01ea8bfdca41296ff06d943522d13
+Description: 智能方向鎖
+Name: SmartRotate
+Author: 果粉派 <email@gmail.com>
+
+Package: com.guofenpai.magmaevo
+Version: 1.1.6
+Section: Tweaks
+Maintainer: 果粉派 <email@gmail.com>
+Depends: mobilesubstrate, firmware (>= 12.0), preferenceloader, com.opa334.ccsupport, org.thebigboss.libcolorpicker (>= 1.6.7)
+ Conflicts: com.noisyflake.magma, com.noisyflake.magmapro
+Architecture: iphoneos-arm
+Filename: ./debs/com.guofenpai.magmaevo.deb
+Size: 149
+Depiction: https://guofenpai.github.io/repo/depictions/?p=com.guofenpai.magmaevo
+MD5sum: 3b401d38fe4f13dff8811b12c56d6491
+SHA1:  a9bce56e819b7e2bd778fde39800cb0a09797be4
+SHA256: fc44a1cd021dda221c6f0edf6aecd44bc6429fab8c5a9ab000d8dfe0415405c5
+Description:控制中心美化
+Name: Magma EVO
+Author: 果粉派 <email@gmail.com>
+
+Package: com.gfp.jellyfish
+Version: 1.3.3
+Section: Tweaks
+Maintainer: 果粉派 <email@gmail.com>
+Depends: mobilesubstrate,preferenceloader,firmware (>= 11.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.gfp.jellyfish.deb
+Size: 192
+Depiction: https://guofenpai.github.io/repo/depictions/?p=com.gfp.jellyfish
+MD5sum: c90756f0fff56cfb684d2ecaca4de977
+SHA1:  243e47194038ed85beb5e7226c547e9d6a94078c
+SHA256: f698ed08029d8a1285c147937afdf616b879a90bca5864c1e28ae6ef9205ef46
+Description: 簡約鎖屏時鐘
+Name: Jellyfish
+Author: 果粉派 <email@gmail.com>
+
+Package: com.gfp.appleturboboost
+Version: 0.5.0
+Section: Tweaks
+Maintainer: 果粉派 <email@gmail.com>
+Depends: firmware (>= 12.0), darwintools, com.bingner.plutil (>= 0.1.0), sed, system-cmds
+Architecture: iphoneos-arm
+Filename: ./debs/com.gfp.appleturboboost.deb
+Size: 2
+Depiction: https://guofenpai.github.io/repo/depictions/?p=com.gfp.appleturboboost
+MD5sum: 4bd7f9341d295d9488cb720da7571b1b
+SHA1:  49745c1b01a3d094e098814027b5aa1ab7d23a0d
+SHA256: d01d8bf8ddbebe5761056081516c4f96f68e420a9adc69fc3a224b316ebbadab
+Description: 降頻插件
+Name: Apple Turbo Boost
+Author: 果粉派 <email@gmail.com>
+
+Package: com.gfp.sedfix
+Version: 100.3
+Section: System
+Maintainer: 果粉派 <email@gmail.com>
+Depends:
+Filename: ./debs/com.gfp.sedfix.deb
+Size: 260
+Depiction: https://guofenpai.github.io/repo/depictions/?p=com.gfp.sedfix
+MD5sum: cfd86fd7826d521968ec3b70eb908677
+SHA1:  146c08f5140872e63a654522c1c5a2ef882efec7
+SHA256: 74186b5e394189bb778ed657f46564a920fe2b7a27378db58b805996cc27b123
+Description: P佬破解必備依賴
+Name: CracksHelper
+Author: 果粉派 <email@gmail.com>
+
+Package: com.gfp.gump
+Version: 2.0
+Section: Tweaks
+Maintainer: 果粉派 <email@gmail.com>
+Depends: mobilesubstrate, firmware (>= 13.0), applist
+Filename: ./debs/com.gfp.gump.deb
+Size: 111
+Depiction: https://guofenpai.github.io/repo/depictions/?p=com.gfp.gump
+MD5sum: cfd86fd7826d521968ec3b70eb908677
+SHA1:  146c08f5140872e63a654522c1c5a2ef882efec7
+SHA256: 74186b5e394189bb778ed657f46564a920fe2b7a27378db58b805996cc27b123
+Description: 真實常駐後台
+Name: Gump
+Author: 果粉派 <email@gmail.com>
+
+Package: com.gfp.nfcwriterxs
+Version: 3.2-16
+Section: Utilities
+Maintainer: 果粉派 <email@gmail.com>
+Depends: mobilesubstrate, net.limneos.libbulletin
+Filename: ./debs/com.gfp.nfcwriterxs.deb
+Size: 964
+Depiction: https://guofenpai.github.io/repo/depictions/?p=com.gfp.nfcwriterxs
+MD5sum: 2a34274aec8bd4a2b295eca75e3541d2
+SHA1:  f08fd787db315bb404d751ebc233a367ec75a28b
+SHA256: b941d56b6faf07cd89aa4e08225472573e322670926bd662f3127cf406f4ce53
+Description: NFCWriter XS for iOS 11/12/13, (ISSUE CRACK CONFLICT with CallbarXS, AudiorecorderXS, BioprotectXS).
+Name: NFCWriter XS
+Author: 果粉派 <email@gmail.com>
+
+Package: com.gfp.kalm
+Version: 1.3.2
+Section: Tweaks
+Maintainer: 果粉派 <email@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.gfp.kalm.deb
+Size: 278
+Depiction: https://guofenpai.github.io/repo/depictions/?p=com.gfp.kalm
+MD5sum: fa50da9584a413b13038ed000880345a
+SHA1:  86665ee21881738249b22943ea5f25b81ab9aa77
+SHA256: 2e8651eeb1ee1073ee6d38f349dae1393fc7d8a87c92eacfd7c71bec1a869223
+Description: A beautiful first sight.
+Name: Kalm
+Author: 果粉派 <email@gmail.com>
+
+Package: com.gfp.ultrasound
+Version: 1.2.13
+Section: Tweaks
+Maintainer: 果粉派 <email@gmail.com>
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
+Filename: ./debs/com.gfp.ultrasound.deb
+Size: 344
+Depiction: https://guofenpai.github.io/repo/depictions/?p=com.gfp.ultrasound
+MD5sum: 81741704e1df145bcc94a514a010109b
+SHA1:  4a6af65f99165aef7ece2c2bdc6257c7797c32d2
+SHA256: 537ad69b0741d54864d05df83a2b3b9368bc32c68641c7bcb33bf440fde91cca
+Description: Customize your volume HUD.
+Name: Uktrasound
+Author: 果粉派 <email@gmail.com>
+
+Package: com.gfp.shortlook
+Version: 1.0.17
+Section: Tweaks
+Maintainer: 果粉派 <email@gmail.com>
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, com.gfp.sedfix
+Filename: ./debs/com.gfp.shortlook.deb
+Size: 344
+Depiction: https://guofenpai.github.io/repo/depictions/?p=com.gfp.shortlook
+MD5sum: ff4865730e765eb63c848961e7c01447
+SHA1:  8591a42449c419735fcc5af47b3306c18b212f54
+SHA256: 01fd540c7d945086181e5cfa5d977560c9d44b27cedc025d528dbecde2524f1d
+Description: 熄屏通知大頭像
+Name: ShortLook
+Author: 果粉派 <email@gmail.com>
+
+Package: com.gfp.safeshutdown
+Version: 1.60
+Section: Tweaks
+Maintainer: 果粉派 <email@gmail.com>
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader, net.limneos.libbulletin, ws.hbang.common (>= 1.11)
+Filename: ./debs/com.gfp.safeshutdown.deb
+Size: 9326858
+Depiction: https://guofenpai.github.io/repo/depictions/?p=com.gfp.safeshutdown
+MD5sum: 008528cc40f4e089071ed363eb2728a3
+SHA1:  72778997d2f1fb2456c8250ba493a01ba01e76d2
+SHA256: 7e7e7dd2ec62517921fd070fed629e166775709df4972272f678e516b2d680b2
+Description: Avoid re-jailbreaking when your iDevice have not battery.
+Name: SafeShutdown
+Author: 果粉派 <email@gmail.com>
+
+Package: com.gfp.lockpluspro
+Version: 1.60
+Section: Tweaks
+Maintainer: 果粉派 <email@gmail.com>
+Depends: firmware (>= 12.0), darwintools, com.bingner.plutil (>= 0.1.0), sed, system-cmds
+Filename: ./debs/com.gfp.lockpluspro.deb
+Size: 19264944
+Depiction: https://guofenpai.github.io/repo/depictions/?p=com.gfp.lockpluspro
+MD5sum: 5c0b3144f11e8a64e24777799578d5b2
+SHA1:  b73e417cfa9f0c5070f8199c092b21a20efcea5b
+SHA256: f2a5ba6e31093a70ed5c4f3be9c3b03e7bc2e5f36abe408636ec2e9f438b9881
+Description: The ultimate lock screen tweak!
+Name: LockPlus Pro
+Author: 果粉派 <email@gmail.com>
+
+Package: com.gfp.libiarrayshack
+Version: 1.0.11-beta-10
+Section: Development
+Maintainer: 果粉派 <email@gmail.com>
+Depends: firmware (>=7.0)
+Filename: ./debs/com.gfp.libiarrays.deb
+Size: 289
+Depiction: https://guofenpai.github.io/repo/depictions/?p=com.gfp.libiarrays
+MD5sum: 45fca4ccf11554162e4349234d63f158
+SHA1:  649557604b706b43f5ba06910234498ac0707649
+SHA256: 02a8d0f9ff1f27c47d6c66b6b636b62b6466ecf0eff55ef44da32dd7b2ba8307
+Description: Should be used only by IArrays products. This is closed library and no support is provided for this package.
+Name: libiarrays hack
+Author: 果粉派 <email@gmail.com>
