@@ -1,15 +1,13 @@
 Package: com.laughingquoll.prysm
 Version: 1.4.1
 Section: Tweaks
-Maintainer: 果粉派 <email@gmail.com>
-Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
+Maintainer: 果粉派 <gfp@gmail.com>
+Depends: mobilesubstrate，com.laughingquoll.prefixui, com.opa334.ccsupport
 Architecture: iphoneos-arm
 Filename: ./debs/com.laughingquoll.prysm.deb
 Size: 149
-Depiction: https://guofenpai.github.io/repo/depictions/?p=com.guofenpai.prysm
 MD5sum: e6fce2505da50960103965210265e119
-SHA1:  7e124404072506d4ff27632e33e6526db6ee581c
-SHA256: c48eed5f2f7539bb19a27bb2916e2472bc013e773880a1e9a0f539d078c27dc8
 Description: 煥然一新的控制中心
 Name: Prysm
-Author: 果粉派 <email@gmail.com>
+Author: 果粉派 <gfp@gmail.com>
+Depiction: https://guofenpai.github.io/repo/depictions/?p=com.gfp.prysm
