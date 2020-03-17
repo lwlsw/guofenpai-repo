@@ -115,9 +115,9 @@ Depends:
 Filename: ./debs/com.gfp.ultrasound.deb
 Size: 344
 Depiction: https://guofenpai.github.io/repo/depictions/?p=com.gfp.ultrasound
-MD5sum: 81741704e1df145bcc94a514a010109b
-SHA1:  4a6af65f99165aef7ece2c2bdc6257c7797c32d2
-SHA256: 537ad69b0741d54864d05df83a2b3b9368bc32c68641c7bcb33bf440fde91cca
+MD5sum: 53203e94a2ba89d7f87592545a80550e
+SHA1:  43a0a1bd1130f85457cae7e829e7757b2c4b7b75
+SHA256: 39e93e32227a5def94b072a09b9563158dee1c25f0f9cdefd9019d1ecdc17913
 Description: Customize your volume HUD.
 Name: Ultrasound
 Author: 果粉派 <email@gmail.com>
