@@ -15,6 +15,23 @@ Description: New notification concept
 Author: beta
 Name: Dayn
 
+Package: com.gfp.backgrounderaction13
+Version: 0.1.4
+Architecture: iphoneos-arm
+Maintainer: akusio <akusio-report@neko2.net>
+Installed-Size: 244
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: debs/com.gfp.backgrounderaction13_0.1.4_iphoneos-arm.deb
+Size: 20392
+MD5sum: ea5c50c685a3d77accf3c1c3f652e935
+SHA1: 403ed7767d4d7a2e44de130c5e1cd95fa297cc8d
+SHA256: 441351ac6806741bd64223143ba7b6380cd3b7180f7faa81f547b47427623745
+Section: Tweaks
+Description: [iOS13]Add "Toggle Background Mode" action to ControlCenter.
+Author: akusio <akusio-report@neko2.net>
+Depiction: https://akusio.github.io/descriptions/backgrounderaction13/index.html
+Name: BackgrounderAction2 for CCSupport
+
 Package: com.gfp.maple2
 Version: 1.2
 Section: Tweaks
@@ -44,23 +61,6 @@ Section: Utilities
 Description: Apps管理器
 Author: gfp
 Name: Apps Manager
-
-Package: com.gfp.backgrounderaction13
-Version: 0.1.4
-Architecture: iphoneos-arm
-Maintainer: akusio <akusio-report@neko2.net>
-Installed-Size: 244
-Depends: mobilesubstrate, com.opa334.ccsupport
-Filename: debs/com.gfp.backgrounderaction13_0.1.4_iphoneos-arm.deb
-Size: 20414
-MD5sum: dd887b06efda34a9af01b0a15f077320
-SHA1: 50f3fe173ec982b2d95f0f70eb5e9a9bf7d4abdf
-SHA256: bd68df6307bb12a967b83c78d80d214a08821f1a56afcf40e158dad1a9b45855
-Section: Tweaks
-Description: [iOS13]Add "Toggle Background Mode" action to ControlCenter.
-Author: gfp <email@gmail.com>
-Depiction:
-Name: BackgrounderAction2 for CCSupport
 
 Package: com.gfp.filza64bit
 Version: 3.7.4-12
@@ -331,42 +331,6 @@ Section: Tweaks
 Description: 開啟微信Callkit通話・Open the Callkit Call Function of Wechat
 Name: WeChat Callkit
 
-Package: com.gfp.bioprotectxs
-Version: 4.4-3
-Architecture: iphoneos-arm
-Maintainer: gfp
-Installed-Size: 3416
-Depends: mobilesubstrate, preferenceloader, firmware (>= 12)
-Filename: debs/com.gfp.bioprotectxs_4.4-3_iphoneos-arm.deb
-Size: 1101766
-MD5sum: 7cff8d2aaa95837c0ba6fe50034c9766
-SHA1: 1747c662c6618192e401d3954946c2d55956b041
-SHA256: 4d2a4262134eb575684af0fd1eee323a97e3eed1a4da5b7b40279e31e71bbb72
-Section: Tweaks
-Description: Protect your apps with Touch/Face ID!
-Author: Elias Limneos <limneoselias@gmail.com>
-Icon: https://www.limneos.net/cydia/packageImages/net.limneos.bioprotectxs/icon.png?fe=276
-Name: BioProtect XS (iOS 12/13)
-
-Package: com.gfp.callbarxs
-Version: 2.3-75-1
-Architecture: iphoneos-arm
-Maintainer: gfp
-Installed-Size: 1356
-Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions, firmware ( >= 12), com.gfp.sedfix, wget
-Conflicts: com.hackyouriphone.limneosos, net.limneos.callbarx, com.pulandres.limneosos, ru.rejail.limneosos
-Replaces: net.limneos.callbarxs
-Filename: debs/com.gfp.callbarxs_2.3-75-1_iphoneos-arm.deb
-Size: 423760
-MD5sum: 90c6f61a336fb4d2fcbe475757009cab
-SHA1: 3e9492cfd1bec6c81dc94edf8f7ab24e3361c518
-SHA256: f22b34dcaeda95b98b146f84710950de453808db00f7374ac611c57c58678645
-Section: Tweaks
-Description: Change the style of your UI Calls
-Author: Elias Limneos <limneoselias@gmail.com>
-Icon: https://www.limneos.net/cydia/packageImages/net.limneos.callbarxs/icon.png?fe=169
-Name: CallBar XS (iOS 12/13)
-
 Package: com.gfp.callblocker
 Version: 2.0.3
 Architecture: iphoneos-arm
@@ -383,23 +347,3 @@ Description: Block annoying Callers!
 Author: 果粉派 <email@gmail.com>
 Icon: file:///Library/Application Support/CallBlocker/icon.png
 Name: CallBlocker
-
-Package: com.gfp.sedfix
-Version: 100.3
-Architecture: iphoneos-arm
-Maintainer: gfp
-Installed-Size: 1000
-Depends: mobilesubstrate
-Replaces: com.hackyouriphone.sedfix
-Filename: debs/com.gfp.sedfix_100.3_iphoneos-arm.deb
-Size: 260004
-MD5sum: f3edfd1a3d189985176db0124e9a14c1
-SHA1: f3ebcc4be2ee220313edeea0f2af4a7386986338
-SHA256: ba7f7d4b76b6660cc5f46dfc3aa80450f63338c6de7f845c0d6426c02ec43513
-Section: System
-Description: Package to get working Cracked Tweaks, IMPORTANT to future cracks, install please.
-Author: gfp
-Icon: https://repo.pulandres.me/CydiaIcon.png
-Name: CracksHelper
-
-
