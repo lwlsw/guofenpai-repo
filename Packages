@@ -298,14 +298,15 @@ Installed-Size: 984
 Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
 Conflicts: com.ruler225.videohud, com.spark.melior, net.midkin.smartvolumecontrol2, es.ubikstyl.sonus12, me.nepeta.brokenhud, me.nepeta.flashyhud
 Filename: debs/com.gfp.ultrasound_1.2.13_iphoneos-arm.deb
-Size: 343576
-MD5sum: 7c7358f9876469c2e8b8cb15b9e2a6b6
-SHA1: c9d762f411d1b916cde87c9235263e3264deec90
-SHA256: 0f08756a7d8e24fbbec3d500d1c6b8a25faa7123374b73b660164b0156f15a44
+Size: 343612
+MD5sum: 410d4d011494659765325dd4abca3438
+SHA1: 64dce8e9f84faf26a81ba661c0cdb798314e046d
+SHA256: 017ae83dfabaf2a2ea412373bc0d61bfde1699e5d54a2135b4e37fe0adcf3168
 Section: Tweaks
 Description: Customize your volume HUD.
 Author: Ayden Panhuyzen
+Depiction: https://repo.pulandres.me/index.php?pid=1469
 Icon: https://repo.dynastic.co/data/static/version/284207023250210816/284207023485091840?size=180
-Name: Ultrasound
-
+Name: Ultra sound
+Sileodepiction: https://repo.pulandres.me/sileo.php?pid=1469
 
