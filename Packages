@@ -228,17 +228,17 @@ Description: A brand-new, unobtrusive, OLED-friendly volume HUD.
 Author: Ayden Panhuyzen
 Name: Ultrasound
 
-Package: com.laughingquoll.prysm
+Package: com.gfp.prysm
 Version: 1.4.1
 Architecture: iphoneos-arm
 Maintainer: LaughingQuoll
 Installed-Size: 1960
 Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
-Filename: debs/com.laughingquoll.prysm_1.4.1_iphoneos-arm.deb
-Size: 224812
-MD5sum: 9187ae3ee90ee657e3320e260c9c3312
-SHA1: 418ae57cefe65f1e6dede1ba96b3781ccb272cdd
-SHA256: db5c4141d1122c9bee8f218e305e257a7c030ea85fbab5b57750a1741d7dabaa
+Filename: debs/com.gfp.prysm_1.4.1_iphoneos-arm.deb
+Size: 401462
+MD5sum: 6f0b6da1ea26e0fac9f2d2f03e1fb684
+SHA1: 6b39c2304635efe7eabe370646fc15e2194e7f74
+SHA256: cdc9e3d36f290ee1da8464008f4c2c55871a05133035b4c8e487c099f44f6ad2
 Section: Tweaks
 Description: Your control center, reimagined.
 Author: LaughingQuoll
