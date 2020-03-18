@@ -54,7 +54,7 @@ MD5sum: cafb600833d5e0270bd7ff2588fe376a
 SHA1: f063f0222d4f3103c9e05d3311e13ded6e05862e
 SHA256: cf66df930682f45c121fa7bd5cc303c910c2b393f9fd1eb96b3da5361d5dc794
 Section: Utilities
-Description: https://guofenpai.github.io/repo/depictions/?p=com.gfp.appdatamanager
+Description: Apps管理器
 Author: gfp
 Name: Apps Manager
 
@@ -72,7 +72,7 @@ SHA256: bd68df6307bb12a967b83c78d80d214a08821f1a56afcf40e158dad1a9b45855
 Section: Tweaks
 Description: [iOS13]Add "Toggle Background Mode" action to ControlCenter.
 Author: gfp <email@gmail.com>
-Depiction: https://guofenpai.github.io/repo/debs/?p=com.gfp.backgrounderaction13
+Depiction:
 Name: BackgrounderAction2 for CCSupport
 
 Package: com.gfp.filza64bit
@@ -105,11 +105,10 @@ SHA1: 6b3bc1921835cc557ab0a5cc79b6f10222feb6e1
 SHA256: a864caa5f0f623eac8fbbc98702f3bf994c48122d39b68e49ada278b4ada4765
 Section: Tweaks
 Priority: optional
-Homepage: https://guofenpai.github.io/repo/debs/?p=com.gfp.smarvpn
 Description: auto start/close VPN for special app list
 Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Author: gfp <email@gmail.com>
-Depiction: https://guofenpai.github.io/repo/debs/?p=com.gfp.smartvpn
+Depiction:
 Dev: gfp
 Icon: file:///Library/PreferenceLoader/Preferences/SmartVPN@2x.png
 Name: SmartVPN
@@ -128,8 +127,8 @@ SHA256: 100b9203b911d3ce39d69bfd09394d046fbb095c72013ce59c3e3a794625e1aa
 Section: Tweaks
 Description: New portrait mode for unsupported devices
 Author: FoxfortMobile
-Depiction: https://pulandres.me/repo/index.php?pid=7
-Icon: file:///Library/PreferenceBundles/aperturizesettings.bundle/icon@3x.png
+Depiction:
+Icon: file:
 Name: Aperturize
 
 Package: com.gfp.foxforthack
@@ -145,6 +144,5 @@ SHA256: ecf6af33d999fbb8c29d35d1c305600a2b50bf402d90ae0cf14d2bfd20a13676
 Section: Tweaks
 Description: Hack to Foxfort tweaks
 Author: gfp <email@gmail.com>
-Depiction: https://repo.pulandres.me/index.php?pid=431
+Depiction:
 Name: FoxfortHack
-Sileodepiction: https://repo.pulandres.me/sileo.php?pid=431
