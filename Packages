@@ -20,11 +20,11 @@ Version: 0.0.1-2
 Architecture: iphoneos-arm
 Maintainer: c1d3r
 Filename: debs/com.gfp.Hot-Tub_0.0.1-2_iphoneos-arm.deb
-Size: 15569702
-MD5sum: b0f26c7ce99e0426630bc1ece1965bc8
-SHA1: 4b066f7b9950a2827d69273cb2dcbcff956686fd
-SHA256: 91a471888439d16d325670cd670ef8dc577bba7f926a9071f1a349b9a04579d6
-Section: Applications
+Size: 15569708
+MD5sum: e846a5294b61a6d1052a5bb494228ad6
+SHA1: f8bd85005bdafa3e706e29d702218c56ffa4b6ad
+SHA256: f47128ad0d980ab8c0f73737bd10555842636c2c871d2da4628315d549e8f3d6
+Section: Application
 Description: An "adult entertainment" app centered around a great UI.
 Author: c1d3r
 Name: Hot Tub
