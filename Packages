@@ -228,7 +228,7 @@ Description: A brand-new, unobtrusive, OLED-friendly volume HUD.
 Author: Ayden Panhuyzen
 Name: Ultrasound
 
-Package: com.gfp.prysm
+Package: com.pul.prysm
 Version: 1.4.1
 Architecture: iphoneos-arm
 Maintainer: Pulandres
