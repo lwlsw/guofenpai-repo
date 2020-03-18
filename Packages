@@ -331,3 +331,75 @@ Section: Tweaks
 Description: 開啟微信Callkit通話・Open the Callkit Call Function of Wechat
 Name: WeChat Callkit
 
+Package: com.gfp.bioprotectxs
+Version: 4.4-3
+Architecture: iphoneos-arm
+Maintainer: gfp
+Installed-Size: 3416
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12)
+Filename: debs/com.gfp.bioprotectxs_4.4-3_iphoneos-arm.deb
+Size: 1101766
+MD5sum: 7cff8d2aaa95837c0ba6fe50034c9766
+SHA1: 1747c662c6618192e401d3954946c2d55956b041
+SHA256: 4d2a4262134eb575684af0fd1eee323a97e3eed1a4da5b7b40279e31e71bbb72
+Section: Tweaks
+Description: Protect your apps with Touch/Face ID!
+Author: Elias Limneos <limneoselias@gmail.com>
+Icon: https://www.limneos.net/cydia/packageImages/net.limneos.bioprotectxs/icon.png?fe=276
+Name: BioProtect XS (iOS 12/13)
+
+Package: com.gfp.callbarxs
+Version: 2.3-75-1
+Architecture: iphoneos-arm
+Maintainer: gfp
+Installed-Size: 1356
+Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions, firmware ( >= 12), com.gfp.sedfix, wget
+Conflicts: com.hackyouriphone.limneosos, net.limneos.callbarx, com.pulandres.limneosos, ru.rejail.limneosos
+Replaces: net.limneos.callbarxs
+Filename: debs/com.gfp.callbarxs_2.3-75-1_iphoneos-arm.deb
+Size: 423760
+MD5sum: 90c6f61a336fb4d2fcbe475757009cab
+SHA1: 3e9492cfd1bec6c81dc94edf8f7ab24e3361c518
+SHA256: f22b34dcaeda95b98b146f84710950de453808db00f7374ac611c57c58678645
+Section: Tweaks
+Description: Change the style of your UI Calls
+Author: Elias Limneos <limneoselias@gmail.com>
+Icon: https://www.limneos.net/cydia/packageImages/net.limneos.callbarxs/icon.png?fe=169
+Name: CallBar XS (iOS 12/13)
+
+Package: com.gfp.callblocker
+Version: 2.0.3
+Architecture: iphoneos-arm
+Maintainer: 果粉派 <email@gmail.com>
+Installed-Size: 512
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.gfp.callblocker_2.0.3_iphoneos-arm.deb
+Size: 77602
+MD5sum: b76d5d7652593ed776322c38cc8b1be4
+SHA1: 0e7a560fffce5badfbe4a800ce29b036496b89c9
+SHA256: 06b2db84dd4b729a4db9e49d402fb10eb26e51e3f00a2120acda8931b78f84f2
+Section: Tweaks
+Description: Block annoying Callers!
+Author: 果粉派 <email@gmail.com>
+Icon: file:///Library/Application Support/CallBlocker/icon.png
+Name: CallBlocker
+
+Package: com.gfp.sedfix
+Version: 100.3
+Architecture: iphoneos-arm
+Maintainer: gfp
+Installed-Size: 1000
+Depends: mobilesubstrate
+Replaces: com.hackyouriphone.sedfix
+Filename: debs/com.gfp.sedfix_100.3_iphoneos-arm.deb
+Size: 260004
+MD5sum: f3edfd1a3d189985176db0124e9a14c1
+SHA1: f3ebcc4be2ee220313edeea0f2af4a7386986338
+SHA256: ba7f7d4b76b6660cc5f46dfc3aa80450f63338c6de7f845c0d6426c02ec43513
+Section: System
+Description: Package to get working Cracked Tweaks, IMPORTANT to future cracks, install please.
+Author: gfp
+Icon: https://repo.pulandres.me/CydiaIcon.png
+Name: CracksHelper
+
+
