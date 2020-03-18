@@ -231,15 +231,15 @@ Name: Ultrasound
 Package: com.gfp.prysm
 Version: 1.4.1
 Architecture: iphoneos-arm
-Maintainer: LaughingQuoll
+Maintainer: gfp
 Installed-Size: 1960
 Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
-Filename: debs/com.gfp.prysm_1.4.1_iphoneos-arm.deb
-Size: 401462
-MD5sum: 6f0b6da1ea26e0fac9f2d2f03e1fb684
-SHA1: 6b39c2304635efe7eabe370646fc15e2194e7f74
-SHA256: cdc9e3d36f290ee1da8464008f4c2c55871a05133035b4c8e487c099f44f6ad2
+Filename: debs/com.gfp.prysm.deb
+Size: 393946
+MD5sum: c80275ae7ce3a983e275dd2145708a2d
+SHA1: 12f1d0cb80180d3eb28ddd9eeca9020e521410bf
+SHA256: 3970fc60f761a676825e0d0a32e2c33783570ef405fa8450eee33585b2816325
 Section: Tweaks
 Description: Your control center, reimagined.
-Author: LaughingQuoll
+Author: gfp
 Name: Prysm
