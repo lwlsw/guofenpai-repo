@@ -235,10 +235,10 @@ Maintainer: gfp
 Installed-Size: 1928
 Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
 Filename: debs/com.gfp.prysm_1.4.1_iphoneos-arm.deb
-Size: 401530
-MD5sum: c7a9e4fbf86149058c62caeda620aa0d
-SHA1: aade15a022bbabf0fb647520df0f8e2bd7b79de6
-SHA256: 5c3b43ce3981edd1a84a03c6b6c670305ff73425b6e71937c12670859c713e8b
+Size: 401546
+MD5sum: 42ee1f2e8a9931accb3dbb2cdddf44d6
+SHA1: 4b5b02a09dd093a079754ce3fda041d2a5a9425d
+SHA256: 2d2cac532b009084a29e34038959dfaf895824042423549798b582ff66b36904
 Section: Tweaks
 Description: Your control center, reimagined.
 Author: LaughingQuoll
