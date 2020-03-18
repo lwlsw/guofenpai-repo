@@ -1,0 +1,70 @@
+Package: com.gfp.sedfix
+Version: 100.3
+Section: System
+Maintainer: 果粉派 <email@gmail.com>
+Depends:
+Filename: ./debs/com.gfp.sedfix.deb
+Size: 260
+Depiction: https://guofenpai.github.io/repo/depictions/?p=com.gfp.sedfix
+MD5sum: cfd86fd7826d521968ec3b70eb908677
+SHA1:  146c08f5140872e63a654522c1c5a2ef882efec7
+SHA256: 74186b5e394189bb778ed657f46564a920fe2b7a27378db58b805996cc27b123
+Description: P佬破解必備依賴
+Name: CracksHelper
+Author: 果粉派 <email@gmail.com>
+
+Package: com.gfp.libiarrayshack
+Version: 1.0.11-beta-10
+Section: Development
+Maintainer: 果粉派 <email@gmail.com>
+Depends: firmware (>=7.0)
+Filename: ./debs/com.gfp.libiarrays.deb
+Size: 289
+Depiction: https://guofenpai.github.io/repo/depictions/?p=com.gfp.libiarrays
+MD5sum: 45fca4ccf11554162e4349234d63f158
+SHA1:  649557604b706b43f5ba06910234498ac0707649
+SHA256: 02a8d0f9ff1f27c47d6c66b6b636b62b6466ecf0eff55ef44da32dd7b2ba8307
+Description: Should be used only by IArrays products. This is closed library and no support is provided for this package.
+Name: libiarrays hack
+Author: 果粉派 <email@gmail.com>
+
+Package: com.gfp.maple2
+Version: 1.2
+Section: Tweaks
+Maintainer: 果粉派 <email@gmail.com>
+Depends: mobilesubstrate, com.laughingquoll.prefixui, me.nepeta.libcolorpicker, net.limneos.libbulletin
+Filename: ./debs/com.gfp.maple2.deb
+Size: 33712854
+Depiction: https://guofenpai.github.io/repo/depictions/?p=com.gfp.maple2
+MD5sum: 93EEF350F427C4ACBE0D30C51EF1BB5E
+SHA1:  716DBA4ECF8E7576B596BCA57BCD0DA267146A69
+SHA256: DB7D10BA9A7FCDB36AF886A54803499D9B8CAB2BB607A5C622642CA473461A30
+Description: 充電動畫
+Name: Maple2
+Author: 果粉派 <email@gmail.com>
+
+Package: com.cannathea.afc2d-arm64
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 672
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: cy+cpu.arm64, mobilesubstrate, ldid
+Conflicts: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Replaces: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Provides: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Filename: debs/com.gfp.afc2d-arm64_1.1_iphoneos-arm.deb
+Size: 20418
+MD5sum: 5faf9cc4ca15e23015417e120fd6cecc
+SHA1: 804958c17908094008ecf2edfc89756dc2478cc7
+SHA256: ed5c840759c4bcc9b7b014dacf3cf8dcf23e5e97fe8eab03f97b1a8ab47cbf03
+Section: System
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=afc2kpplessDp
+Description: Allow full file-system access over USB for arm64 devices, especially for those using a KPPLess jailbreak.
+Tag: purpose::daemon, compatible::ios10, compatible::ios11, compatible::ios12
+Author: saurik, Cannathea <csupport@cannathea.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=afc2kpplessDp
+Dev: cannathea
+Name: Apple File Conduit "2" (iOS 11+, arm64)
+Sponsor: thebigboss.org <http://thebigboss.org>
+
