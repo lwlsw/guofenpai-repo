@@ -1,3 +1,36 @@
+Package: com.gfp.dayn
+Version: 0.1.4-1+debug
+Architecture: iphoneos-arm
+Maintainer: JannikCrack, Devvix
+Installed-Size: 952
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
+Replaces: com.guofenpai.dayn
+Filename: debs/com.gfp.dayn.deb
+Size: 414880
+MD5sum: 30f49a59be6cb7c1d2f9e3b02dea934e
+SHA1: 5a4fbf11aae5087eafe1a7135fc7d705db7adbc6
+SHA256: 1ddc4b4503870f435f0505d13620bacdaf0787ec8bdc9a156b277a986398fbdf
+Section: Tweaks
+Description: New notification concept
+Author: beta
+Name: Dayn
+
+Package: com.gfp.prysm
+Version: 1.4.1
+Architecture: iphoneos-arm
+Maintainer: gfp
+Installed-Size: 1960
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
+Filename: debs/com.gfp.prysm.deb
+Size: 393948
+MD5sum: 8cef3e01faee56f30c417f5dde982f97
+SHA1: 77720b7a637ae2c5263c46b8538effab718ce8bb
+SHA256: 7f78ffaf64b38c4a6492be0d0f5de6376d979bcfc5354b43f35f480e7c0445b1
+Section: Tweaks
+Description: Your control center, reimagined.
+Author: gfp
+Name: Prysm
+
 Package: com.gfp.sedfix
 Version: 100.3
 Section: System
