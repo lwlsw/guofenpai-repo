@@ -20,13 +20,12 @@ Version: 2.1.48
 Architecture: iphoneos-arm
 Maintainer: gfp
 Depends: Shadowrocket
-Filename: debs/com.gfp.shadowrecket.deb
-Size: 16327268
-MD5sum: e1281342326aab54f2ea903480559d55
-SHA1: fb3ce726cbf25f8fba837d36b7f34e38ecd40bfc
-SHA256: db5262a6e1eeb1a15cffe328c73902ac3937abb09445f0f8043f831250a7674b
+Filename: debs/com.gfp.shadowrocket_2.1.48_iphoneos-arm.deb
+Size: 16327274
+MD5sum: b371ea4d6aa43637d1d150071145f003
+SHA1: 87539f733320cb4a3cb90e171324e8e1261a0987
+SHA256: d3f07ed9f149647cb4e84f2c745195ed6a596af5c73f485879838e687179ad35
 Section: Application
-Description: Shadowrocket
 Author: gfp
 Name: Shadowrocket
 
