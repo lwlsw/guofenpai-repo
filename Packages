@@ -243,4 +243,21 @@ Section: Tweaks
 Description: Your control center, reimagined.
 Author: LaughingQuoll
 Icon: https://repo.packix.com/api/Packages/5e58e8685bcef5001a252e4f/icon/download?size=medium
-Name: Prysm
+Name: Prysm 
+
+Package: com.gfp.prysm
+Version: 1.4.1
+Architecture: iphoneos-arm
+Maintainer: LaughingQuoll
+Installed-Size: 1960
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
+Filename: debs/com.laughingquoll.prysm_1.4.1_iphoneos-arm.deb
+Size: 224594
+MD5sum: e6fce2505da50960103965210265e119
+SHA1: 7e124404072506d4ff27632e33e6526db6ee581c
+SHA256: c48eed5f2f7539bb19a27bb2916e2472bc013e773880a1e9a0f539d078c27dc8
+Section: Tweaks
+Description: Your control center, reimagined.
+Author: LaughingQuoll
+Name: Prysm1
+
