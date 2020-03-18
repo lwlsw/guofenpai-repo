@@ -43,28 +43,74 @@ Description: 充電動畫
 Name: Maple2
 Author: 果粉派 <email@gmail.com>
 
-Package: com.cannathea.afc2d-arm64
-Version: 1.1
+Package: com.gfp.appdatamanager
+Version: 1.5.1-10
 Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 672
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: cy+cpu.arm64, mobilesubstrate, ldid
-Conflicts: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
-Replaces: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
-Provides: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
-Filename: debs/com.gfp.afc2d-arm64_1.1_iphoneos-arm.deb
-Size: 20418
-MD5sum: 5faf9cc4ca15e23015417e120fd6cecc
-SHA1: 804958c17908094008ecf2edfc89756dc2478cc7
-SHA256: ed5c840759c4bcc9b7b014dacf3cf8dcf23e5e97fe8eab03f97b1a8ab47cbf03
-Section: System
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=afc2kpplessDp
-Description: Allow full file-system access over USB for arm64 devices, especially for those using a KPPLess jailbreak.
-Tag: purpose::daemon, compatible::ios10, compatible::ios11, compatible::ios12
-Author: saurik, Cannathea <csupport@cannathea.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=afc2kpplessDp
-Dev: cannathea
-Name: Apple File Conduit "2" (iOS 11+, arm64)
-Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: gfp
+Installed-Size: 8864
+Filename: debs/com.gfp.appdatamanager_1.5.1-10_iphoneos-arm.deb
+Size: 3624412
+MD5sum: cafb600833d5e0270bd7ff2588fe376a
+SHA1: f063f0222d4f3103c9e05d3311e13ded6e05862e
+SHA256: cf66df930682f45c121fa7bd5cc303c910c2b393f9fd1eb96b3da5361d5dc794
+Section: Utilities
+Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps
+Author: gfp
+Name: Apps Manager
 
+Package: com.gfp.backgrounderaction13
+Version: 0.1.4
+Architecture: iphoneos-arm
+Maintainer: akusio <akusio-report@neko2.net>
+Installed-Size: 244
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: debs/com.gfp.backgrounderaction13_0.1.4_iphoneos-arm.deb
+Size: 20414
+MD5sum: dd887b06efda34a9af01b0a15f077320
+SHA1: 50f3fe173ec982b2d95f0f70eb5e9a9bf7d4abdf
+SHA256: bd68df6307bb12a967b83c78d80d214a08821f1a56afcf40e158dad1a9b45855
+Section: Tweaks
+Description: [iOS13]Add "Toggle Background Mode" action to ControlCenter.
+Author: gfp <email@gmail.com>
+Depiction: https://guofenpai.github.io/repo/debs/?p=com.gfp.backgrounderaction13
+Name: BackgrounderAction2 for CCSupport
+
+Package: com.gfp.filza64bit
+Version: 3.7.4-12
+Architecture: iphoneos-arm
+Maintainer: TIGI Software
+Installed-Size: 21232
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza
+Filename: debs/com.gfp.filza64bit_3.7.4-12_iphoneos-arm.deb
+Size: 8568946
+MD5sum: f28cc81f0d64063046b0023c26b49ba3
+SHA1: 68456e06b29149ce38f8e90f4e567926f021a0e2
+SHA256: 6bd48a8e3618a3ea4d2dfdf0a24e5dac1facfacc3a0e2297913b7b808eb479ad
+Section: Utilities
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+. This special version only supports 64-bit devices
+Author: TIGI Software
+Name: Filza File Manager 64-bit
+
+Package: com.gfp.smartvpn
+Version: 0.8.0-3
+Architecture: iphoneos-arm
+Maintainer: gfp
+Installed-Size: 155
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader, applist
+Filename: debs/com.gfp.smartvpn_0.8.0-3_iphoneos-arm.deb
+Size: 14982
+MD5sum: 59d68b1a027cd6e2017582f50ba8c5ad
+SHA1: 6b3bc1921835cc557ab0a5cc79b6f10222feb6e1
+SHA256: a864caa5f0f623eac8fbbc98702f3bf994c48122d39b68e49ada278b4ada4765
+Section: Tweaks
+Priority: optional
+Homepage: https://guofenpai.github.io/repo/debs/?p=com.gfp.smarvpn
+Description: auto start/close VPN for special app list
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Author: gfp <email@gmail.com>
+Depiction: https://guofenpai.github.io/repo/debs/?p=com.gfp.smartvpn
+Dev: gfp
+Icon: file:///Library/PreferenceLoader/Preferences/SmartVPN@2x.png
+Name: SmartVPN
+Sponsor: https://guofenpai.github.io/repo/
