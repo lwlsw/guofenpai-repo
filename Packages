@@ -228,22 +228,19 @@ Description: A brand-new, unobtrusive, OLED-friendly volume HUD.
 Author: Ayden Panhuyzen
 Name: Ultrasound
 
-Package: com.gfp.prysm
+Package: com.pul.prysm
 Version: 1.4.1
 Architecture: iphoneos-arm
 Maintainer: Pulandres
 Installed-Size: 1928
 Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
-Replaces: com.pulandres.prysm.beta
 Filename: debs/com.pul.prysm_1.4.1_iphoneos-arm.deb
-Size: 401750
-MD5sum: 906aaa0afb820915b44eb30b43898ea8
-SHA1: add7423d720d575203e50d5074949c9e2127b372
-SHA256: 5514fbae2db026e3ee33369491a7660f4c8cfa67623d919f066056bd270a7e23
+Size: 401546
+MD5sum: 42ee1f2e8a9931accb3dbb2cdddf44d6
+SHA1: 4b5b02a09dd093a079754ce3fda041d2a5a9425d
+SHA256: 2d2cac532b009084a29e34038959dfaf895824042423549798b582ff66b36904
 Section: Tweaks
 Description: Your control center, reimagined.
 Author: LaughingQuoll
-Depiction: https://repo.pulandres.me/index.php?pid=1662
 Icon: https://repo.packix.com/api/Packages/5e58e8685bcef5001a252e4f/icon/download?size=medium
 Name: Prysm
-Sileodepiction: https://repo.pulandres.me/sileo.php?pid=1662
