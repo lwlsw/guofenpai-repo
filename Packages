@@ -15,6 +15,76 @@ Description: New notification concept
 Author: beta
 Name: Dayn
 
+Package: com.gfp.Hot-Tub
+Version: 0.0.1-2
+Architecture: iphoneos-arm
+Maintainer: c1d3r
+Filename: debs/com.gfp.Hot-Tub_0.0.1-2_iphoneos-arm.deb
+Size: 15569702
+MD5sum: b0f26c7ce99e0426630bc1ece1965bc8
+SHA1: 4b066f7b9950a2827d69273cb2dcbcff956686fd
+SHA256: 91a471888439d16d325670cd670ef8dc577bba7f926a9071f1a349b9a04579d6
+Section: Applications
+Description: An "adult entertainment" app centered around a great UI.
+Author: c1d3r
+Name: Hot Tub
+
+Package: com.gfp.NeuralCam
+Version: 1.3.0
+Architecture: iphoneos-arm
+Maintainer: gfp
+Filename: debs/com.gfp.neuralcam.deb
+Size: 27035682
+MD5sum: 444e711cddf40f5b99ba6f492b463c03
+SHA1: fedd8f18aaee59117e074ee437639dbd114befc2
+SHA256: 46149133602b45b0695ac51a4be338a4a28b779453300a72250984282d636fc9
+Section: Application
+Description: NeuralCam
+Author: gfp
+Name: NeuralCam++
+
+Package: com.gfp.spotify
+Version: 8.5.2
+Architecture: iphoneos-arm
+Maintainer: gfp
+Filename: debs/com.gfp.spotify.deb
+Size: 34863272
+MD5sum: 3e9c944f56c3e182a1bccb3e99f7bd7f
+SHA1: ee8c772d25970e74d3ee1644e617aa046d72f0a3
+SHA256: d86ca13f628c7ed7ceff525752e05dcbbd47aa7989003c9054b90ca7831f7953
+Section: Application
+Description: Spotify
+Author: gfp
+Name: Spotify++
+
+Package: com.gfp.youtube
+Version: 13.24.9
+Architecture: iphoneos-arm
+Maintainer: gfp
+Filename: debs/com.gfp.youtube.deb
+Size: 101557018
+MD5sum: 3d60788e0c13f9ec3490fa9fdcbf1e69
+SHA1: 7816e4eea7c5d511ef58a63906edf455d039f773
+SHA256: cd8396e057c7f8ded8c8da61bee471e115a512dd169674c90d41b1d6de95fc1d
+Section: Application
+Description: YouTube
+Author: gfp
+Name: YouTube++
+
+Package: com.gfp.youtubemusic
+Version: 2.29_002
+Architecture: iphoneos-arm
+Maintainer: gfp
+Filename: debs/com.gfp.youtubemusic.deb
+Size: 58596454
+MD5sum: ae87abf18a620e93f90da473c19688af
+SHA1: 92490708b9517b74c3c6aae7c11ad20b867522a2
+SHA256: 1e1d2b246c51efb4523f3c11155bc4f1d8f8cd447bfd5780824ebfb2046410c1
+Section: Application
+Description: YouTube Music
+Author: gfp
+Name: YouTube Music++
+
 Package: com.gfp.shadowrocket
 Version: 2.1.48
 Architecture: iphoneos-arm
