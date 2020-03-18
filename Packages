@@ -22,14 +22,13 @@ Maintainer: akusio <akusio-report@neko2.net>
 Installed-Size: 244
 Depends: mobilesubstrate, com.opa334.ccsupport
 Filename: debs/com.gfp.backgrounderaction13_0.1.4_iphoneos-arm.deb
-Size: 20392
-MD5sum: ea5c50c685a3d77accf3c1c3f652e935
-SHA1: 403ed7767d4d7a2e44de130c5e1cd95fa297cc8d
-SHA256: 441351ac6806741bd64223143ba7b6380cd3b7180f7faa81f547b47427623745
+Size: 20356
+MD5sum: 2b98472470f64c92ab9e4b13a4cd25df
+SHA1: d240906fbf1c570491446202671564b992b43086
+SHA256: c7dd859ed1c7609995304b8df9e21c3f32aea2ecc10bad9f81f4e659f8df8656
 Section: Tweaks
 Description: [iOS13]Add "Toggle Background Mode" action to ControlCenter.
 Author: akusio <akusio-report@neko2.net>
-Depiction: https://akusio.github.io/descriptions/backgrounderaction13/index.html
 Name: BackgrounderAction2 for CCSupport
 
 Package: com.gfp.maple2
