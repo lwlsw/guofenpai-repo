@@ -245,99 +245,89 @@ Author: LaughingQuoll
 Icon: https://repo.packix.com/api/Packages/5e58e8685bcef5001a252e4f/icon/download?size=medium
 Name: Prysm
 
-
 Package: com.gfp.goodwifi
 Version: 0.0~beta5
 Architecture: iphoneos-arm
 Maintainer: Julio
 Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.julioverne.goodwifi_0.0~beta5_iphoneos-arm.deb
-Size: 128608
-MD5sum: 0ae4fff284acdb6e398819f26b4f78ec
-SHA1: 32095bc6ee409ce1ab3e252e42cf7d5aa281ae50
-SHA256: 8b3970eb773db7bd96213979b9dcd79e104ebd38d8a016c06c52ee53ab239f1f
+Filename: debs/com.gfp.goodwifi_0.0~beta5_iphoneos-arm.deb
+Size: 128532
+MD5sum: f9ad5054dcb27852b54d54b9fcbf952b
+SHA1: 9327c8878756ec0fb0b017f0fe10cc18ee7013b6
+SHA256: 1f9baf4dba19567e296a90834b6e5afc7f60b5e5268807d427ceadd22318a6dc
 Section: Tweaks
-Homepage: http://twitter.com/ijulioverne
 Description: Better WiFi Preferences
 Author: julioverne
-Depiction: http://julioverne.github.io/description.html?id=com.julioverne.goodwifi
 Icon: file:///Library/PreferenceBundles/GoodWiFiSettings.bundle/icon@2x.png
 Name: GoodWiFi
+
+Package: com.gfp.hideseparator
+Version: 1.3
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: debs/com.gfp.hideseparator_1.3_iphoneos-arm.deb
+Size: 14324
+MD5sum: be61d97c43920e941e3cfbef8f62bfd0
+SHA1: 5e67807dff1b6f20477272b63836e9f558ff8773
+SHA256: 5321ef452b647658d38ab753998eebc6517e08bc2debd2b1ca7080de217ce46f
+Section: Tweaks
+Description: 隐藏全局分割线 (包括第三方App)・Hide system-wide separator (including third-party Apps)
+Name: Hide Separator
+
+Package: com.gfp.networkexalt
+Version: 1.1.1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: debs/com.gfp.networkexalt_1.1.1_iphoneos-arm.deb
+Size: 4992
+MD5sum: 52f6d5885a0df32c62006d3aec3ed30f
+SHA1: 10d20f929bee4f5ad7874cccd6d8177f2d38d586
+SHA256: e6e710a938520febde901b64fd36cfc2175a8160d7936f914aed2fc24cac9f28
+Section: Networking
+Description: Open network framework optimization to improve response speed, etc.
+Name: Network Exalt
 
 Package: com.gfp.ntspeed
 Version: 0.2~beta7
 Architecture: iphoneos-arm
 Maintainer: Julio
 Depends: firmware (>= 6.0), mobilesubstrate, preferenceloader
-Filename: debs/com.julioverne.ntspeed_0.2~beta7_iphoneos-arm.deb
-Size: 110788
-MD5sum: ef362c4050a24743dafc91feb02cac45
-SHA1: 55faba4da01bbb88f5f9d68f79516540cef48032
-SHA256: ef5cf1285d1fecf42e554a900f09b407c6012af7055bcc88d58a8743acb5bfa3
+Filename: debs/com.gfp.ntspeed_0.2~beta7_iphoneos-arm.deb
+Size: 110772
+MD5sum: 85ad630922c8089354322d324f5af6a4
+SHA1: 879cf931d873915375c478a5c65978d4d1484273
+SHA256: 896ce30c4d7d7d6c8dc37b33a6f95bb7b64ef72782f79c69554115440981811c
 Section: Tweaks
-Homepage: http://twitter.com/ijulioverne
+Homepage: gfp <email@gmail.com>
 Description: See Active Traffic Network Speed
 Author: julioverne
-Depiction: http://julioverne.github.io/description.html?id=com.julioverne.ntspeed
+Depiction: gfp <email@gmail.com>
 Icon: file:///Library/PreferenceBundles/NtSpeedSettings.bundle/icon@2x.png
 Name: NtSpeed
-
-Package: com.gfp.hideseparator
-Version: 1.3
-Architecture: iphoneos-arm
-Maintainer: iBreak <ibreak2019@qq.com>
-Depends: mobilesubstrate
-Filename: debs/com.yourepo.ibreak.hideseparator_1.3_iphoneos-arm.deb
-Size: 8834
-MD5sum: 5e22603e0ee542a9eef439af0ca453a9
-SHA1: 445b114fc537562f7d7ba2711662b7f476117414
-SHA256: 11522aa6e51fd39d1b41eca4656fd2d06bcc05803eb9dabb483196b4c9f175ac
-Section: Tweaks
-Description: 隐藏全局分割线 (包括第三方App)・Hide system-wide separator (including third-party Apps)
-Author: iBreak <ibreak2019@qq.com>
-Name: Hide Separator
-
-Package: com.gfp.networkexalt
-Version: 1.1.1
-Architecture: iphoneos-arm
-Maintainer: iBreak <ibreak2019@qq.com>
-Depends: mobilesubstrate
-Filename: debs/com.yourepo.ibreak.networkexalt_1.1.1_iphoneos-arm.deb
-Size: 3790
-MD5sum: 8d41efc567d5da3843c5b441c3079cc3
-SHA1: 29e37af65861229ee5ac7cfc5e7ee59a9cad8750
-SHA256: 12987604c8eaf9a5525a2d5d134c8ffa433573cccfc44f77e4f5d6868bdbfadb
-Section: Networking
-Description: Open network framework optimization to improve response speed, etc.
-Author: iBreak <ibreak2019@qq.com>
-Name: Network Exalt
 
 Package: com.gfp.qqcallkit
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: iBreak <ibreak2019@qq.com>
 Depends: mobilesubstrate
-Filename: debs/com.yourepo.ibreak.qqcallkit_1.0_iphoneos-arm.deb
-Size: 4318
-MD5sum: 6c4a0524acada53a634f570c19c635f9
-SHA1: 935b83a3dfbffe6417ef8f63174c08f88a7793e8
-SHA256: ca6f6b7025ce5f6b169f7d5ef44cabc572da18ecade829cd02b8172b3a5fed09
+Filename: debs/com.gfp.qqcallkit_1.0_iphoneos-arm.deb
+Size: 5796
+MD5sum: 961dd1238411f145a0ffae6c681ec477
+SHA1: 0d2534c356ffd22c506207a574b7aa85df3b7a79
+SHA256: a28c0bd7323de9073a1f494bcaa22f90452bfc81bf56b481c6d91abec31756d4
 Section: Tweaks
-Description: QQ開啟Callkit通話功能(僅支持V7.5.8或以下版本)
-Author: iBreak <ibreak2019@qq.com>
+Description: QQ開啟Callkit通話(僅支持V7.5.8或以下版本)
 Name: QQ Callkit
 
 Package: com.gfp.wechatcallkit
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: iBreak <ibreak2019@qq.com>
 Depends: mobilesubstrate
-Filename: debs/com.yourepo.ibreak.wechatcallkit_1.0_iphoneos-arm.deb
-Size: 3688
-MD5sum: 047811564b876e3f2e94769ddd7f2cad
-SHA1: 3a78c104cadfd1991ee913215e50e2e7d60fac33
-SHA256: 9eba28c45cb746a49e1b149f45722b6dc930ae80dcb9a8bab0e40c2a00a540e5
+Filename: debs/com.gfp.wechatcallkit_1.0_iphoneos-arm.deb
+Size: 4836
+MD5sum: 959e9d246a00151619352e6371630f6d
+SHA1: c4bca3976a4d1544c512d2340c756354325b09c9
+SHA256: 67326dabc60b0e857121febbed38c3bd558843d857531efa430a9109ea8735a5
 Section: Tweaks
-Description:  開啟Callkit通話功能・Open the Callkit Call Function of Wechat
-Author: iBreak <ibreak2019@qq.com>
+Description: 開啟微信Callkit通話・Open the Callkit Call Function of Wechat
 Name: WeChat Callkit
+
