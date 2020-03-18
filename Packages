@@ -228,13 +228,13 @@ Description: A brand-new, unobtrusive, OLED-friendly volume HUD.
 Author: Ayden Panhuyzen
 Name: Ultrasound
 
-Package: com.pul.prysm
+Package: com.gfp.prysm
 Version: 1.4.1
 Architecture: iphoneos-arm
-Maintainer: Pulandres
+Maintainer: gfp
 Installed-Size: 1928
 Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
-Filename: debs/com.pul.prysm_1.4.1_iphoneos-arm.deb
+Filename: debs/com.gfp.prysm_1.4.1_iphoneos-arm.deb
 Size: 401546
 MD5sum: 42ee1f2e8a9931accb3dbb2cdddf44d6
 SHA1: 4b5b02a09dd093a079754ce3fda041d2a5a9425d
@@ -243,22 +243,4 @@ Section: Tweaks
 Description: Your control center, reimagined.
 Author: LaughingQuoll
 Icon: https://repo.packix.com/api/Packages/5e58e8685bcef5001a252e4f/icon/download?size=medium
-Name: Prysm 
-
-Package: com.gfp.prysm
-Version: 1.4.1
-Architecture: iphoneos-arm
-Maintainer: gfp
-Installed-Size: 1960
-Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
-Filename: debs/com.gfp.prysm_1.4.1_iphoneos-arm.deb
-Size: 224594
-MD5sum: e6fce2505da50960103965210265e119
-SHA1: 7e124404072506d4ff27632e33e6526db6ee581c
-SHA256: c48eed5f2f7539bb19a27bb2916e2472bc013e773880a1e9a0f539d078c27dc8
-Section: Tweaks
-Description: Your control center, reimagined.
-Author: LaughingQuoll
-Icon: https://repo.packix.com/api/Packages/5e58e8685bcef5001a252e4f/icon/download?size=medium
-Name: Prysm1
-
+Name: Prysm
