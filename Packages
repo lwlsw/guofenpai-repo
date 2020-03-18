@@ -293,20 +293,17 @@ Name: Dark Keys
 Package: com.gfp.ultrasound
 Version: 1.2.13
 Architecture: iphoneos-arm
-Maintainer: Pulandres
+Maintainer: Ayden Panhuyzen
 Installed-Size: 984
 Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
-Conflicts: com.ruler225.videohud, com.spark.melior, net.midkin.smartvolumecontrol2, es.ubikstyl.sonus12, me.nepeta.brokenhud, me.nepeta.flashyhud
+Conflicts: com.ruler225.videohud, com.spark.melior, net.midkin.smartvolumecontrol2, es.ubikstyl.sonus12, me.nepeta.brokenhud, me.nepeta.flashyhud, hi.my.name.is.ubik.sonus13, com.ikilledappl3.switchhud, com.muirey03.13hud, com.kingpuffdaddi.ringer13
 Filename: debs/com.gfp.ultrasound_1.2.13_iphoneos-arm.deb
-Size: 343612
-MD5sum: 410d4d011494659765325dd4abca3438
-SHA1: 64dce8e9f84faf26a81ba661c0cdb798314e046d
-SHA256: 017ae83dfabaf2a2ea412373bc0d61bfde1699e5d54a2135b4e37fe0adcf3168
+Size: 331122
+MD5sum: 4ed50f801ef71b5e4ddc7e552482b9d4
+SHA1: c7294bf04586c9b44bfa81fe34df78a3353b3b9f
+SHA256: 2cbdf4cf91075a9a6b2e659aa5d89d512db9962b7965ef558d5fff37a6c684ee
 Section: Tweaks
-Description: Customize your volume HUD.
+Description: A brand-new, unobtrusive, OLED-friendly volume HUD.
 Author: Ayden Panhuyzen
-Depiction: https://repo.pulandres.me/index.php?pid=1469
-Icon: https://repo.dynastic.co/data/static/version/284207023250210816/284207023485091840?size=180
-Name: Ultra sound
-Sileodepiction: https://repo.pulandres.me/sileo.php?pid=1469
+Name: Ultrasound
 
