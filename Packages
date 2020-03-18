@@ -54,7 +54,7 @@ MD5sum: cafb600833d5e0270bd7ff2588fe376a
 SHA1: f063f0222d4f3103c9e05d3311e13ded6e05862e
 SHA256: cf66df930682f45c121fa7bd5cc303c910c2b393f9fd1eb96b3da5361d5dc794
 Section: Utilities
-Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps
+Description: https://guofenpai.github.io/repo/depictions/?p=com.gfp.appdatamanager
 Author: gfp
 Name: Apps Manager
 
