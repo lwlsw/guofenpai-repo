@@ -15,52 +15,6 @@ Description: New notification concept
 Author: beta
 Name: Dayn
 
-Package: com.gfp.prysm
-Version: 1.4.1
-Architecture: iphoneos-arm
-Maintainer: gfp
-Installed-Size: 1960
-Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
-Filename: debs/com.gfp.prysm.deb
-Size: 393948
-MD5sum: 8cef3e01faee56f30c417f5dde982f97
-SHA1: 77720b7a637ae2c5263c46b8538effab718ce8bb
-SHA256: 7f78ffaf64b38c4a6492be0d0f5de6376d979bcfc5354b43f35f480e7c0445b1
-Section: Tweaks
-Description: Your control center, reimagined.
-Author: gfp
-Name: Prysm
-
-Package: com.gfp.sedfix
-Version: 100.3
-Section: System
-Maintainer: 果粉派 <email@gmail.com>
-Depends:
-Filename: ./debs/com.gfp.sedfix.deb
-Size: 260
-Depiction: https://guofenpai.github.io/repo/depictions/?p=com.gfp.sedfix
-MD5sum: cfd86fd7826d521968ec3b70eb908677
-SHA1:  146c08f5140872e63a654522c1c5a2ef882efec7
-SHA256: 74186b5e394189bb778ed657f46564a920fe2b7a27378db58b805996cc27b123
-Description: P佬破解必備依賴
-Name: CracksHelper
-Author: 果粉派 <email@gmail.com>
-
-Package: com.gfp.libiarrayshack
-Version: 1.0.11-beta-10
-Section: Development
-Maintainer: 果粉派 <email@gmail.com>
-Depends: firmware (>=7.0)
-Filename: ./debs/com.gfp.libiarrays.deb
-Size: 289
-Depiction: https://guofenpai.github.io/repo/depictions/?p=com.gfp.libiarrays
-MD5sum: 45fca4ccf11554162e4349234d63f158
-SHA1:  649557604b706b43f5ba06910234498ac0707649
-SHA256: 02a8d0f9ff1f27c47d6c66b6b636b62b6466ecf0eff55ef44da32dd7b2ba8307
-Description: Should be used only by IArrays products. This is closed library and no support is provided for this package.
-Name: libiarrays hack
-Author: 果粉派 <email@gmail.com>
-
 Package: com.gfp.maple2
 Version: 1.2
 Section: Tweaks
@@ -146,39 +100,6 @@ Dev: gfp
 Icon: file:///Library/PreferenceLoader/Preferences/SmartVPN@2x.png
 Name: SmartVPN
 Sponsor: https://guofenpai.github.io/repo/
-
-Package: com.gfp.aperturize
-Version: 1.0.5
-Architecture: iphoneos-arm
-Maintainer: gfp
-Depends: mobilesubstrate, preferenceloader, com.gfp.foxforthack
-Filename: debs/com.gfp.aperturize.deb
-Size: 234402
-MD5sum: 1cb0734510e96282782fa114c82d4a58
-SHA1: 3a38c3ffcbf41350f668cace348b3f44af933c7a
-SHA256: 100b9203b911d3ce39d69bfd09394d046fbb095c72013ce59c3e3a794625e1aa
-Section: Tweaks
-Description: New portrait mode for unsupported devices
-Author: FoxfortMobile
-Depiction:
-Icon: file:
-Name: Aperturize
-
-Package: com.gfp.foxforthack
-Version: 0.0.3
-Architecture: iphoneos-arm
-Maintainer: gfp
-Depends: mobilesubstrate
-Filename: debs/com.gfp.foxforthack.deb
-Size: 69814
-MD5sum: 1b667878c88057dd70da64a8a2fb0a5f
-SHA1: 4427844dba8c2619ebe8f1849b2f6a1930e8de6e
-SHA256: ecf6af33d999fbb8c29d35d1c305600a2b50bf402d90ae0cf14d2bfd20a13676
-Section: Tweaks
-Description: Hack to Foxfort tweaks
-Author: gfp <email@gmail.com>
-Depiction:
-Name: FoxfortHack
 
 Package: com.gfp.actionbar
 Version: 1.3.7
@@ -306,4 +227,20 @@ Section: Tweaks
 Description: A brand-new, unobtrusive, OLED-friendly volume HUD.
 Author: Ayden Panhuyzen
 Name: Ultrasound
+
+Package: com.gfp.prysm
+Version: 1.4.1
+Architecture: iphoneos-arm
+Maintainer: LaughingQuoll
+Installed-Size: 1960
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
+Filename: debs/com.gfp.prysm_1.4.1_iphoneos-arm.deb
+Size: 393964
+MD5sum: 3abc594e121e8204dcff72e86d061c2b
+SHA1: d1b47d2d5c4433d585e021c9d1c37468f405127f
+SHA256: f022c6408eae12109f04152e6081ea7f912b708f618814608dd0c7f35340fe44
+Section: Tweaks
+Description: Your control center, reimagined.
+Author: LaughingQuoll
+Name: Prysm
 
