@@ -15,6 +15,124 @@ Description: New notification concept
 Author: beta
 Name: Dayn
 
+Package: com.gfp.appsyncunified
+Version: 70.0
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 496
+Depends: firmware (>= 5.0), firmware (<= 13.3.1), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, science.xnu.substitute
+Provides: appsync
+Filename: debs/com.gfp.appsyncunified_70.0_iphoneos-arm.deb
+Size: 64014
+MD5sum: 0917b237bbbf490c85c5f06a4f729029
+SHA1: af287db0953118330edf0dfc90661004b2be23d2
+SHA256: d0d536333f865ce8f5895a01260b7b728053dd11119fe841913759f15de3ec2e
+Section: Tweaks
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
+Name: AppSync Unified
+
+Package: com.gfp.deadringer
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: Kritanta
+Installed-Size: 208
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: debs/com.gfp.deadringer_0.1.0_iphoneos-arm.deb
+Size: 24048
+MD5sum: 02f1e3ebb31ba3f9ba6574341773ffb4
+SHA1: 81df65c269e7449b3cef02ef0c2fdeb5e1f170a6
+SHA256: fab8a4ee7122bf06c70dc2bb91ff04367ce304e2fdf68f313572a47cd3cdd795
+Section: Tweaks
+Description: Minimalist ringer icon in top left corner
+Author: Kritanta
+Name: DeadRinger
+
+Package: com.gfp.preferenceorganizer2
+Version: 4.0.8
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 2016
+Depends: mobilesubstrate, preferenceloader (>= 2.2.3), firmware (>= 6.0), net.angelxwind.karenprefs (>= 1.5), net.angelxwind.karenlocalizer
+Conflicts: com.phillipt.noappsettings, jp.r-plus.cloaky, me.qusic.preferenceorganizer, com.sull.preferenceorganizer, com.sull.preferenceorganizer2, com.sull.preferenceorganizer7
+Filename: debs/com.gfp.preferenceorganizer2_4.0.8_iphoneos-arm.deb
+Size: 1426212
+MD5sum: 06dacb9020f4df149685d836bf9c344a
+SHA1: f92887848117ba2a9ac57b655a2bf6e2c829e96e
+SHA256: c584632fc025d8ef507fbc7681830530d9c957976ab127572b51036c2615e81b
+Section: Tweaks
+Description: Organises your Preferences app into several configurable categories for ease of navigation.
+Author: Karen/あけみ <karen@akemi.ai>
+Icon: file:///Library/KarenRepoIcons/net.angelxwind.preferenceorganizer2.png
+Name: PreferenceOrganizer 2
+
+Package: com.gfp.selector
+Version: 0.1.3
+Architecture: iphoneos-arm
+Maintainer: Baw Appie
+Installed-Size: 336
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Filename: debs/com.gfp.selector_0.1.3_iphoneos-arm.deb
+Size: 44906
+MD5sum: 001f6543c7d3a1886d5ec721f3a35ab9
+SHA1: 3a807ae37b1aba15020b7fd1331cf2f57a3c2015
+SHA256: d6162bbd1d2449100b6d0ebe9cbe8f6d286635db9fb8612e783f677dc034ac6a
+Section: Tweaks
+Description: Select text to search or translate
+Author: Nepeta & Baw Appie
+Name: Selector
+
+Package: com.gfp.swipeformore
+Version: 1.1.10
+Architecture: iphoneos-arm
+Maintainer: 果粉派
+Installed-Size: 172
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
+Filename: debs/com.gfp.swipeformore_1.1.10_iphoneos-arm.deb
+Size: 34224
+MD5sum: 2a51996dda945908fe34f5a639fe979a
+SHA1: 817e3215222a35217533b68a8b36f62b61961aa6
+SHA256: 04bc935da22d5fda4c4299944ff1478bb58a24050cbc7ddb74e1f1eab62f50bb
+Section: Tweaks
+Description: Manage Cydia packages via swipe.
+Author: PoomSmart
+Name: SwipeForMore
+
+Package: com.gfp.systeminfo
+Version: 2.3.4-5+debug
+Architecture: iphoneos-arm
+Maintainer: ARX8x
+Installed-Size: 1948
+Depends: mobilesubstrate
+Filename: debs/com.gfp.systeminfo_2.3.4-5+debug_iphoneos-arm.deb
+Size: 583442
+MD5sum: 2ac847e207e49af4267c84849b035df5
+SHA1: fb6095483de3739cce08c8e701dbaafca8ed55e7
+SHA256: b2b2508f97877193ba22d04c0877ace590342ef72aebf1c5978adf8e52afb97a
+Section: Tweaks
+Description: System information in Settings app > General > About, and other sections. Set boot-nonce, save shsh, battery info etc
+Author: ARX8x
+Name: System Info
+Tags: settings, specs, system data
+Targets: {"Settings App":["About View"]}
+
+Package: com.gfp.zebra
+Version: 1.0.7
+Architecture: iphoneos-arm
+Maintainer: Wilson Styres <wilson@styres.me>
+Installed-Size: 48572
+Depends: dpkg, uikittools, firmware (>= 9.0)
+Filename: debs/com.gfp.zebra_1.0.7_iphoneos-arm.deb
+Size: 20355762
+MD5sum: c62a1e6b0075de535b4801cf1a637562
+SHA1: c3c4463ef4e783ceffa8dde51f429602726d4f3a
+SHA256: 97e220daa090931f0e36c4a7504c2fd8544273364c465ca4f600eb24c9c2c1bf
+Section: Packaging
+Description: A Useful Package Manager
+Author: Wilson Styres <wilson@styres.me>
+Name: Zebra
+
 Package: com.gfp.AOVTW
 Version: 1.33.1.5
 Architecture: iphoneos-arm
