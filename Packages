@@ -15,6 +15,210 @@ Description: New notification concept
 Author: beta
 Name: Dayn
 
+Package: com.gfp.AOVTW
+Version: 1.33.1.5+gfp
+Architecture: iphoneos-arm
+Maintainer: 果粉派
+Installed-Size: 3592
+Depends: mobilesubstrate
+Filename: debs/com.gfp.AOVTW_1.33.1.5+gfp_iphoneos-arm.deb
+Size: 1039486
+MD5sum: 085854b9f6b1552b1446f38fd2e1dca4
+SHA1: 4e9ebfbff00647e3846060602f6ac416ab8a5b98
+SHA256: 7a8c6eb76394bef1ceb76bb29b81a946fb958684ccc65919164ece4941916939
+Section: Tweaks
+Description: Garena 傳說對決 iGMM Cheats by DanYal for
+Author: 果粉派
+Name: Garena 傳說對決 全圖
+
+Package: com.gfp.aod
+Version: 5.1.1
+Architecture: iphoneos-arm
+Maintainer: Soh Satoh
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), org.thebigboss.libcolorpicker, preferenceloader, com.spark.libsparkapplist
+Filename: debs/com.gfp.aod_5.1.1_iphoneos-arm.deb
+Size: 1492358
+MD5sum: 99e768faa5bc52a86882f9acb0f46103
+SHA1: 3731d7157051e3391d56cb5ea994205470ce3d9f
+SHA256: e89be03ab43939cfe66fa9f7e50b695bcfd3df416338ec90cb2d49bcf284ea71
+Section: Tweaks
+Description: Cool Always-On Display Tweak
+Author: Soh Satoh
+Icon: file:///Library/PreferenceBundles/aod.bundle/Icon@3x.png
+Name: AOD
+
+Package: com.gfp.bottomtoolbar
+Version: 1.2.0-3
+Architecture: iphoneos-arm
+Maintainer: XCXiao <Kpwn0@outlook.com>
+Installed-Size: 5476
+Depends: mobilesubstrate
+Filename: debs/com.gfp.bottomtoolbar_1.2.0-3_iphoneos-arm.deb
+Size: 4216076
+MD5sum: e8a3676c9e57762b1cb01185a0931c2d
+SHA1: 2ae83fe26190c1db5b797083570e6c98a7cb3e88
+SHA256: 9d91d2ffd39f9473f74eeca7fa50903241d2162c899f2f0ef8a476e3a4dd87ec
+Section: Tweaks
+Description: A useful and beautiful tool bar for your devices.
+Tag: purpose::extension, cydia::commercial, compatible_min::ios12.2, compatible_max::ios13.3
+Author: XCXiao <Kpwn0@outlook.com>
+Name: BottomToolBar
+
+Package: com.gfp.callblocker
+Version: 2.0.3
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 512
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.gfp.callblocker_2.0.3_iphoneos-arm.deb
+Size: 77588
+MD5sum: e0ebbb5da56e0755c8751ef09c6f73a5
+SHA1: d623f4643c7e6672080678738b7bc1597eb40eae
+SHA256: 8ffb1a9477722d667096370d284a2699926ee4707de3afa087ab8dcaf7a41c47
+Section: Tweaks
+Description: Block annoying Callers!
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/Application Support/CallBlocker/icon.png
+Name: CallBlocker
+
+Package: com.gfp.ccmusicartwork
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: cole cabral
+Installed-Size: 264
+Depends: mobilesubstrate, firmware (>= 13.0)
+Conflicts: com.spark.ccmusicartwork
+Filename: debs/com.gfp.ccmusicartwork_1.0.3_iphoneos-arm.deb
+Size: 21830
+MD5sum: 70347705fbd4ee2838b9d8f93cc14ac3
+SHA1: 39fad12c9d2edb5cf6033fa4c1c3446cd54b6fb3
+SHA256: dc3e88d87d9f96d4389f4bb28653d6ac26fd4b303956d8dbb48353d82401a1a6
+Section: Tweaks
+Description: Album artwork in music cc module.
+Author: cole cabral
+Name: CCArtwork
+
+Package: com.gfp.dots
+Version: 1.2.7
+Architecture: iphoneos-arm
+Maintainer: Shyam Lad <shyamladdev@gmail.com>
+Installed-Size: 928
+Depends: mobilesubstrate (>= 0.9.5.000), preferenceloader
+Filename: debs/com.gfp.dots_1.2.7_iphoneos-arm.deb
+Size: 398164
+MD5sum: 801cd8724407b8441565c1f58b25313f
+SHA1: eb92e773907b56da9b2ea8122a59f998eaab235e
+SHA256: 4960892f58edec819cbe49c2c5263ceab7333728f590c69d3106866cc68b226e
+Section: Tweaks
+Description: Add notification dots to your OLED screen!
+Tag: cydia::commercial
+Author: Shyam Lad <shyamladdev@gmail.com>
+Icon: file:///Library/PreferenceBundles/DotsPrefs.bundle/Icon@3x.png
+Name: Dots
+
+Package: com.gfp.genesis
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: TylerD3V <tyler.norman@shaw.ca>
+Depends: mobilesubstrate, firmware (>=13.0), ws.hbang.common (>= 1.14), applist
+Filename: debs/com.gfp.genesis_1.1_iphoneos-arm.deb
+Size: 409986
+MD5sum: 4e0b85959ce6a9fe7087f488ca763633
+SHA1: 07fdd56191ff0faabbcab31317ce9c200eace606
+SHA256: 184a794726873ba77bb4e5024b19759241ad7ca0af86a312c52cf2e7f43b4df9
+Section: Tweaks
+Description: The Beginning of Something Beautiful.
+Tag: purpose::extension, cydia::commercial, compatible_min::ios5.1, compatible_max::ios13.3
+Author: TylerD3V <tyler.norman@shaw.ca>
+Name: Genesis
+
+Package: com.gfp.grupi
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Soongyu Kwon
+Installed-Size: 544
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: debs/com.gfp.grupi_1.0.3_iphoneos-arm.deb
+Size: 180362
+MD5sum: 3d9f2e029bee90c09b1f329e87f6c304
+SHA1: e27c93cdc3a19ed85c3c936f0d6e5cffe35d6463
+SHA256: 0cfd61d9fa3a4b7bda78e9d7aa22a7623367310fc4786fe7393df16f12607855
+Section: Tweaks
+Description: Grouped Notifications for iOS 11 ~ iOS 13
+Author: Soongyu Kwon & Timeloop
+Name: Grupi
+
+Package: com.gfp.killbackground13
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: 果粉派
+Installed-Size: 488
+Pre-Depends: firmware (>= 13.0)
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Conflicts: tw.garynil.swipehome, com.ichitaso.killbackground9, com.ichitaso.killbackground10, com.ichitaso.killbackground11, com.ichitaso.killbackgroundxs, com.julioverne.sbcard, com.cemck.killx-pro, com.cemck.killx
+Replaces: com.ichitaso.killbackground13
+Filename: debs/com.gfp.killbackground13_1.0.deb
+Size: 143064
+MD5sum: 8ac6bf9acad5798b84a9242cbfa3cbe9
+SHA1: ada55b1f16d70256cc082af10bfc73e213767957
+SHA256: 18b0365e3390ab3d377f70776ec9d534a117486ecfcd01a11733f5542bc35324
+Section: Tweaks
+Description: Kill background apps with style for iOS 13.
+Tag: purpose::extension, compatible::ios13
+Author: ichitaso
+Icon: file:///Library/PreferenceBundles/KillBackgroundSettings.bundle/KB_icon@2x.png
+Name: KillBackground13
+
+Package: com.gfp.lynx
+Version: 1.1.8-6
+Architecture: iphoneos-arm
+Maintainer: MTAC <mtactheming@gmail.com>
+Installed-Size: 2140
+Depends: mobilesubstrate, ws.hbang.common, org.thebigboss.libcolorpicker, firmware (>= 13.0), com.rpetrich.rocketbootstrap, applist
+Filename: debs/com.gfp.lynx_1.1.8-6_iphoneos-arm.deb
+Size: 504478
+MD5sum: 9a7f5bda96d87ccd83b2a1bb3614b9f9
+SHA1: f6ae00c00322a10614324fa1def66c89b580df1e
+SHA256: c38f1114e8edebee74a5071f45cd1c1fd014f1b346937d8950f6a56cd902debd
+Section: Tweaks
+Description: Ultimate device customization
+Tag: purpose::extension, cydia::commercial, compatible_min::ios13.0, compatible_max::ios13.3
+Author: MTAC <mtactheming@gmail.com>
+Name: Lynx
+
+Package: com.gfp.switcher
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Neo Ighodaro
+Installed-Size: 420
+Depends: mobilesubstrate, firmware (>= 11.2), com.tapsharp.libtapsharp (>= 1.0.0), ws.hbang.common (>= 1.12), com.rpetrich.rocketbootstrap (>= 1.0.3), applist
+Filename: debs/com.gfp.switcher_1.0.2_iphoneos-arm.deb
+Size: 97992
+MD5sum: 0cdf5837ea2d6ec9a6ced62690e3c9bc
+SHA1: 4118ab6cc253245283674749e328c220ac570815
+SHA256: ffed9f0e5ba1ace4b44e382eb7974edb2d91d28042e18900d0623ee7de9a8f4f
+Section: Tweaks
+Description: Switch to a different application from anywhere on your iOS device.
+Author: Neo Ighodaro
+Icon: file:///Library/Application Support/Switcher/icon@2x.png
+Name: Switcher
+
+Package: com.gfp.switchus
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: SynnyG <synnyg.devjb@gmail.com>
+Depends: mobilesubstrate, firmware (>= 11.0), applist
+Filename: debs/com.gfp.switchus_1.4_iphoneos-arm.deb
+Size: 123256
+MD5sum: 1353ebba39ca2626449ce39ab14a893e
+SHA1: 822c37dff46e01c8b9927593e8437415ab1a523b
+SHA256: 7cc09110f17d77dc387c21a14e21e38707070b54196ff7dc2454cd99182d862e
+Section: Tweaks
+Description: Customize the App Switcher like never before !
+Author: SynnyG <synnyg.devjb@gmail.com>
+Name: Switchus
+
 Package: com.laughingQuoll.prysm
 Version: 1.4.1+gfp
 Architecture: iphoneos-arm
@@ -30,22 +234,6 @@ Section: Tweaks
 Description: Your control center, reimagined.
 Author: LaughingQuoll
 Name: Prysm
-
-Package: com.gfp.AOVTW
-Version: 1.33.1.5
-Architecture: iphoneos-arm
-Maintainer: 果粉派
-Installed-Size: 3592
-Depends: mobilesubstrate
-Filename: debs/com.gfp.AOVTW_1.33.1.5_iphoneos-arm.deb
-Size: 1039488
-MD5sum: e37656cbfb4989bcbce81a106af8c947
-SHA1: a5b32e410c5f6eb55b4c2365c4e1847308c26d98
-SHA256: 97984ce3909284b32ba2fb50d11fff40dc1e5cc54166c17823d9010ba1689fd6
-Section: Tweaks
-Description: Garena 傳說對決 iGMM Cheats by DanYal for
-Author: 果粉派
-Name: Garena 傳說對決 全圖
 
 Package: com.gfp.calllogpro
 Version: 11.0.1-beta-10
@@ -679,22 +867,6 @@ Author: saurik, Cannathea <csupport@cannathea.com>
 Dev: cannathea
 Name: Apple File Conduit "2" (iOS 11+, arm64)
 Sponsor: 果粉派 <email@gmail.com>
-
-Package: com.gfp.backgrounderaction13
-Version: 0.1.4
-Architecture: iphoneos-arm
-Maintainer: akusio <akusio-report@neko2.net>
-Installed-Size: 244
-Depends: mobilesubstrate, com.opa334.ccsupport
-Filename: debs/com.gfp.backgrounderaction13_0.1.4_iphoneos-arm.deb
-Size: 20360
-MD5sum: bed99ed05aa835547a7ea0f55b88974b
-SHA1: 9d4cb1a1d5532ffedf379a3528e2fd7aa383cd8e
-SHA256: 18d1ee809f3e89ac651b87c88719a2e3dfd5014f0039ab36bd28fa587bc73a8d
-Section: Tweaks
-Description: [iOS13]Add "Toggle Background Mode" action to ControlCenter.
-Author: akusio <akusio-report@neko2.net>
-Name: BackgrounderAction2 for CCSupport
 
 Package: com.gfp.betterrotate
 Version: 1.3.6
