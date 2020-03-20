@@ -15,6 +15,39 @@ Description: New notification concept
 Author: beta
 Name: Dayn
 
+Package: com.gfp.AOVTW
+Version: 1.33.1.5
+Architecture: iphoneos-arm
+Maintainer: 果粉派
+Installed-Size: 3592
+Depends: mobilesubstrate
+Filename: debs/com.gfp.AOVTW_1.33.1.5_iphoneos-arm.deb
+Size: 1039488
+MD5sum: e37656cbfb4989bcbce81a106af8c947
+SHA1: a5b32e410c5f6eb55b4c2365c4e1847308c26d98
+SHA256: 97984ce3909284b32ba2fb50d11fff40dc1e5cc54166c17823d9010ba1689fd6
+Section: Tweaks
+Description: Garena 傳說對決 iGMM Cheats by DanYal for
+Author: 果粉派
+Name: Garena 傳說對決 全圖
+
+Package: com.gfp.prysm
+Version: 1.4.1
+Architecture: iphoneos-arm
+Maintainer: 果粉派
+Installed-Size: 1960
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
+Filename: debs/com.gfp.prysm_1.4.1_iphoneos-arm.deb
+Size: 394032
+MD5sum: 132d54c93da05e91384cd5c8370854e1
+SHA1: 9d2dbd97908f1bfbdfd018914dbf5f568056ce4e
+SHA256: 5ba92082706ba39c888af7b7b0c118bd8f183f19568579589571a7d760a09b6a
+Section: Tweaks
+Description: Your control center, reimagined.
+Author: 果粉派
+Icon: https://repo.packix.com/api/Packages/5e58e8685bcef5001a252e4f/icon/download?size=medium
+Name: Prysm
+
 Package: com.gfp.calllogpro
 Version: 11.0.1-beta-10
 Architecture: iphoneos-arm
@@ -165,23 +198,6 @@ Section: Packaging
 Description: A Useful Package Manager
 Author: Wilson Styres <wilson@styres.me>
 Name: Zebra
-
-Package: com.gfp.AOVTW
-Version: 1.33.1.5
-Architecture: iphoneos-arm
-Maintainer: 果粉派
-Installed-Size: 3592
-Depends: mobilesubstrate
-Filename: debs/com.gfp.AOVTW_1.33.1.5_iphoneos-arm.deb
-Size: 1039520
-MD5sum: 98c303371e99975f60935ba7f5587ee3
-SHA1: 3ab8cfe687eaef824c8253379b2b6b7bd04a1030
-SHA256: 71d16172380c9f28ec48ff2c4444dcf27aa5247daa23b757d6c392c68af9ebb1
-Section: Cheats
-Homepage: https://discord.gg/azYJZve
-Description: Garena 傳說對決 iGMM Cheats by DanYal for iOSGods.com!
-Author: 果粉派
-Name: Garena 傳說對決 全圖
 
 Package: com.gfp.a12customresfix
 Version: 3.0-1+debug
@@ -538,23 +554,6 @@ Section: Tweaks
 Description: A brand-new, unobtrusive, OLED-friendly volume HUD.
 Author: Ayden Panhuyzen
 Name: Ultrasound
-
-Package: com.pul.prysm
-Version: 1.4.1
-Architecture: iphoneos-arm
-Maintainer: Pulandres
-Installed-Size: 1928
-Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
-Filename: debs/com.pul.prysm_1.4.1_iphoneos-arm.deb
-Size: 401546
-MD5sum: 42ee1f2e8a9931accb3dbb2cdddf44d6
-SHA1: 4b5b02a09dd093a079754ce3fda041d2a5a9425d
-SHA256: 2d2cac532b009084a29e34038959dfaf895824042423549798b582ff66b36904
-Section: Tweaks
-Description: Your control center, reimagined.
-Author: LaughingQuoll
-Icon: https://repo.packix.com/api/Packages/5e58e8685bcef5001a252e4f/icon/download?size=medium
-Name: Prysm
 
 Package: com.gfp.goodwifi
 Version: 0.0~beta5
