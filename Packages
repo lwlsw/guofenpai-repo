@@ -625,3 +625,545 @@ Description: Block annoying Callers!
 Author: 果粉派 <email@gmail.com>
 Icon: file:///Library/Application Support/CallBlocker/icon.png
 Name: CallBlocker
+
+Package: com.gfp.afc2d-arm64
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: 果粉派 <email@gmail.com>
+Installed-Size: 672
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: cy+cpu.arm64, mobilesubstrate, ldid
+Conflicts: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Replaces: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Provides: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Filename: debs/com.gfp.afc2d-arm64_1.1_iphoneos-arm.deb
+Size: 27276
+MD5sum: bc6ec899e1b5cdc0cd90d0bc726e4289
+SHA1: eefcb610458cc8e909e0b744fc673e329cc4c2d3
+SHA256: f3c6d889e2d1944c01941cebf58ce8011432bd115bec52d470edd504e75ad2f7
+Section: System
+Description: Allow full file-system access over USB for arm64 devices, especially for those using a KPPLess jailbreak.
+Tag: purpose::daemon, compatible::ios10, compatible::ios11, compatible::ios12
+Author: saurik, Cannathea <csupport@cannathea.com>
+Dev: cannathea
+Name: Apple File Conduit "2" (iOS 11+, arm64)
+Sponsor: 果粉派 <email@gmail.com>
+
+Package: com.gfp.backgrounderaction13
+Version: 0.1.4
+Architecture: iphoneos-arm
+Maintainer: akusio <akusio-report@neko2.net>
+Installed-Size: 244
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: debs/com.gfp.backgrounderaction13_0.1.4_iphoneos-arm.deb
+Size: 20360
+MD5sum: bed99ed05aa835547a7ea0f55b88974b
+SHA1: 9d4cb1a1d5532ffedf379a3528e2fd7aa383cd8e
+SHA256: 18d1ee809f3e89ac651b87c88719a2e3dfd5014f0039ab36bd28fa587bc73a8d
+Section: Tweaks
+Description: [iOS13]Add "Toggle Background Mode" action to ControlCenter.
+Author: akusio <akusio-report@neko2.net>
+Name: BackgrounderAction2 for CCSupport
+
+Package: com.gfp.betterrotate
+Version: 1.3.6
+Architecture: iphoneos-arm
+Maintainer: gfp
+Installed-Size: 688
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap, preferenceloader, com.laughingquoll.prefixui, com.spark.libsparkapplist
+Filename: debs/com.gfp.betterrotate_1.3.6_iphoneos-arm.deb
+Size: 62020
+MD5sum: 6698cb238e39915369cb2bdaad2e2613
+SHA1: a8be83908dd7578aa7a6bfe93a9f788899dbafc6
+SHA256: 26d3b9edf52e6ebb4292528a35aad5abdaf478ddfa8449b007b90e52a891cb67
+Section: Tweaks
+Description: A Smarter Orientation Lock!
+Author: LaughingQuoll
+Name: SmartRotate
+
+Package: com.gfp.bottomcontrolx
+Version: 1.3.0
+Architecture: iphoneos-arm
+Maintainer: 果粉派 <email@gmail.com>
+Installed-Size: 589
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
+Filename: debs/com.gfp.bottomcontrolx_1.3.0_iphoneos-arm.deb
+Size: 177906
+MD5sum: 3a7b04661aa994c3398186b9375912e4
+SHA1: b7e77a4588a9f0242688424537413988e0ba29dd
+SHA256: a495d8aaef0d52ceb2514456b349fd8e4b8af7b4ea1821fb7fe02466e90d9bef
+Section: Tweaks
+Priority: optional
+Description: Easier access to your ControlCenter on iPhone X.
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Author: XCXiao <958169971@qq.com>
+Dev: xcxiao
+Name: BottomControlX
+
+Package: com.gfp.carrierizer
+Version: 1.0.5
+Architecture: iphoneos-arm
+Maintainer: 果粉派 <email@gmail.com>
+Installed-Size: 575
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader
+Filename: debs/com.gfp.carrierizer_1.0.5_iphoneos-arm.deb
+Size: 84430
+MD5sum: b5f22442501aa33a2714ee1b6f0a6a83
+SHA1: 0520c52a26cceca9c4b0b28d5985076d10b9e890
+SHA256: b2ac9e3ab1fc362ec053460c357632d6c3ed4e4b61b5670cf03a98eeba447ca7
+Section: Tweaks
+Priority: optional
+Description: Custom Text for your Carrier!
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Author: CydiaGeek <lucaluca86@aol.com>
+Dev: lucaluca86
+Icon: file:///Library/PreferenceBundles/Carrierizer.bundle/Carrierizer@2x.png
+Name: Carrierizer
+Sponsor: 果粉派 <email@gmail.com>
+
+Package: com.gfp.cc12
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: 果粉派 <email@gmail.com>
+Installed-Size: 680
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader
+Filename: debs/com.gfp.cc12_2.0_iphoneos-arm.deb
+Size: 349300
+MD5sum: 7e9588a12caa84aa36fe7907816efe6f
+SHA1: 5013a33534eb0c3e4b3ed4b69bf2cbc280197737
+SHA256: 0e472c2fc5ba91c76635e6d4ad5bcbf45bc5b5054a37207afa731e243756f7d4
+Section: Tweaks
+Priority: optional
+Description: Camera Tweaks for A12 Devices
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Author: thazsar <thazsar@yahoo.com>
+Dev: thazsar
+Icon: file:///Library/PreferenceBundles/CC12.bundle/CC12@2x.png
+Name: Camera Crap for A12
+Sponsor: 果粉派 <email@gmail.com>
+
+Package: com.gfp.ccmodulespro
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: 果粉派 <email@mail.com>
+Installed-Size: 1496
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, com.opa334.ccsupport (>= 1.2.1)
+Filename: debs/com.gfp.ccmodulespro_1.1.1_iphoneos-arm.deb
+Size: 327726
+MD5sum: 01a21dfba78f8090fa09199210c8e34d
+SHA1: 730546540f817fa678377f102c5cecbf2a2d7569
+SHA256: 9b9d86208038fd7c22621b9efa190ed4c154626ac2ebd23893ac293330e92b19
+Section: Tweaks
+Description: Increase the usability of your control center.
+Author: jailbreak365 <jailbreak365@mail.com>
+Name: CCModules Pro
+
+Package: com.gfp.colorbanners3
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 果粉派 <email@gmail.com>
+Installed-Size: 584
+Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5.000), org.thebigboss.libcolorpicker (>= 1.1)
+Filename: debs/com.gfp.colorbanners3_1.0.1_iphoneos-arm.deb
+Size: 227220
+MD5sum: 923d8d27dbd534b48f787d86f14fbe21
+SHA1: a8480fd0e6f09af196c5d8823f6c5623731167f0
+SHA256: 533df00f4dd089c3bd0a960f67013f9bcaa577185cbfc0a1252b6a3e640052ec
+Section: Tweaks
+Description: Spruce up your notifications
+Tag: cydia::commercial
+Author: David Goldman <help@golddavid.com>
+Name: ColorBanners 3
+
+Package: com.gfp.cracktool3
+Version: 3.0~beta11
+Architecture: iphoneos-arm
+Maintainer: 果粉派
+Depends: ldid (>= 1:1.2.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
+Filename: debs/com.gfp.cracktool3_3.0~beta11_iphoneos-arm.deb
+Size: 164470
+MD5sum: 12ded3d6dbe09a2f446d61908b5cb2f7
+SHA1: ce2fe445ecac59a02df47c52d60c5852b1f93e82
+SHA256: f385c2f23018f4a6095ceb21f3d55d6d6f749c08616cb2530e58b20950c60dd3
+Section: Utilities
+Description: Crack Tweaks on one click
+Author: Julio
+Name: CrackTool3 (iOS 11)
+
+Package: com.gfp.cracktool4
+Version: 4.0~beta9c
+Architecture: iphoneos-arm
+Maintainer: 果粉派
+Depends: ldid (>= 2.1.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
+Filename: debs/com.gfp.cracktool4_4.0~beta9c_iphoneos-arm.deb
+Size: 516588
+MD5sum: 950248353275e2ed8ebd3432b94abb2e
+SHA1: 9924731a7b915db2109091062b6fe90754ce0995
+SHA256: 627e6cba5abf04a067c8f19ef43cf34cd4cd082204872d4282554fc527c0e739
+Section: Utilities
+Description: Crack Tweaks on one click
+Author: Julio
+Name: CrackTool4 (iOS 12)
+
+Package: com.gfp.ezswipe
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 340
+Depends: mobilesubstrate
+Filename: debs/com.gfp.ezswipe_1.1_iphoneos-arm.deb
+Size: 29422
+MD5sum: 373cfec9dffb62bf30ff1ba4a63ab4f9
+SHA1: 2ab0dcc53a12946d17596eac3bc2992358c084c2
+SHA256: 38275fffa67267b1468a47568e51aa3b988c01c92c0f2309b8cddaf2dc6ef941
+Section: Tweaks
+Description: Give your hand a rest by using gestures instead!
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/Application Support/EZSwipe/icon.png
+Name: EZSwipe
+
+Package: com.gfp.flex3beta
+Version: 1:3~Beta86
+Architecture: iphoneos-arm
+Maintainer: 果粉派
+Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
+Filename: debs/com.gfp.flex3beta_1:3~Beta86_iphoneos-arm.deb
+Size: 14920696
+MD5sum: 7d831e76545bac1c6ba6eaa5de8b9956
+SHA1: 3f7f3093b76b39dacafa30533ce496d201db86cb
+SHA256: 7024ca93d04a7e957c44760beafd4bcee48c36fac2abe4be4bb649038c3f094b
+Section: Tweaks
+Description: Develop your own tweaks and share them on the Flex Community Cloud
+Author: John Coates
+Name: Flex 3 Beta
+Recommended: com.rpetrich.rocketbootstrap
+
+Package: com.gfp.flow
+Version: 1.1.4
+Architecture: iphoneos-arm
+Maintainer: Muirey03
+Installed-Size: 968
+Depends: mobilesubstrate, preferenceloader, com.muirey03.libmryipc, ws.hbang.common (>= 1.11)
+Conflicts: me.nepeta.nereid, ch.mdaus.sylph, org.s1ris.spinxi
+Filename: debs/com.gfp.flow_1.1.4_iphoneos-arm.deb
+Size: 255096
+MD5sum: a7a500b4f56d5981851fb7e9c9170160
+SHA1: 9908f012be34c6df44f3ffb05679e71eb628ef3a
+SHA256: 48add17e559d9b46249590ba7d9e5bf9a91e6cfbefaa1a212dd47065fe8f8e33
+Section: Tweaks
+Description: Cover Flow like never before!
+Author: Muirey03
+Icon: file:///Library/PreferenceBundles/Flow.bundle/Icon-Large.png
+Name: Flow
+
+Package: com.gfp.hidebarx
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: 果粉派
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: debs/com.gfp.hidebarx_0.0.4_iphoneos-arm.deb
+Size: 5472
+MD5sum: ee206336d42753bc6a84d5f3fe6b0414
+SHA1: 0ab235f6afef2e12bcef37b5826a243a5453d750
+SHA256: 4aa76437e985422549341da0bdcd69733b97f5ab1df9d6c61fb4945b1c180674
+Section: Tweaks
+Description: Hides the iPhone X home bar - compatible with VolumeBarX
+Author: Spark
+Name: HideBarX
+Removes: com.gfp.HidebarX
+
+Package: com.gfp.icleanerpro
+Version: 7.8.0
+Architecture: iphoneos-arm
+Maintainer: 果粉派 <email@gmail.com>
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: debs/com.gfp.icleanerpro_7.8.0_iphoneos-arm.deb
+Size: 7690650
+MD5sum: 306fee2341438de890acc1c2734add8b
+SHA1: fea6380f6c0cd1446364ddf7f937d573f809bb0b
+SHA256: 0a41e76ffd7e0b0fca3ed40664efce8c03889dcd3ff6ee69e10aff50a0b65c5b
+Section: Utilities
+Description: The first real iOS system cleaner & optimizer
+Author: Ivano Bilenchi <support@ib-soft.net>
+Icon: file:///Applications/iCleaner.app/Icon.png
+Name: iCleaner Pro
+
+Package: com.gfp.kalm
+Version: 1.3.2
+Architecture: iphoneos-arm
+Maintainer: ubik <cydia@ubikstyl.es>
+Installed-Size: 948
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.ioscreatix.twig, xyz.royalapps.jellyfish, com.bengiannis.manta, com.xcxiao.simplels2, com.lacertosusrepo.speculum
+Filename: debs/com.gfp.kalm_1.3.2_iphoneos-arm.deb
+Size: 278108
+MD5sum: 4668af437390085981c6ee1f7587d806
+SHA1: eaa80286f4982282e835c52bce1bef511a52db1d
+SHA256: c34cf7bd4f8859590161ee9fdc3b07874eb2dee66aa510db2164b95b6d1ce2c9
+Section: Tweaks
+Description: A beautiful first sight.
+Author: ubik <cydia@ubikstyl.es>
+Name: Kalm
+
+Package: com.gfp.killx-pro
+Version: 2.1.2
+Architecture: iphoneos-arm
+Maintainer: 果粉派
+Installed-Size: 848
+Depends: mobilesubstrate, preferenceloader, applist, firmware (>= 11.0)
+Conflicts: com.gfp.killx
+Filename: debs/com.gfp.killx-pro_2.1.2_iphoneos-arm.deb
+Size: 230508
+MD5sum: 4cb43dff612fba48a3697b9b3c8d11db
+SHA1: 5dffa5fbb79d46da084f3e0e1245ef84a4590e66
+SHA256: 82b62c6b3b6f043cfed135bf1234ac65ad445fbd45ff74aec80885ac4e7134ee
+Section: Tweaks
+Description: One swipe to kill them all!
+Author: cemck
+Icon: file:///Library/PreferenceBundles/KillXProPrefs.bundle/icon_pro_big@3x.png
+Name: KillX Pro
+
+Package: com.gfp.lotion
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Mirac <ozd.mirac@gmail.com>
+Depends: com.spark.juice
+Filename: debs/com.gfp.lotion_2.0_iphoneos-arm.deb
+Size: 4000
+MD5sum: 50d787a3d0df9f4efec217d45e970b40
+SHA1: 067d4f5486fdd748774c23305e5020509cdf29e9
+SHA256: 10a5a105a2250cf0cf24e64cc50fe7bfa38728b6795c8d4bcd46753a047e74c6
+Section: Themes
+Description: lotion is a Juice theme, potion's longer brother :)
+Author: Mirac <ozd.mirac@gmail.com>
+Name: lotion
+
+Package: com.gfp.lowbatterybanner
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: 果粉派
+Installed-Size: 264
+Depends: mobilesubstrate
+Filename: debs/com.gfp.lowbatterybanner_1.0.2_iphoneos-arm.deb
+Size: 12764
+MD5sum: 71aba1e9cec922611ee60dc268aa3bed
+SHA1: af4fcb3d3d5907062bf4df1598777e50f2d186d3
+SHA256: 8abd57eea76988cf79457deda92e670b06d5118728b6cbce6a40d65797b710b5
+Section: Tweaks
+Description: Replace low power alert with a banner notification!
+Author: Spark
+Name: LowBatteryBanner
+
+Package: com.gfp.networkdisabler
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: 果粉派 <email@gmail.com>
+Installed-Size: 1044
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader, applist
+Filename: debs/com.gfp.networkdisabler_1.0.0_iphoneos-arm.deb
+Size: 277526
+MD5sum: 3603798fde3a3582d7ff78cb049e06b3
+SHA1: a4df2fe8983afa06173f4bf7d1e934d3f973944a
+SHA256: 1a3592cdc7fdb33b2041828260430f9bd8d7ae49f688e1f4d015ce9314280193
+Section: Tweaks
+Description: Control your network when using apps
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Author: ichitaso <willfeeltips+ntd@gmail.com>
+Dev: ichitaso
+Icon: file:///Library/PreferenceBundles/NetworkDisablerSettings.bundle/icon@2x.png
+Name: NetworkDisabler
+
+Package: com.gfp.nfcbackgroundenabler
+Version: 1.2.0.0
+Architecture: iphoneos-arm
+Maintainer: ArandomDev <Haow6449@gmail.com>
+Installed-Size: 416
+Depends: mobilesubstrate
+Filename: debs/com.gfp.nfcbackgroundenabler_1.2.0.0_iphoneos-arm.deb
+Size: 34950
+MD5sum: 4046d9e1282c896a5081f9c31e38000a
+SHA1: 4acb52b889bd4e4b1277b0ed69ae94bdadbfc6d7
+SHA256: de750fdd8a4b97fa5b95da6efd9d9f012dbefd1f957f1d6d221dc071e75e49f2
+Section: Tweaks
+Description: Enables native background NFC detection on iPhones.
+Author: ArandomDev <Haow6449@gmail.com>
+Name: NFCBackgroundEnabler
+
+Package: com.gfp.npurge
+Version: 1.0.5
+Architecture: iphoneos-arm
+Maintainer: smokin1337 <smokin1337@gmail.com>
+Installed-Size: 980
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: debs/com.gfp.npurge_1.0.5_iphoneos-arm.deb
+Size: 463852
+MD5sum: 0995ece5225817d63b1581fa36d52725
+SHA1: 97006b06cf8d6a9768cbc3e3d853c83cb8aa7cd3
+SHA256: f513cb3679a2581c006249902e45b39e5b2001afaed74ada21e0327e655e3a63
+Section: Tweaks
+Description: Purge notifications by refreshing !
+Author: smokin1337 <smokin1337@gmail.com>
+Icon: https://idevicehacked.com/depictions/com.smokin1337.npurge/NPurge.png
+Name: NPurge
+
+Package: com.gfp.pancake
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: 果粉派
+Installed-Size: 1036
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), applist, firmware (>= 11.0)
+Filename: debs/com.gfp.pancake_1.1_iphoneos-arm.deb
+Size: 568120
+MD5sum: 6cd87c91fb8d76aacd3f63635dbfaca4
+SHA1: 58d8f90cd1ec31b144476175f83c9f670900316e
+SHA256: f12e57eac413bbf94a601b2fa1c775ccdf4b52612badca5f1e3f1751fc8c6558
+Section: Tweaks
+Description: Interactive dismiss gesture on the whole screen in all apps
+Author: AnthoPak
+Name: PanCake
+
+Package: com.gfp.pencilchargingindicator
+Version: 1.2~b7
+Architecture: iphoneos-arm
+Maintainer: 果粉派
+Installed-Size: 3592
+Depends: mobilesubstrate
+Filename: debs/com.gfp.pencilchargingindicator_1.2~b7_iphoneos-arm.deb
+Size: 508786
+MD5sum: 4813e599bc4805ab238b05dc95098021
+SHA1: 9d7b51b642ea523e7bfbcdfe358da506c9bb739b
+SHA256: 006237fde8b9c4c0d368b4ebf16165b58aeb437a4efb3c9118d57ca7d8adb727
+Section: Tweaks
+Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.
+Author: shiftcmdk
+Name: PencilChargingIndicator
+
+Package: com.gfp.photomanager12
+Version: 1.1.2-3+debug
+Architecture: iphoneos-arm
+Maintainer: 果粉派
+Installed-Size: 1560
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.gfp.photomanager12_1.1.2-3+debug_iphoneos-arm.deb
+Size: 470998
+MD5sum: e1d0dfabaa93ce963fe35fd80e9be5c7
+SHA1: 8beb743b684d9a2304c7266a32463e965e738d36
+SHA256: 66120e71baa8f31643347cc3ed41c6570bc2adceafef9db9da5ce74c8e8e8853
+Section: Tweaks
+Description: Add many features to the photos app.
+Author: Frozen Penguin
+Name: PhotoManager (iOS 12 & 13)
+
+Package: com.gfp.powerselector11
+Version: 1.2.6
+Architecture: iphoneos-arm
+Maintainer: 果粉派 <email@gmail.com>
+Installed-Size: 1860
+Pre-Depends: firmware (>= 11.0)
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.gfp.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Replaces: com.ichitaso.powerselector11
+Filename: debs/com.gfp.powerselector11_1.2.6_iphoneos-arm.deb
+Size: 355348
+MD5sum: d53ed1120f944539d87d6e66032b9dba
+SHA1: 12e7cd52e7bd1be0e7b3541ef40c070b158d4039
+SHA256: 1aded746be201f3a3e3b7da5aa6ae083f9e8e00e2ac57d5e47ebfb040cd07c64
+Section: Utilities
+Description: The power supply relation of a device is operated.
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Author: ichitaso <willfeeltips+ps11@gmail.com>
+Dev: ichitaso
+Icon: file:///Library/PreferenceBundles/PowerSelectorSettings.bundle/icon@2x.png
+Name: PowerSelector (iOS 11 to 13)
+Sponsor: 果粉派 <email@gmail.com>
+
+Package: com.gfp.realcc
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: 果粉派 <email@gmail.com>
+Installed-Size: 102
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.gfp.realcc_1.0.2_iphoneos-arm.deb
+Size: 6570
+MD5sum: 937d57bfae473c2f6e473b63b2919bee
+SHA1: d9757a16549d34055a970e1c0b7a9f295e8af18e
+SHA256: 994e79b2f66941a7f8adf42623119e5611d19087f3059a1bb1e7f2f98b3235d0
+Section: Tweaks
+Description: Actually disable Wi-Fi from the iOS 11 CC
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Author: Jake James <jakeashacks@gmail.com>
+Dev: jakeashacks
+Name: RealCC
+
+Package: com.gfp.safeccmodules
+Version: 1.5-1
+Architecture: iphoneos-arm
+Maintainer: 果粉派 <email@mail.com>
+Filename: debs/com.gfp.safeccmodules_1.5-1_iphoneos-arm.deb
+Size: 1365216
+MD5sum: e05621c496c0dadd41840557eb7b870d
+SHA1: af8010780eb74889429423c1de3f1ea1fcb25089
+SHA256: 2e9f983509b60680087e82b108f21276b5555d275d28a682ff12bf9d8f0d1a19
+Section: Addons (ControlCenter)
+Description: Control center modules for iOS 11/12/13. New in v1.5-1: Fix for Tiny Volume and Silent Mode modules causing issues.
+Author: jailbreak365 <jailbreak365@mail.com>
+Dev: jailbreak365
+Name: CCModules
+
+Package: com.gfp.successionrestore
+Version: 1.4.12-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 3121
+Depends: firmware-sbin, rsync
+Filename: debs/com.gfp.successionrestore_1.4.12-1_iphoneos-arm.deb
+Size: 1382138
+MD5sum: c21cf30c701aeaea36944f8dbb4be970
+SHA1: 3e9d28e8eb87419e31d1694e31d03ba2170a7b6e
+SHA256: 26f090a2f39c5330a3624a3ea12e8dc8f328a0ad0de7894c6280010662c07a1d
+Section: Utilities
+Priority: optional
+Description: Restore without updating via rootfilesystem DMG
+Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Author: Samg_is_a_Ninja <samgisaninja@unc0ver.dev>
+Dev: stgardner4
+Icon: file:///Applications/SuccessionRestore.app/AppIcon20x20@3x.png
+Name: Succession
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.gfp.tsssaver
+Version: 1.2.0
+Architecture: iphoneos-arm
+Maintainer: 果粉派 <email@gmail.com>
+Installed-Size: 444
+Depends: com.modmyi.libswift4 (>= 4.0.3), firmware (>= 8.0)
+Filename: debs/com.gfp.tsssaver_1.2.0_iphoneos-arm.deb
+Size: 177722
+MD5sum: 9e2c670a089cc858e75d9885cfba7414
+SHA1: 7cc637c44b8769e31163031a7a134dc723fd004e
+SHA256: ccdff25ef8aa90dc2a3b62563206f8b18a2c2dfe1828e954a2cef862ac8f6334
+Section: Utilities
+Description: A one-click tool to save blobs using TSSsaver.1conan.com
+Author: Jamie Bishop <jamie@dynastic.co>
+Name: TSS Saver
+
+Package: com.gfp.voltage
+Version: 1.6.2
+Architecture: iphoneos-arm
+Maintainer: 果粉派 <email@gmail.com>
+Installed-Size: 488
+Pre-Depends: firmware (>= 9.0)
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: debs/com.gfp.voltage_1.6.2_iphoneos-arm.deb
+Size: 55782
+MD5sum: f40f7810b0bfccd8287218238e3c52fc
+SHA1: 3670e072820417fd71f6f5d00349c55bb895110e
+SHA256: 9fea864e3bbd6afd3f4cefe15e8015d694044bb6323c4f22794e0ad4d35c16a4
+Section: Tweaks
+Description: suppress banners in apps
+Author: The Holy Constituency of the Summer Triangle <summertriangle.dev@gmail.com>
+Name: Eyeplugs
+
