@@ -15,6 +15,40 @@ Description: New notification concept
 Author: beta
 Name: Dayn
 
+Package: com.gfp.calllogpro
+Version: 11.0.1-beta-10
+Architecture: iphoneos-arm
+Maintainer: 果粉派
+Installed-Size: 6530
+Depends: firmware(>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap, com.gfp.libiarrays
+Filename: debs/com.gfp.calllogpro_11.0.1-beta-10_iphoneos-arm.deb
+Size: 5611624
+MD5sum: fd66ac8b910a0dc9af6cabc1fddbc62d
+SHA1: 51b7b927f4e21e19a37fe952c1fbe21df3058287
+SHA256: 6a81b819a778512d37ec12383cfdf8eb78b628b38a07cf7ec3b8d796a929dc81
+Section: Tweaks
+Description: Manage history and delete call records.
+Author: IArrays <contact@iarrays.com>
+Icon: file:///Applications/CallLogPro.app/AppIcon29x29@2x.png
+Name: CallLogPro (iOS 13 to 8) Cracked
+
+Package: com.gfp.libiarrays
+Version: 1.0.11-beta-10
+Architecture: iphoneos-arm
+Maintainer: 果粉派
+Pre-Depends: firmware (>=7.0)
+Conflicts: com.iarrays.libiarrays1
+Filename: debs/com.gfp.libiarrays_1.0.11-beta-10_iphoneos-arm.deb
+Size: 289064
+MD5sum: 083afdef97f30c898a10590aa5023d7d
+SHA1: fffc77552fc7b7886e8a3322657e9fb0b7d32fdf
+SHA256: 608f917384f8ad2c127b80b703e1132b0354522fc135e58e5df340e79f6f3540
+Section: Development
+Description: Should be used only by IArrays products. This is closed library and no support is provided for this package.
+Author: IArrays <support@iarrays.com>
+Icon: https://repo.pulandres.me/CydiaIcon.png
+Name: libiarrays crack
+
 Package: com.gfp.appsyncunified
 Version: 70.0
 Architecture: iphoneos-arm
