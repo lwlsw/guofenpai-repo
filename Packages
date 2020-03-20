@@ -22,15 +22,15 @@ Maintainer: 果粉派
 Installed-Size: 6530
 Depends: firmware(>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap, com.gfp.libiarrays
 Filename: debs/com.gfp.calllogpro_11.0.1-beta-10_iphoneos-arm.deb
-Size: 5611624
-MD5sum: fd66ac8b910a0dc9af6cabc1fddbc62d
-SHA1: 51b7b927f4e21e19a37fe952c1fbe21df3058287
-SHA256: 6a81b819a778512d37ec12383cfdf8eb78b628b38a07cf7ec3b8d796a929dc81
+Size: 5611630
+MD5sum: 4f68a5d5d0dd8d19ece22756fa5ccd7d
+SHA1: 906c16e5f1371d937181faee53d160555849ac37
+SHA256: 89101bbcad358b6732b326821066d4abb968a0dfd1b3e3f5a30440106bc1ea24
 Section: Tweaks
 Description: Manage history and delete call records.
 Author: IArrays <contact@iarrays.com>
 Icon: file:///Applications/CallLogPro.app/AppIcon29x29@2x.png
-Name: CallLogPro (iOS 13 to 8) Cracked
+Name: CallLogPro (iOS 13 to 8)
 
 Package: com.gfp.libiarrays
 Version: 1.0.11-beta-10
@@ -39,15 +39,14 @@ Maintainer: 果粉派
 Pre-Depends: firmware (>=7.0)
 Conflicts: com.iarrays.libiarrays1
 Filename: debs/com.gfp.libiarrays_1.0.11-beta-10_iphoneos-arm.deb
-Size: 289064
-MD5sum: 083afdef97f30c898a10590aa5023d7d
-SHA1: fffc77552fc7b7886e8a3322657e9fb0b7d32fdf
-SHA256: 608f917384f8ad2c127b80b703e1132b0354522fc135e58e5df340e79f6f3540
+Size: 289028
+MD5sum: eb8240b135ae2c4141a587ffd1af914c
+SHA1: ca3413bff62b45a72e2688af446925af2acb512b
+SHA256: 64e157ce4ea729dec88af850b7d1107d24fcbe78b32acacb9b39a586a6ad638f
 Section: Development
 Description: Should be used only by IArrays products. This is closed library and no support is provided for this package.
 Author: IArrays <support@iarrays.com>
-Icon: https://repo.pulandres.me/CydiaIcon.png
-Name: libiarrays crack
+Name: libiarrays
 
 Package: com.gfp.appsyncunified
 Version: 70.0
