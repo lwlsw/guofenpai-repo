@@ -34,16 +34,16 @@ Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
 Name: AppSync Unified
 
 Package: com.gfp.deadringer
-Version: 0.1.0
+Version: 0.2.0
 Architecture: iphoneos-arm
 Maintainer: Kritanta
 Installed-Size: 208
 Depends: mobilesubstrate, firmware (>= 13.0)
-Filename: debs/com.gfp.deadringer_0.1.0_iphoneos-arm.deb
+Filename: debs/com.gfp.deadringer_0.2.0_iphoneos-arm.deb
 Size: 24048
-MD5sum: 02f1e3ebb31ba3f9ba6574341773ffb4
-SHA1: 81df65c269e7449b3cef02ef0c2fdeb5e1f170a6
-SHA256: fab8a4ee7122bf06c70dc2bb91ff04367ce304e2fdf68f313572a47cd3cdd795
+MD5sum: eb624d6efef86f56216836350d78efd5
+SHA1: 7de99e5612d9d4ad3d202735ae02543ea4c11c9f
+SHA256: 29e5f3609dc9cac18f68ebd75b5f5562375e67f9fe2a840e601be19933faa5ce
 Section: Tweaks
 Description: Minimalist ringer icon in top left corner
 Author: Kritanta
