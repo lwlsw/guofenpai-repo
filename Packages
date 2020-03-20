@@ -16,16 +16,16 @@ Author: beta
 Name: Dayn
 
 Package: com.laughingQuoll.prysm
-Version: 1.4.1
+Version: 1.4.1+gfp
 Architecture: iphoneos-arm
 Maintainer: LaughingQuoll
 Installed-Size: 1960
 Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
-Filename: debs/com.laughingQuoll.prysm_1.4.1_iphoneos-arm.deb
-Size: 393950
-MD5sum: 1f39d588921ce5529d34fb6d3cad8151
-SHA1: f30771ec4357dff9ae71c76fd0d185d2ec5f62e5
-SHA256: 80e9f191e8bc69c83e129639d11e9591bab17d8c071ad56891c340fe76c9b159
+Filename: debs/com.laughingQuoll.prysm_1.4.1+gfp_iphoneos-arm.deb
+Size: 393956
+MD5sum: 62dc02ec011fc6a8919cd1524a085989
+SHA1: d833b95b6601742cd32f96bbbb304b809e4b6956
+SHA256: 813964fd065562e92a0585d8eedea9f1be0ec9870cef1bab7f0317215c75d416
 Section: Tweaks
 Description: Your control center, reimagined.
 Author: LaughingQuoll
