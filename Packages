@@ -15,6 +15,22 @@ Description: New notification concept
 Author: beta
 Name: Dayn
 
+Package: com.laughingQuoll.prysm
+Version: 1.4.1
+Architecture: iphoneos-arm
+Maintainer: LaughingQuoll
+Installed-Size: 1960
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
+Filename: debs/com.laughingQuoll.prysm_1.4.1_iphoneos-arm.deb
+Size: 393950
+MD5sum: 1f39d588921ce5529d34fb6d3cad8151
+SHA1: f30771ec4357dff9ae71c76fd0d185d2ec5f62e5
+SHA256: 80e9f191e8bc69c83e129639d11e9591bab17d8c071ad56891c340fe76c9b159
+Section: Tweaks
+Description: Your control center, reimagined.
+Author: LaughingQuoll
+Name: Prysm
+
 Package: com.gfp.AOVTW
 Version: 1.33.1.5
 Architecture: iphoneos-arm
@@ -30,23 +46,6 @@ Section: Tweaks
 Description: Garena 傳說對決 iGMM Cheats by DanYal for
 Author: 果粉派
 Name: Garena 傳說對決 全圖
-
-Package: com.gfp.prysm
-Version: 1.4.1
-Architecture: iphoneos-arm
-Maintainer: 果粉派
-Installed-Size: 1960
-Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
-Filename: debs/com.gfp.prysm_1.4.1_iphoneos-arm.deb
-Size: 394032
-MD5sum: 132d54c93da05e91384cd5c8370854e1
-SHA1: 9d2dbd97908f1bfbdfd018914dbf5f568056ce4e
-SHA256: 5ba92082706ba39c888af7b7b0c118bd8f183f19568579589571a7d760a09b6a
-Section: Tweaks
-Description: Your control center, reimagined.
-Author: 果粉派
-Icon: https://repo.packix.com/api/Packages/5e58e8685bcef5001a252e4f/icon/download?size=medium
-Name: Prysm
 
 Package: com.gfp.calllogpro
 Version: 11.0.1-beta-10
@@ -82,18 +81,18 @@ Author: IArrays <support@iarrays.com>
 Name: libiarrays
 
 Package: com.gfp.appsyncunified
-Version: 70.0
+Version: 72.0
 Architecture: iphoneos-arm
 Maintainer: Karen/あけみ <karen@akemi.ai>
 Installed-Size: 496
 Depends: firmware (>= 5.0), firmware (<= 13.3.1), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
 Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, science.xnu.substitute
 Provides: appsync
-Filename: debs/com.gfp.appsyncunified_70.0_iphoneos-arm.deb
-Size: 64014
-MD5sum: 0917b237bbbf490c85c5f06a4f729029
-SHA1: af287db0953118330edf0dfc90661004b2be23d2
-SHA256: d0d536333f865ce8f5895a01260b7b728053dd11119fe841913759f15de3ec2e
+Filename: debs/com.gfp.appsyncunified_72.0_iphoneos-arm.deb
+Size: 64004
+MD5sum: cb370c6448de9ecdf857e3b2e32e21d4
+SHA1: cc604f432107c5c2da3799fc20f0b188b52b5429
+SHA256: 4bd50004bc581404d88e422c0c5a669f9e55291c383709df9a94d57dc4cf04a2
 Section: Tweaks
 Description: Enables the ability to install unsigned/fakesigned iOS applications.
 Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
