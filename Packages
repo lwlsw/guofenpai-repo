@@ -15,6 +15,637 @@ Description: New notification concept
 Author: beta
 Name: Dayn
 
+Package: com.gfp.4gwantlte
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: CydiaGeek <lucaluca86@aol.com>
+Depends: mobilesubstrate
+Filename: debs/com.gfp.4gwantlte_1.0.4_iphoneos-arm.deb
+Size: 9142
+MD5sum: 15896266bafc03180e2525a5bbe85da0
+SHA1: b4a060c30404077464514a14e7a9b4aef1b669da
+SHA256: 51dbe5d0ac64767db8db9a76f0fa187a685c7af66751242c5ddd862d0518f44c
+Section: Tweaks
+Description: The Tweak Shows the LTE Icon instead of 4G! Option ported from my BarFade Tweak.
+Author: CydiaGeek <lucaluca86@aol.com>
+Name: 4GwantLTE
+
+Package: com.gfp.Kremix
+Version: 3.4.1
+Architecture: iphoneos-arm
+Maintainer: @kadirbaran
+Filename: debs/com.gfp.Kremix_3.4.1_iphoneos-arm.deb
+Size: 4912298
+MD5sum: 90f686cb6f21c821a3483a27bc3c1607
+SHA1: 9434d0d6566f928bddf56c3764c558618609fd2a
+SHA256: 2f4f5fff94e0d0b81f749dcc0815153248e17eb43c9c8eed8d54dba9dfe641af
+Section: Themes
+Description: 已補個別中國應用圖標 Black And Cream Coexistence
+Author: @kadirbaran
+Name: Kremix
+
+Package: com.gfp.axon
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Baw Appie
+Installed-Size: 576
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: debs/com.gfp.axon_1.0_iphoneos-arm.deb
+Size: 192172
+MD5sum: 5b3961a2732728d485e9c27ec505cef5
+SHA1: d7b4ad985a9a177d46460e7bdf399dc7f8c62275
+SHA256: 848d48b6d6b17a5eb4c96771f76807b984b2dd486826098355ac8fa6708753c2
+Section: Tweaks
+Description: Priority Hub for iOS 11 and 12
+Author: Nepeta & Baw Appie
+Name: Axon
+
+Package: com.gfp.bundlex
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JB-Planet <stanleyparpart17@gmail.com>
+Depends: mobilesubstrate, wallpaperloader
+Filename: debs/com.gfp.bundlex_1.0_iphoneos-arm.deb
+Size: 72812378
+MD5sum: 7fe49dac68900956ce6dbd9eef9e576f
+SHA1: 1abebe9e133ee18da488ec12074bca2b6462ae5d
+SHA256: 5689d5c5659dd363cab90b0b46fe8db7ca7aaac66eeae22755dcb8fa50a6ce2d
+Section: Addons
+Description: Awesome live wallpaper bundle with day and night switch
+Author: JB-Planet <stanleyparpart17@gmail.com>
+Name: BundleX
+
+Package: com.gfp.cat
+Version: 1.1.1-beta
+Architecture: iphoneos-arm
+Maintainer: Litten <hello@litten.sh>
+Installed-Size: 848
+Depends: mobilesubstrate, firmware (>= 12), ws.hbang.common (>= 1.14)
+Filename: debs/com.gfp.cat_1.1.1-beta_iphoneos-arm.deb
+Size: 507452
+MD5sum: 98ab1885bd2abdf2bdd6f804bf5da7b5
+SHA1: 1865a16e090f0a99f6754c5af57a9fad442a6c72
+SHA256: fc2c1f11935e0e2cf6d61e1cf9e39074dec47f8cab46cb3f09ec8d595204a292
+Section: Tweaks (Beta)
+Description: Every Cat Has Her/His Own Sounding Meow, So Why Not Your Keyboard As Well?
+Author: Litten <hello@litten.sh>
+Icon: https://repo.litten.sh/depictions/cat/assets/icon.png
+Name: Cat [Beta]
+
+Package: com.gfp.ccringer13
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: ConorTheDev <con0r.b@protonmail.com>
+Installed-Size: 280
+Depends: mobilesubstrate, firmware (>=11.0), com.opa334.ccsupport
+Filename: debs/com.gfp.ccringer13_1.0.0_iphoneos-arm.deb
+Size: 15264
+MD5sum: 0f42b6b9d1798cb0cd42a49ec906f377
+SHA1: 64182241febfb5d5362bad7ac80da148dd50daeb
+SHA256: 0efff733b0047cb52dfb372122d8fb277d79d5dbf87d54d6940c1ff2f2a1d94b
+Section: Control Center (Modules)
+Description: An awesome Control Center module!
+Author: ConorTheDev <con0r.b@protonmail.com>
+Name: CCRinger13
+
+Package: com.gfp.dictmojix
+Version: 1.4.3
+Architecture: iphoneos-arm
+Maintainer: udevs
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.gfp.dictmojix_1.4.3_iphoneos-arm.deb
+Size: 10216
+MD5sum: ab857f0540c009b91ec6c64aa57ca1ce
+SHA1: 49f487aa484ba9bf7c3a3b6f0f710a2bbe77be9e
+SHA256: 99153b99a301988b802de2c3cf8efc5477f1a7f9f2a06ed286eeef7cb680ebaa
+Section: Tweaks
+Description: Replace dictation key with emoji key on iPhone X/XS! Support iOS 11-12.
+Author: udevs
+Name: DictMojiX
+
+Package: com.gfp.dim
+Version: 1.5.3
+Architecture: iphoneos-arm
+Maintainer: Thomas Finch <tomf64@gmail.com>
+Installed-Size: 804
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport, firmware(>=11.0)
+Filename: debs/com.gfp.dim_1.5.3_iphoneos-arm.deb
+Size: 260908
+MD5sum: 06225533408124e185dacab0aff03dcd
+SHA1: aa8ad1cf6a1b6ce3d07fed44ff66ba3b7223f866
+SHA256: 9da55420e2fbe154bb4f61c67715701048e6b46632e582238f12df333004d49e
+Section: Tweaks
+Description: Dim your screen even further!
+Author: Thomas Finch <tomf64@gmail.com>
+Name: Dim (udevs)
+
+Package: com.gfp.dnscrypt
+Version: 2.0.39-0ef2737
+Architecture: iphoneos-arm
+Maintainer: s1ris
+Depends: firmware (>=11.0)
+Filename: debs/com.gfp.dnscrypt_2.0.39-0ef2737_iphoneos-arm.deb
+Size: 4074012
+MD5sum: bd3791ca020fbb9b13956e91cc3315a2
+SHA1: 7462e258edcd60044e4179d32f77f524b6f430ce
+SHA256: 7190686b6e27019e23b925399f24615970a42fb784099fcd65ec27e21b20e891
+Section: Security
+Description: dnscrypt-proxy for iOS
+ See https://github.com/jedisct1/dnscrypt-proxy/wiki for more information.
+ To use this tool, change your networks DNS server to 127.0.0.1.
+ You can find the config file in /usr/bin/dnscrypt-proxy.toml
+Author: s1ris
+Name: dnscrypt-proxy
+
+Package: com.gfp.filza
+Version: 3.7.4-12
+Architecture: iphoneos-arm
+Maintainer: TIGI Software
+Installed-Size: 30704
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit
+Filename: debs/com.gfp.filza_3.7.4-12_iphoneos-arm.deb
+Size: 12722688
+MD5sum: 07f1dfece015a05f3444f624b2510f08
+SHA1: f4abdc306bcc9f0e91b46683eeb88705401d9a6d
+SHA256: ce0cca0e2db6279485d941c210a7983f4dc2865b76a342aad5f6d8d1892de0e5
+Section: Utilities
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
+Author: TIGI Software
+Name: Filza File Manager
+
+Package: com.gfp.floatytab
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Dylan West <iosthemem0d@gmail.com>
+Installed-Size: 5808
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, applist, ws.hbang.common (>= 1.14)
+Filename: debs/com.gfp.floatytab_1.0.2_iphoneos-arm.deb
+Size: 5113194
+MD5sum: 643a06f5a18d172edaa577b0e9c3ab12
+SHA1: 96f35e989b2fdf25f30d1e5167a7d6b2d5d59d34
+SHA256: 126a01679a6aa7d582d163f5306fb875d81f9ff3fa51ffa7f6ff2c6a4f6ac15c
+Section: Tweaks
+Description: Make your tab bar floaty...
+Tag: purpose::extension, cydia::commercial, compatible_min::ios13.0, compatible_max::ios13.3
+Author: Dylan West <iosthemem0d@gmail.com>
+Name: FloatyTab
+
+Package: com.gfp.gesturer
+Version: 1.1~beta8
+Architecture: iphoneos-arm
+Maintainer: udevs
+Installed-Size: 708
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
+Conflicts: com.udevs.statusbargesture
+Filename: debs/com.gfp.gesturer_1.1~beta8_iphoneos-arm.deb
+Size: 85222
+MD5sum: e5c98dbb291b5f3a6c7ffd4d0f400303
+SHA1: 4f903db24b0ae01188c88a1792451aaf1851a726
+SHA256: 280a15433e3eb3eb0a274fba966057526ff9e37520a6e67aad07c34f8245e94b
+Section: Tweaks
+Description: Gestures on iOS 13!
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.gesturer/icon/icon.png
+Name: Gesturer
+
+Package: com.gfp.homeplus
+Version: 0.4.9-beta
+Architecture: iphoneos-arm
+Maintainer: Kritanta
+Installed-Size: 2836
+Depends: mobilesubstrate
+Filename: debs/com.gfp.homeplus_0.4.9-beta_iphoneos-arm.deb
+Size: 1310066
+MD5sum: 2924d8c17057acb5cb69e343c8210fae
+SHA1: a19c1170fbdc899175dc8f28ba485f602671b739
+SHA256: 81eb8ce7eeae17adae8b07a9143df905e98960bc784760a52e4917ee19358168
+Section: Tweaks
+Description: Dynamic, live homescreen layout with an intuitive UI
+Author: Kritanta
+Icon: http://repo.kritanta.me/icon/HomePlus.png
+Name: HomePlus Beta
+
+Package: com.gfp.ibatterybeta2
+Version: 2.0.0
+Architecture: iphoneos-arm
+Maintainer: Gera <jabo00@mail.ru>
+Depends: mobilesubstrate
+Filename: debs/com.gfp.ibatterybeta2_2.0.0_iphoneos-arm.deb
+Size: 41596
+MD5sum: 5d621ddd27989ab600ba088338f34472
+SHA1: 86b474099ba2ce5d1f97100d793aceca059fd963
+SHA256: d973bdc76b340a913751261b3b982f4714dec11647962f63d0d4d401a1b60d75
+Section: Tweaks
+Description: iBatteryFix: Save your battery in simple & powerful way.
+Author: Gera <jabo00@mail.ru>
+Name: iBatterybeta2
+
+Package: com.gfp.installdpatch
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: XsF1re
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: debs/com.gfp.installdpatch_0.0.2_iphoneos-arm.deb
+Size: 5006
+MD5sum: f2e3db736cbe09979f38b23357161aa6
+SHA1: fb3c71977b82306f868a0d0a9b0be88229429860
+SHA256: f7ec6e30b8224667e4471fc77e6fd63639a4ae3cce767b309a1fa1c7b8a7947e
+Section: Tweaks
+Description: Tested on iOS 11.3.1 - 13.3. Freedom is non-negotiable. Makes installd allow over-the-air installation of IPAs signed by free developer accounts.
+Author: XsF1re
+Name: installdPatch
+
+Package: com.gfp.libskittycolor
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Skitty
+Installed-Size: 228
+Filename: debs/com.gfp.libskittycolor_1.0_iphoneos-arm.deb
+Size: 49060
+MD5sum: 5833c439b55c2781de4f65214efaa862
+SHA1: c93a9892761c3d2217fbdcdd798a1e6ddbc3199e
+SHA256: 202980e895f46ea436f60cbe5b7a8e9e243aa8136d20bf7f059e7c05510b17af
+Section: System
+Description: A simple color picker implementation.
+Tag: role::developer
+Author: Skitty
+Name: libskittycolor
+
+Package: com.gfp.lightsout
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Skitty
+Installed-Size: 288
+Depends: mobilesubstrate
+Filename: debs/com.gfp.lightsout_1.0_iphoneos-arm.deb
+Size: 26040
+MD5sum: b73e127a7ffc9361bdd86c08765bbd53
+SHA1: e386533fb1ab37f1a18c19bb3b682bd649317ff5
+SHA256: c8c8f2f6effda0e4788408acdee4710ad9656dc7c6195ab42fb71011d55c0861
+Section: Tweaks
+Description: Toggle dark mode/night shift with the light sensor!
+Author: Skitty
+Icon: https://skitty.xyz/repo/icons/xyz.skitty.lightsout.png
+Name: LightsOut
+
+Package: com.gfp.ltewant4g
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: CydiaGeek <lucaluca86@aol.com>
+Depends: mobilesubstrate
+Filename: debs/com.gfp.ltewant4g_1.0.1_iphoneos-arm.deb
+Size: 9130
+MD5sum: 3e6ec4c8d890c57add2ed80796e1e8ed
+SHA1: 347507ea9bc43d6bee7e36c5f74d2e8afceaaa56
+SHA256: 9add57debc2bdffa7925dbfc85530de024a275888a1e03e5d6a42e05bc103fda
+Section: Tweaks
+Description: The Tweak Shows the 4G Icon instead of LTE! Requested by @jailbrek102. For iOS 12 too.
+Author: CydiaGeek <lucaluca86@aol.com>
+Name: LTEwant4G
+
+Package: com.gfp.mcpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: XsF1re
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: debs/com.gfp.mcpatch_0.0.1_iphoneos-arm.deb
+Size: 3546
+MD5sum: f69b9cae28d34a60d0cf344ca44a5280
+SHA1: 8a4a57beb63e8a67d8125791faf6a76c5b66d39f
+SHA256: 64f70f08540caf60f38af7c9797484fd88f9e04cca5ee5be09bf162fa5d82bba
+Section: Tweaks
+Description: Make allow installing profile Anything regardless of targetDeviceType!
+Author: XsF1re
+Name: MCPatch
+
+Package: com.gfp.newterm2
+Version: 2.4
+Architecture: iphoneos-arm
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Installed-Size: 6792
+Depends: firmware (>= 10.0), firmware (>= 12.2) | org.swift.libswift, ws.hbang.common (>= 1.13), bash, coreutils, ncurses, system-cmds, com.linusyang.localeutf8
+Conflicts: ws.hbang.newterm, com.lint.ntarrows
+Replaces: ws.hbang.newterm, com.lint.ntarrows
+Filename: debs/com.gfp.newterm2_2.4_iphoneos-arm.deb
+Size: 3201736
+MD5sum: d3404f87044a653d8f5d94f5bab36dfb
+SHA1: 2f6fbb24d9add7c6faa475a1b37d77208aad184d
+SHA256: 88b4a942c8d46257fd09243680a8101ecde35e7e5e1da7735fed4cb1eb82147f
+Section: Terminal Support
+Description: A powerful terminal app for iOS
+Tag: compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Author: HASHBANG Productions <support@hbang.ws>
+Icon: https://chariz.com/cdn/icon/newterm/icon@3x.png
+Name: NewTerm (iOS 10 – 13)
+Support: https://hashbang.productions/support/
+
+Package: com.gfp.noctis12
+Version: 1.8.9.5
+Architecture: iphoneos-arm
+Maintainer: LaughingQuoll
+Installed-Size: 1244
+Depends: mobilesubstrate, preferenceloader, me.nepeta.libcolorpicker, com.laughingquoll.prefixui, com.spark.libsparkapplist, com.opa334.ccsupport, com.rpetrich.rocketbootstrap
+Conflicts: com.laughingquoll.noctisxi
+Filename: debs/com.gfp.noctis12_1.8.9.5_iphoneos-arm.deb
+Size: 258624
+MD5sum: d49ae271fdd4fbad3e10c25080c2d3ec
+SHA1: a7063a1341f1d7c542bad0ab4013a7c11ff2adc5
+SHA256: 0eb2474598d661144ffa308c9384bab5277d17028d97ade895f7b0ff6143c780
+Section: Tweaks
+Description: Noctis12 - System Wide Dark Mode for iOS
+Author: LaughingQuoll <me@laughingquoll.net>
+Name: Noctis12
+
+Package: com.gfp.nootabadgeinsetting
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: XsF1re
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.gfp.nootabadgeinsetting_0.0.1-1+debug_iphoneos-arm.deb
+Size: 4714
+MD5sum: e6346b18a0d82164c1de3b0db472f8dd
+SHA1: 7041428035708a8cc1ff581e6acd1c468e844cca
+SHA256: b95a280ba872fdd7a78b4cbd257d82544d719e5814a1c00eb6cbe67eb5d3b814
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: XsF1re
+Name: NoOTABadgeInSetting
+
+Package: com.gfp.owo
+Version: 0.2.2
+Architecture: iphoneos-arm
+Maintainer: Nepeta
+Installed-Size: 284
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>=11.0)
+Filename: debs/com.gfp.owo_0.2.2_iphoneos-arm.deb
+Size: 25398
+MD5sum: fae71ce73e06f9958a6c6933800c66a1
+SHA1: f5c526f07ef5546549e225c15fad828e107be0df
+SHA256: 04a44cbd0523f0626f87cde22060cddec0ebbf92b546174b353b019604d18665
+Section: Tweaks
+Description: OwO what's this!?
+Author: Nepeta
+Name: OwO
+
+Package: com.gfp.photores
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: 果粉派 <email@gmail.com>
+Installed-Size: 254
+Depends: mobilesubstrate, preferenceloader, firmware (>= 6.0), ws.hbang.common (>= 1.2)
+Filename: debs/com.gfp.photores_1.3_iphoneos-arm.deb
+Size: 37948
+MD5sum: bf63880d5364fc5f1526d9665be9a7b9
+SHA1: 1859375811d63a70eae23844c4876cd956c4acde
+SHA256: 98ddb2d989a00db89c4892da4c6eceec039868b758d995958569bc632d856d22
+Section: Tweaks
+Description: Taking photos at any size.
+Tag: purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
+Author: PoomSmart <poomst@hotmail.com>
+Dev: poomst
+Icon: file:///Library/PreferenceBundles/PhotoResSettings.bundle/PR@2x.png
+Name: PhotoRes
+Sponsor: 果粉派 <email@gmail.com>
+
+Package: com.gfp.quietdown
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Skitty
+Installed-Size: 284
+Depends: mobilesubstrate
+Filename: debs/com.gfp.quietdown_1.0_iphoneos-arm.deb
+Size: 33270
+MD5sum: f94bcddba987dd890c9052888837ab8a
+SHA1: 0f91edd61edebb226d04a6900e6de19bee6af860
+SHA256: 654c0562bbef156fce13a1375ffc5430e19b834d25ba06356473f4cf4af9ed3f
+Section: Tweaks
+Description: Mute Notifications for Time Periods
+Author: Skitty
+Icon: https://skitty.xyz/repo/icons/xyz.skitty.quietdown.png
+Name: QuietDown
+
+Package: com.gfp.ringer13
+Version: 1.2.4
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 420
+Depends: mobilesubstrate
+Filename: debs/com.gfp.ringer13_1.2.4_iphoneos-arm.deb
+Size: 64150
+MD5sum: d4a27ea3d7b2cf0f5001eb81896bb9b8
+SHA1: 88e931db257c05ba05fc7c81261c48486969e570
+SHA256: c20c1ab6056079917c9e1c657880b1606238df3d7dc945028bafb5234fdb33e6
+Section: Tweaks
+Description: An iOS 13 inspired Ringer HUD
+Author: KingPuffdaddi
+Name: Ringer13
+
+Package: com.gfp.rose
+Version: 5.1
+Architecture: iphoneos-arm
+Maintainer: Litten <hello@litten.sh>
+Installed-Size: 1208
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
+Filename: debs/com.gfp.rose_5.1_iphoneos-arm.deb
+Size: 489774
+MD5sum: 02894915cb2518655064145f900ef27f
+SHA1: 7c143039b2878ee1682fff4f8db9357c333bd741
+SHA256: 8ed686570420db4f00b60d979c6fff9a4c901025a7e9d430e731586ab99dc525
+Section: Tweaks
+Description: Getting peeped by a Rose doesn't feel that good, it's time to change that
+Author: Litten <hello@litten.sh>
+Icon: https://repo.litten.sh/depictions/rse/assets/icon.png
+Name: Rose 🌹
+
+Package: com.gfp.roundprefs
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: CydiaGeek <lucaluca86@aol.com>
+Depends: mobilesubstrate
+Filename: debs/com.gfp.roundprefs_1.0.3_iphoneos-arm.deb
+Size: 87342
+MD5sum: 931b455e932264814eebef2b624cec11
+SHA1: 8c920854d62355831dd25fb76984818ff65fc080
+SHA256: 99a2d04c0d622fd9bacfa208e8186b004c5f5f22944a3ff5e36a63cbd0eee9e2
+Section: Tweaks
+Description: Make Round the Settings Tables!
+Author: CydiaGeek <lucaluca86@aol.com>
+Name: roundPrefs
+
+Package: com.gfp.selectowo
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: Nepeta
+Installed-Size: 136
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>=11.0)
+Filename: debs/com.gfp.selectowo_0.1.1_iphoneos-arm.deb
+Size: 13092
+MD5sum: ea3b56a9e7d33a6b0d96b3b5d71e5bcb
+SHA1: ca8e8e3f59e85f88acd74b7a31f5c8bc7249194c
+SHA256: f35638c18fa2adb5f0214dd628cc3aeaf3379b6c316327c8f732d0034c66d3f3
+Section: Tweaks
+Description: Select text to OwO
+Author: Nepeta
+Name: SelectOwO
+
+Package: com.gfp.shydock
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: CydiaGeek <lucaluca86@aol.com>
+Depends: mobilesubstrate
+Filename: debs/com.gfp.shydock_1.3_iphoneos-arm.deb
+Size: 6972
+MD5sum: de0703f225b70424f9e8d04e951e698a
+SHA1: efc467961ed7c654a66d31b0c5f5328ab1e0a61b
+SHA256: 945dfad324e7908d89b20d071cfae49d2e72507579e8a546b70bad3c08f059c9
+Section: Tweaks
+Description: Completely Hide/Remove the Dock from your Device!
+Author: CydiaGeek <lucaluca86@aol.com>
+Name: ShyDock
+
+Package: com.gfp.sixls
+Version: 1.0.5-2
+Architecture: iphoneos-arm
+Maintainer: Skitty
+Installed-Size: 2024
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
+Filename: debs/com.gfp.sixls_1.0.5-2_iphoneos-arm.deb
+Size: 1519478
+MD5sum: 998f5364084a921a5390df7d33cccaa3
+SHA1: f8edeb981abc7f8a64c1a741cb5dc652a7156d91
+SHA256: 100097a607b04587f89169e37dd875f701158698e84a420a90f6ae7ada5ac86b
+Section: Tweaks
+Description: iOS 6 Style Lock Screen!
+Author: Skitty
+Icon: https://skitty.xyz/repo/icons/xyz.skitty.sixls.png
+Name: Six (LS)
+
+Package: com.gfp.snowboard.ui
+Version: 1.0.9~Beta1
+Architecture: iphoneos-arm
+Maintainer: Spark
+Installed-Size: 464
+Depends: mobilesubstrate, com.spark.snowboard (>> 1.2.22)
+Conflicts: com.spark.snowboard.UI
+Replaces: com.spark.snowboard.UI
+Provides: com.spark.snowboard.UI
+Filename: debs/com.gfp.snowboard.ui_1.0.9~Beta1_iphoneos-arm.deb
+Size: 72308
+MD5sum: 6b1e6e70f484af727986f60e0cf90205
+SHA1: 51fe5e00c7c47edf58c394892d00e76f5944ace1
+SHA256: 8216d113d57e670469d070eb2369e3058c3b2f14d732585e6c085badf154c7df
+Section: SnowBoard Extensions
+Description: UI Extension for SnowBoard
+Author: Spark
+Name: SnowBoard UI Extension
+
+Package: com.gfp.spectrum
+Version: 1.0.1-1
+Architecture: iphoneos-arm
+Maintainer: Skitty
+Installed-Size: 472
+Depends: mobilesubstrate, com.gfp.libskittycolor, firmware (>= 13.0)
+Filename: debs/com.gfp.spectrum_1.0.1-1_iphoneos-arm.deb
+Size: 71702
+MD5sum: 1a166fba92b26918b183af57718414a2
+SHA1: 9bfcab76c1dd535417c3c0c14e02437ac72e0728
+SHA256: 1ed881129d2061479cc7c0fcb346fa38ca61bd80808b8d20efed110299e7becd
+Section: Tweaks
+Description: Customize system colors!
+Author: Skitty & EvenDev
+Icon: https://skitty.xyz/repo/icons/xyz.skitty.spectrum.png
+Name: Spectrum
+
+Package: com.gfp.statusbargesture
+Version: 1.0~beta3
+Architecture: iphoneos-arm
+Maintainer: udevs
+Installed-Size: 616
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
+Filename: debs/com.gfp.statusbargesture_1.0~beta3_iphoneos-arm.deb
+Size: 48880
+MD5sum: 6eddba7ceacd838b06602a6ecb1bf87f
+SHA1: c70e80b799b0f3cab3f8457fed5c1c53830dcbf0
+SHA256: fe4f3e330731c66e7236da41d64d0f53700bcf557bf5009d863bad6936ceeffd
+Section: Tweaks
+Description: Gestures on status bar!
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.statusbargesture/icon/icon.png
+Name: StatusBarGesture
+
+Package: com.gfp.uaupdatetools
+Version: 1.0r-102
+Architecture: iphoneos-arm
+Maintainer: UnlimApps Inc.
+Depends: firmware (>= 7.0), mobilesubstrate
+Conflicts: it.marcocristalli.asupdatehider
+Filename: debs/com.gfp.uaupdatetools_1.0r-102_iphoneos-arm.deb
+Size: 850100
+MD5sum: f84fb2a52b5ee835bebbc8790a5ce77a
+SHA1: 9083f66fa4cd2c0aed9a58f90ffede3ad3f92858
+SHA256: f4297f3a2fd13da66db28bba8805b4051b453cab0bbec2448bccbbaf9e60cecd
+Section: System
+Priority: optional
+Description: Downgrade iOS apps to any previous version! No AppSync needed!!!
+Author: UnlimApps Inc.
+Name: App Admin
+
+Package: com.gfp.unsub
+Version: 0.1.9
+Architecture: iphoneos-arm
+Maintainer: Nepeta
+Installed-Size: 624
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), applist, firmware (>= 9.0)
+Conflicts: co.vexation.nosubstitute, com.opa334.nosubstitute12
+Filename: debs/com.gfp.unsub_0.1.9_iphoneos-arm.deb
+Size: 73416
+MD5sum: 698aa5ed32af82d9de6d93427daa1bae
+SHA1: 2f6fa1db62c0f234be5372a50ff35364ed21acde
+SHA256: 6eedaec2877f9bef6dea28cab04f4fdb5b52a01707d2fee32ac0ca5ac746bf9c
+Section: Tweaks
+Description: Disable tweak injection (Substrate/Substitute) in certain apps.
+Author: Nepeta
+Name: UnSub
+
+Package: com.gfp.wallpaperloader
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Skitty
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: debs/com.gfp.wallpaperloader_1.0_iphoneos-arm.deb
+Size: 19338
+MD5sum: 6baee0fd2bbecce00b44b6dc66f89b81
+SHA1: 263c333a8236b3043e08cfd23c0a2b3d97b41a58
+SHA256: 76d891697427313fae36c58d11c9cc662bb8a37d03eafbd94fdb90f092e9099a
+Section: Tweaks
+Description: Add more default wallpapers!
+Author: Skitty
+Name: WallpaperLoader
+
+Package: com.gfp.wplprefs
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Skitty
+Installed-Size: 188
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: debs/com.gfp.wplprefs_1.0_iphoneos-arm.deb
+Size: 22688
+MD5sum: 97809b58c282411cffc0384a81024ea4
+SHA1: d57f998ddfc2adac218ed5ca5cf6a187a1eeddbe
+SHA256: 67eba4400910c7490e01316fe0341df45bd274e13aa7bb916ea74ed865668a89
+Section: Utilities
+Description: Easily change dark/light wallpaper
+Author: Skitty
+Icon: https://skitty.xyz/repo/icons/xyz.skitty.wplprefs.png
+Name: WallpaperLoader (Prefs)
+
 Package: com.gfp.boxy4
 Version: 4.1.1
 Architecture: iphoneos-arm
