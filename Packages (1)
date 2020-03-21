@@ -15,6 +15,95 @@ Description: New notification concept
 Author: beta
 Name: Dayn
 
+Package: com.gfp.Blackviola
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Bousrih <bousrih20@gmail.com>
+Filename: debs/com.gfp.Blackviola_1.0_iphoneos-arm.deb
+Size: 15299822
+MD5sum: 3d79cfebe4254e216a7f24057e63fe01
+SHA1: dbad4a5e07a972d58e95d4eb515f7e7a1e78e8e2
+SHA256: 31c53c10eb6065512482061781fe3c3d22efabd81f10ae595766876ec48172c3
+Section: Themes
+Description: A completely pure black version of Viola!
+Author: Bousrih <bousrih20@gmail.com>
+Name: Viola Black
+
+Package: com.gfp.Darkviola
+Version: 1.9
+Architecture: iphoneos-arm
+Maintainer: Bousrih <bousrih20@gmail.com>
+Filename: debs/com.gfp.Darkviola_1.9_iphoneos-arm.deb
+Size: 34628636
+MD5sum: 51219323e0850c75dc8cd2ee4dcfe0bf
+SHA1: 0390f061180c779d2fc321b82ecc336f0a0553e7
+SHA256: c1419fbd1b679153b65d6310123a32df3731b93f3ef11ed6a4e1f16f7d94ecb5
+Section: Themes
+Description: The dark side of Viola!
+Author: Bousrih <bousrih20@gmail.com>
+Name: Viola Dark
+
+Package: com.gfp.boardbanners
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: gfp
+Installed-Size: 328
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 12.0), cy+cpu.arm64
+Replaces: com.gfp.boardbanner12
+Filename: debs/com.pul.boardbanners_2.deb
+Size: 65616
+MD5sum: 57c2f8a7662a990939fcdb859d6a4054
+SHA1: d145f1b4f3e4e83e24b883286d430a2dd3152923
+SHA256: e461b0a76a9df2f65cf9bd94652d27479251d4a6ff6dbee412b288a1aff61d4f
+Section: Tweaks
+Description: Notification banner tweak for Notch devices.
+Author: Soongyu Kwon
+Icon: https://repo.packix.com/api/Packages/5d9b4ce7ef0167001bae575b/icon/download?size=medium
+Name: BoardBanner13 (iOS 12~13)
+
+Package: com.gfp.peek
+Version: 0.8
+Architecture: iphoneos-arm
+Maintainer: @theprestigext
+Depends: com.spark.snowboard
+Filename: debs/com.gfp.peek_0.8_iphoneos-arm.deb
+Size: 2415094
+MD5sum: 0240375f0896eb1c758b44fdd94d0346
+SHA1: f4495eb98a542459859b796fe5af3f5232bbad9d
+SHA256: 80fe3c6300779fcd31fde81e3f2be33f67e647c515c4f0ab03a3fed9458b6663
+Section: Themes
+Description: App Previews for iOS
+Author: @theprestigext <x63amg@hotmail.com>
+Name: Peek
+
+Package: com.gfp.viola
+Version: 1.9.3
+Architecture: iphoneos-arm
+Maintainer: Bousrih <bousrih20@gmail.com>
+Filename: debs/com.gfp.viola_1.9.3_iphoneos-arm.deb
+Size: 46668160
+MD5sum: b56a657d0538346a9deda0853edcd6a8
+SHA1: f03e93816ea580db6b88a14239ce9c9ffe2767b8
+SHA256: 8f679775d80c17bec4aa5efedf19609b2b514f70a4c83afcca72c12966d6b0c2
+Section: Themes
+Description: Viola is a beautiful, simple & modern theme for iOS!
+Author: Bousrih <bousrih20@gmail.com>
+Name: Viola
+
+Package: com.gfp.violaglyphs
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Bousrih <bousrih20@gmail.com>
+Filename: debs/com.gfp.violaglyphs_1.1_iphoneos-arm.deb
+Size: 16626656
+MD5sum: 9a36dfc14593435427c7f6776fc82cef
+SHA1: 96a873bd1cc0ce87acccf31db37e31447d366f72
+SHA256: 37f54c7bc5d2794214d799264db662214614b3c35de31c5d7828c322b1a1f383
+Section: Themes
+Description: The glyph version of Viola! (3 modes including settings)
+Author: Bousrih <bousrih20@gmail.com>
+Name: Viola Glyphs
+
 Package: com.gfp.audiorecorderxs
 Version: 3.2-47
 Architecture: iphoneos-arm
