@@ -15,6 +15,139 @@ Description: New notification concept
 Author: beta
 Name: Dayn
 
+Package: com.gfp.copiedlabel
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: pxcex
+Installed-Size: 432
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Filename: debs/com.gfp.copiedlabel_1.0.1_iphoneos-arm.deb
+Size: 43016
+MD5sum: d550ccd1ab1dad1d771bf6ede56ccdb9
+SHA1: 2172080b9b41d2855d4df6c4919de0d5f7666990
+SHA256: b6e4b2201e985918cfaf3428377efdaf7648f8388de95b98d4e063ab764f6ff5
+Section: Tweaks
+Description: Longpress to copy text lable on anywhere app. Configure options from Settings!
+Author: pxcex
+Name: CopiedLabel
+
+Package: com.gfp.customsw
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: mostafa89
+Installed-Size: 540
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker
+Filename: debs/com.gfp.customsw_0.0.3_iphoneos-arm.deb
+Size: 125166
+MD5sum: 1002db6815fa0288e3e3fb021d9b7368
+SHA1: ec584e5ee498fa554e2efa7f97b8643e8f29619b
+SHA256: 75fbc275ccf91361a0798e36a0b4de3d59aabc2db7503c9359f76ff82ea115da
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: mostafa89
+Name: Custom SW
+
+Package: com.gfp.floatingdockplus13
+Version: 1.1.6
+Architecture: iphoneos-arm
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 420
+Depends: firmware (>= 13.0),mobilesubstrate,preferenceloader,com.spark.libsparkapplist
+Conflicts: com.imkpatil.floatingdock, com.synnyg.floatydock, com.imkpatil.floatingdockplus
+Filename: debs/com.gfp.floatingdockplus13_1.1.6_iphoneos-arm.deb
+Size: 92760
+MD5sum: ee64484320e2b60964000cda05bc2484
+SHA1: eff339973b56ecd7a034a0afb466ca18b3695389
+SHA256: 56e76593763b025e74cf99ca67e723025f3648e493220a2750f48246e015f65b
+Section: Tweaks
+Description: Use your Dock like a PRO!
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/Application Support/FloatingDockPlus13/icon.png
+Name: FloatingDockPlus13
+
+Package: com.gfp.magmaevo
+Version: 1.2.0
+Architecture: iphoneos-arm
+Maintainer: NoisyFlake
+Installed-Size: 596
+Depends: mobilesubstrate, firmware (>= 12.0), preferenceloader, com.opa334.ccsupport, org.thebigboss.libcolorpicker (>= 1.6.7)
+Conflicts: com.noisyflake.magma, com.noisyflake.magmapro
+Filename: debs/com.gfp.magmaevo_1.2.0_iphoneos-arm.deb
+Size: 147270
+MD5sum: 7e6eda18d6321e7a990781e3108e543f
+SHA1: 4f8e3b3c444267a9b7aa7389c511cae03e1c2b15
+SHA256: b6ec76a8ffd0c310fa3f5212e2adae136e55f05b6c3050b0419771d67ab344f1
+Section: Tweaks
+Description: Redefine your Control Center
+Author: NoisyFlake
+Name: Magma Evo
+
+Package: com.gfp.meltedcrayons
+Version: 1.0.2b88-1+debug
+Architecture: iphoneos-arm
+Maintainer: bermudalocket <twickd@eigenstuff.net>
+Installed-Size: 312
+Depends: mobilesubstrate
+Filename: debs/com.gfp.meltedcrayons_1.0.2b88-1+debug_iphoneos-arm.deb
+Size: 32330
+MD5sum: ad2d05a16acded220f5d26c796c43b61
+SHA1: ca37ca97e2e925906c67caf2a4a628ea0b35563d
+SHA256: 66784808d2e547819154072d18ba59811a24ed9f9e90b99dbe28bf107f44cf20
+Section: Tweaks
+Description: A more colorful music experience.
+Tag: purpose::extension, cydia::commercial, compatible_min::ios12.4.2, compatible_max::ios13.3
+Author: bermudalocket <twickd@eigenstuff.net>
+Name: MeltedCrayons
+
+Package: com.gfp.springtomize5
+Version: 5.1.0
+Architecture: iphoneos-arm
+Maintainer: sharedRoutine
+Installed-Size: 2688
+Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.rocketbootstrap
+Filename: debs/com.gfp.springtomize5_5.1.0_iphoneos-arm.deb
+Size: 842012
+MD5sum: 7728821ffb4049fae938ac5a60059daa
+SHA1: 943b95001509c0cced042678172dcbdb586941fd
+SHA256: eadf52f12ff992ae47361f6d5bc01794da14100d96d80dfef9157c3cea89110b
+Section: Tweaks
+Description: Customize your device like never before.
+Author: sharedRoutine
+Name: Springtomize 5
+
+Package: com.gfp.volvibes
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: Ethan Whited <ethanwhited2208@gmail.com>
+Installed-Size: 496
+Depends: mobilesubstrate, ws.hbang.common, org.thebigboss.libcolorpicker
+Filename: debs/com.gfp.volvibes_2.1_iphoneos-arm.deb
+Size: 230020
+MD5sum: 5654df9490e6d2b38bfdaaeae1bf6800
+SHA1: aa7637f706afd03203324c54ebf261544fd8ff23
+SHA256: 643a0e407a53f7111ad05a476517068a53e2c45a2a36ee42cbdeb2b3dd28ac41
+Section: Tweaks
+Description: Change the Volume Button vibrations!
+Tag: purpose::extension, cydia::commercial, compatible_min::ios13.0, compatible_max::ios13.3
+Author: Ethan Whited <ethanwhited2208@gmail.com>
+Name: VolVibes
+
+Package: com.gh.fastx
+Version: 1.5.3
+Architecture: iphoneos-arm
+Maintainer: mostafa
+Installed-Size: 420
+Depends: mobilesubstrate
+Filename: debs/com.gh.fastx_1.5.3_iphoneos-arm.deb
+Size: 16780
+MD5sum: 62ef1294eaae4e65f9e7e6b4ef5d3601
+SHA1: 04dec1dca8fc889105837d01ddbca986664ec8c6
+SHA256: 3d011d17bae79cbf66ee0688484d25264603b1f0d0e971efb20cb44511d8eaf4
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: mostafa
+Name: FastX
+
 Package: com.gfp.backgrounderaction13
 Version: 0.1.4
 Architecture: iphoneos-arm
