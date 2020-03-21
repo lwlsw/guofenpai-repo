@@ -15,6 +15,79 @@ Description: New notification concept
 Author: beta
 Name: Dayn
 
+Package: com.gfp.audiorecorderxs
+Version: 3.2-47
+Architecture: iphoneos-arm
+Maintainer: gfp
+Installed-Size: 21588
+Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions, firmware(>=12.0), wget
+Conflicts: net.limneos.callrecorder, com.pulandres.limneosos, com.hackyouriphone.limneosos, ru.rejail.limneosos
+Replaces: net.limneos.audiorecorder, net.limneos.audiorecorderx,net.limneos.audiorecorderxs
+Filename: debs/com.gfp.audiorecorderxs_3.2-47_iphoneos-arm.deb
+Size: 4726426
+MD5sum: 5ba75173fad9f69e751c7718ed480f12
+SHA1: 9cef5655f1fbb9bd536953faf0d39371460a8bd7
+SHA256: e0242de89414e1ee93db5dcae8dcea4c6c1ce8a8de577cb834add431259a4bf5
+Section: Tweaks
+Description: Most Advanced iOS Call Recorder Ever!
+Author: Elias Limneos <limneoselias@gmail.com>
+Icon: https://www.limneos.net/cydia/packageImages/net.limneos.audiorecorderxs/icon.png?fe=398
+Name: AudioRecorder XS (iOS 12/13)
+
+Package: com.gfp.bioprotectxs
+Version: 4.4-3
+Architecture: iphoneos-arm
+Maintainer: gfp
+Installed-Size: 3416
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12)
+Filename: debs/com.gfp.bioprotectxs_4.4-3_iphoneos-arm.deb
+Size: 1101768
+MD5sum: 28e820b1e6f4ba7659780e18569e1b1d
+SHA1: 6a15ba0454411af152488b46dafb175078acdaf1
+SHA256: 2951f83c98121c05000428e34efce21212fc44ccb924d233a74e15d7327af41a
+Section: Tweaks
+Description: Protect your apps with Touch/Face ID!
+Author: Elias Limneos <limneoselias@gmail.com>
+Icon: https://www.limneos.net/cydia/packageImages/net.limneos.bioprotectxs/icon.png?fe=276
+Name: BioProtect XS (iOS 12/13)
+
+Package: com.gfp.callbarxs
+Version: 2.3-75-1
+Architecture: iphoneos-arm
+Maintainer: gfp
+Installed-Size: 1356
+Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions, firmware ( >= 12), com.gfp.sedfix, wget
+Conflicts: com.hackyouriphone.limneosos, net.limneos.callbarx, com.pulandres.limneosos, ru.rejail.limneosos
+Replaces: net.limneos.callbarxs
+Filename: debs/com.gfp.callbarxs_2.3-75-1_iphoneos-arm.deb
+Size: 423762
+MD5sum: fd7de6f9aefe68ad6c48ba553ea29cc1
+SHA1: 8112ec6c036eb4631fc684879f0417ebad48bbd1
+SHA256: b6d8cb9f41def73975c6352dd9d2e3aa501f909d99505977793f817c879aea3d
+Section: Tweaks
+Description: Change the style of your UI Calls
+Author: Elias Limneos <limneoselias@gmail.com>
+Icon: https://www.limneos.net/cydia/packageImages/net.limneos.callbarxs/icon.png?fe=169
+Name: CallBar XS (iOS 12/13)
+
+Package: com.gfp.sedfix
+Version: 100.3
+Architecture: iphoneos-arm
+Maintainer: Pulandres
+Installed-Size: 1000
+Depends: mobilesubstrate, wget, curl
+Replaces: com.hackyouriphone.sedfix
+Filename: debs/com.gfp.sedfix_100.3_iphoneos-arm.deb
+Size: 260026
+MD5sum: a12b56e1a382b40f8f2876918bdf0b6d
+SHA1: 9488cd344461c951a2e02b8e4cf0b768be5b5ea9
+SHA256: 8c040a872a9c2b1318ad9a7ad6e177cd3ae9acce5f33dd1f62f79ea6db1587be
+Section: System
+Description: Package to get working Cracked Tweaks, IMPORTANT to future cracks, install please.
+Author: Pulandres
+Icon: https://repo.pulandres.me/CydiaIcon.png
+Name: CracksHelper
+
 Package: com.gfp.copiedlabel
 Version: 1.0.1
 Architecture: iphoneos-arm
@@ -1341,16 +1414,16 @@ Description: 僅適用於iPhone X D22 安裝以後請重啓再次越獄
 Name: 修復CheckRa1n電池詳細(D22)
 
 Package: com.gfp.Hot-Tub
-Version: 0.0.1-2
+Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: c1d3r
-Filename: debs/com.gfp.Hot-Tub_0.0.1-2_iphoneos-arm.deb
-Size: 15569708
-MD5sum: e846a5294b61a6d1052a5bb494228ad6
-SHA1: f8bd85005bdafa3e706e29d702218c56ffa4b6ad
-SHA256: f47128ad0d980ab8c0f73737bd10555842636c2c871d2da4628315d549e8f3d6
-Section: Application
-Description: An "adult entertainment" app centered around a great UI.
+Filename: debs/com.gfp.Hot-Tub_0.0.2_iphoneos-arm.deb
+Size: 16108820
+MD5sum: b6916b548cc79cf3dcf8cb1055744d41
+SHA1: 0a570d5635799fe4bbd2a6f48954d56e57da1040
+SHA256: efd1096e3fe280823767d358db36c7b6cbb8fcf5993fd33c5828cd77fb63398b
+Section: Applications
+Description: An "adult entertainment" app focused around a great UI
 Author: c1d3r
 Name: Hot Tub
 
