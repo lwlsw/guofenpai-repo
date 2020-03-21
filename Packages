@@ -1,3 +1,38 @@
+Package: com.gfp.safariplus
+Version: 1.7.11
+Architecture: iphoneos-arm
+Maintainer: opa334 <opa334@protonmail.com>
+Installed-Size: 5276
+Depends: firmware (>=8.0), mobilesubstrate, ws.hbang.common, com.creaturesurvive.libcscolorpicker, com.rpetrich.rocketbootstrap
+Filename: debs/com.gfp.safariplus_1.7.11_iphoneos-arm.deb
+Size: 1866910
+MD5sum: e99a0f89da0c61e5a5cafc8476fd4a5e
+SHA1: 03d09bc55d9d1db871fc38c8a3ea038dd6f0d7d9
+SHA256: dc2fecc7b3dfa2f4a8ce04337a707656a57ff62b1bc4bbe3edff02d0c06e055a
+Section: Tweaks
+Homepage: https://opa334.github.io/
+Description: Various enhancements to Safari!
+Author: opa334 <opa334@protonmail.com>
+Depiction: https://opa334.github.io/depic/SafariPlus/index.html
+Icon: https://opa334.github.io/depic/SafariPlus/Resources/icon.png
+Name: Safari Plus
+
+Package: com.gfp.smarterlpm
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: smokin1337 <smokin1337@gmail.com>
+Installed-Size: 296
+Depends: mobilesubstrate, com.spark.libsparkapplist
+Filename: debs/com.gfp.smarterlpm_1.0.0_iphoneos-arm.deb
+Size: 29350
+MD5sum: 1efece334bb585eeecd5d68ef5ff76a3
+SHA1: 5effb3af3a9a0674db2805bb4aaf78499aa8d5b9
+SHA256: 387c7d68174a056e7e26b7fdf06a27d3f23e9d97c11f2c901ef05dddd45ddc4e
+Section: Tweaks
+Description: A smarter low power mode !!
+Author: smokin1337 <smokin1337@gmail.com>
+Name: SmarterLPM
+
 Package: com.gfp.Blackviola
 Version: 1.0
 Architecture: iphoneos-arm
