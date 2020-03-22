@@ -1,3 +1,17 @@
+Package: com.gfp.prysmfruitcc
+Version: 1.1
+Architecture: iphoneos-arm
+Filename: debs/com.gfp.prysmfruitcc_1.1_iphoneos-arm.deb
+Size: 524246
+MD5sum: 97a90686c868c61f8328b71758de962a
+SHA1: a7b91a7221c6f65475ea16a0123f08626be8ad47
+SHA256: 91ea5eaa667d82eb432afbac888f198604f30b177bafd10ae07292fff3d03115
+Section: Themes
+Description: Bring Fresh Fruits to Your Control Centre.
+Author: Devy_Design <idrainmax@gmail.com>
+Depiction: https://guofenpai.github.io/repo/depictions/?p=com.gfp.prysmfruitcc
+Name: Prysm FruitCC
+
 Package: com.gfp.yobunpro
 Version: 1.5.5
 Architecture: iphoneos-arm

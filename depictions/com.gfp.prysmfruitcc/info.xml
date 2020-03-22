@@ -1,0 +1,68 @@
+<package>
+	<id>com.gfp.prysmfruitcc</id>
+	<name>Prysm FruitCC</name>
+	<version>1.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package></package>
+	</dependencies>
+	<shortDescription>FruitCC</shortDescription>
+	<descriptionlist>
+		<description> FruitCC
+為控制中心帶來成果。
+這也適用於常規控制中心
+為MagmaEVO添加了5個禮物（安裝時自動安裝在Preset目錄中）
+我在這裡做了非常簡單的事情，易於使用。
+安裝過程-只需5分鐘
+1）安裝FruitCC後，使用filza Library / Themes / PrysmFruitCC.theme / bundle進入“文件夾”位置，您會發現prysm文件夾複製了該文件夾
+2）將該文件夾粘貼到Library / Application Support文件夾中。
+3）使用單板滑雪板或ithemer應用FruitCC，然後再使用彈跳裝置。
+4）從帶有黑色背景圖標的控制中心設置中調整切換
+5）現在重新啟動您的設備。
+如果您不了解這些步驟，請點擊此處觀看視頻教程
+就這麼簡單。
+重要的提示 -
+您需要先添加這些回購
+https://rpetri.ch/repo/
+ 
+https://julioverne.github.io/
+ 
+https://repo.thuthuatjb.com
+（此回購用於Snowboard UI擴展，或從Sparks Discord下載）
+然後從Julioverne repo安裝Flipconvert（它也會自動安裝flipswitch）
+特別感謝@LaughingQuoll @thetimeloop的Prysm
+</description>
+		<description>介紹</description>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>截圖介紹</description>
+			<image>FruitCC.jpg/FruitCC1.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>第二張截圖介紹</description>
+			<image>截圖名字.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Second release</change>
+		<change>It has feature 1</change>
+		<change>It has feature 2</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
