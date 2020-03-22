@@ -343,23 +343,6 @@ Author: Elias Limneos <limneoselias@gmail.com>
 Icon: https://www.limneos.net/cydia/packageImages/net.limneos.audiorecorderxs/icon.png?fe=398
 Name: AudioRecorder XS (iOS 12/13)
 
-Package: com.gfp.bioprotectxs
-Version: 4.4-3
-Architecture: iphoneos-arm
-Maintainer: gfp
-Installed-Size: 3416
-Depends: mobilesubstrate, preferenceloader, firmware (>= 12)
-Filename: debs/com.gfp.bioprotectxs_4.4-3_iphoneos-arm.deb
-Size: 1101768
-MD5sum: 28e820b1e6f4ba7659780e18569e1b1d
-SHA1: 6a15ba0454411af152488b46dafb175078acdaf1
-SHA256: 2951f83c98121c05000428e34efce21212fc44ccb924d233a74e15d7327af41a
-Section: Tweaks
-Description: Protect your apps with Touch/Face ID!
-Author: Elias Limneos <limneoselias@gmail.com>
-Icon: https://www.limneos.net/cydia/packageImages/net.limneos.bioprotectxs/icon.png?fe=276
-Name: BioProtect XS (iOS 12/13)
-
 Package: com.gfp.boardbanners
 Version: 2.0
 Architecture: iphoneos-arm
@@ -378,25 +361,6 @@ Author: Soongyu Kwon
 Icon: https://repo.packix.com/api/Packages/5d9b4ce7ef0167001bae575b/icon/download?size=medium
 Name: BoardBanner13 (iOS 12~13)
 
-Package: com.gfp.callbarxs
-Version: 2.3-75-1
-Architecture: iphoneos-arm
-Maintainer: gfp
-Installed-Size: 1356
-Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions, firmware ( >= 12), com.gfp.sedfix, wget
-Conflicts: com.hackyouriphone.limneosos, net.limneos.callbarx, com.pulandres.limneosos, ru.rejail.limneosos
-Replaces: net.limneos.callbarxs
-Filename: debs/com.gfp.callbarxs_2.3-75-1_iphoneos-arm.deb
-Size: 423762
-MD5sum: fd7de6f9aefe68ad6c48ba553ea29cc1
-SHA1: 8112ec6c036eb4631fc684879f0417ebad48bbd1
-SHA256: b6d8cb9f41def73975c6352dd9d2e3aa501f909d99505977793f817c879aea3d
-Section: Tweaks
-Description: Change the style of your UI Calls
-Author: Elias Limneos <limneoselias@gmail.com>
-Icon: https://www.limneos.net/cydia/packageImages/net.limneos.callbarxs/icon.png?fe=169
-Name: CallBar XS (iOS 12/13)
-
 Package: com.gfp.peek
 Version: 0.8
 Architecture: iphoneos-arm
@@ -411,24 +375,6 @@ Section: Themes
 Description: App Previews for iOS
 Author: @theprestigext <x63amg@hotmail.com>
 Name: Peek
-
-Package: com.gfp.sedfix
-Version: 100.3
-Architecture: iphoneos-arm
-Maintainer: Pulandres
-Installed-Size: 1000
-Depends: mobilesubstrate, wget, curl
-Replaces: com.hackyouriphone.sedfix
-Filename: debs/com.gfp.sedfix_100.3_iphoneos-arm.deb
-Size: 260026
-MD5sum: a12b56e1a382b40f8f2876918bdf0b6d
-SHA1: 9488cd344461c951a2e02b8e4cf0b768be5b5ea9
-SHA256: 8c040a872a9c2b1318ad9a7ad6e177cd3ae9acce5f33dd1f62f79ea6db1587be
-Section: System
-Description: Package to get working Cracked Tweaks, IMPORTANT to future cracks, install please.
-Author: Pulandres
-Icon: https://repo.pulandres.me/CydiaIcon.png
-Name: CracksHelper
 
 Package: com.gfp.viola
 Version: 1.9.3
