@@ -1,3 +1,37 @@
+Package: com.gfp.yobunpro
+Version: 1.5.5
+Architecture: iphoneos-arm
+Maintainer: Plat-Ykor <plat-ykor@libero.it>
+Installed-Size: 588
+Depends: mobilesubstrate
+Filename: debs/com.gfp.yobunpro_1.5.5_iphoneos-arm.deb
+Size: 265176
+MD5sum: d98ea53ab4d3882e6fe54fdafcb5286a
+SHA1: 684cdfc4abf162e141653a7b2d8c164005df135a
+SHA256: 87bf67389ce36cb4b3f40f1ff30643389fec47f75db356702623656272a361ba
+Section: Tweaks
+Description: 主屏快捷開關(Homescreen雙指上滑觸發)
+Author: Plat-Ykor <plat-ykor@libero.it>
+Name: Yobun Pro
+
+Package: com.gfp.dots2
+Version: 0.3.2
+Architecture: iphoneos-arm
+Maintainer: Shyam Lad <shyamladdev@gmail.com>
+Installed-Size: 736
+Depends: mobilesubstrate (>= 0.9.5.000), preferenceloader
+Filename: debs/com.gfp.dots2_0.3.2_iphoneos-arm.deb
+Size: 361218
+MD5sum: 65314a98cde102ae4290f2edd309a14f
+SHA1: f2b42828b70257bb8436ce5f347adcefd48d5ead
+SHA256: a775519c6fe169a36e3ec8fac33b353256202f81270213195242a527a9a16db3
+Section: Tweaks
+Description: 在您的iPhone鎖屏上添加一個脈動的，顏色匹配的通知點！
+Tag: cydia::commercial
+Author: Shyam Lad <shyamladdev@gmail.com>
+Icon: file:///Library/PreferenceBundles/dots2prefs.bundle/Icon@3x.png
+Name: Dots 2 
+
 Package: com.gfp.flyjb
 Version: 0.2.4~beta1
 Architecture: iphoneos-arm
