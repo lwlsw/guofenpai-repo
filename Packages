@@ -1,3 +1,20 @@
+Package: com.gfp.photoresplus
+Version: 1.4.2
+Architecture: iphoneos-arm
+Maintainer: Spica T
+Installed-Size: 364
+Depends: mobilesubstrate, preferenceloader, firmware (>= 6.0), ws.hbang.common (>= 1.2)
+Conflicts: org.thebigboss.photores
+Filename: debs/com.gfp.photoresplus_1.4.2_iphoneos-arm.deb
+Size: 48766
+MD5sum: 2687b5c15ce92fb39917ce81c9f7b454
+SHA1: 099a0289ee9792e6b83a6947fa87a6acf7a67ff6
+SHA256: 5a76cb772ad6e30e61928b6dcccaf05c9cff5e7bfd1c728416475f9adf3959c3
+Section: Tweaks
+Description: Taking photos at any sizes.
+Author: Spica T
+Name: PhotoRes+
+
 Package: com.gfp.aperturize
 Version: 1.0.5
 Architecture: iphoneos-arm
@@ -917,14 +934,13 @@ Name: OwO
 Package: com.gfp.photores
 Version: 1.3
 Architecture: iphoneos-arm
-Maintainer: 果粉派 <email@gmail.com>
 Installed-Size: 254
 Depends: mobilesubstrate, preferenceloader, firmware (>= 6.0), ws.hbang.common (>= 1.2)
 Filename: debs/com.gfp.photores_1.3_iphoneos-arm.deb
-Size: 37948
-MD5sum: bf63880d5364fc5f1526d9665be9a7b9
-SHA1: 1859375811d63a70eae23844c4876cd956c4acde
-SHA256: 98ddb2d989a00db89c4892da4c6eceec039868b758d995958569bc632d856d22
+Size: 37916
+MD5sum: 13ee9f09fc6924caea95e15ce8b68aed
+SHA1: b7f662135fe3e6c4921ef2952df1d45a01daafab
+SHA256: 7b77fa56dc3d5c170c45579916831832ae5d3bbb33c92845eeaefb204c666a4b
 Section: Tweaks
 Description: Taking photos at any size.
 Tag: purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
@@ -932,7 +948,6 @@ Author: PoomSmart <poomst@hotmail.com>
 Dev: poomst
 Icon: file:///Library/PreferenceBundles/PhotoResSettings.bundle/PR@2x.png
 Name: PhotoRes
-Sponsor: 果粉派 <email@gmail.com>
 
 Package: com.gfp.quietdown
 Version: 1.0
@@ -3634,23 +3649,6 @@ Section: Localization
 Description: 使用前請先安裝好 PhotoManager
 Author: Mrmad <mrmadtw@gmail.com>
 Name: PhotoManager 繁體中文化
-
-Package: com.gfp.photores
-Version: 1.4.2
-Architecture: iphoneos-arm
-Maintainer: Spica T
-Installed-Size: 364
-Depends: mobilesubstrate, preferenceloader, firmware (>= 6.0), ws.hbang.common (>= 1.2)
-Conflicts: org.thebigboss.photores
-Filename: debs/com.gfp.photores_1.4.2_iphoneos-arm.deb
-Size: 48766
-MD5sum: 78861c80596d611575b0820e31aacb35
-SHA1: dbb23df3dd0ed19484c4e943bc88de1c2711696b
-SHA256: f40dc98150c03f95cb9d6ba6a24c1190b172e860fabb725655a80050fc505148
-Section: Tweaks
-Description: Taking photos at any sizes.
-Author: Spica T
-Name: PhotoRes+
 
 Package: com.gfp.powerloghelperdfix
 Version: 1.0
