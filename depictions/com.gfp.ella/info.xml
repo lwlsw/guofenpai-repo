@@ -19,33 +19,26 @@ Prysm EllaCC
 然後註銷
 對於顏色，您需要安裝Magma Evo，然後您可以在“ Magma Evo首選項”中的“Manage”處找到6種顏色，將其應用然後註銷
 </description>
-		<description>介紹</description>
-		<description><![CDATA[
-		You can also have<br/> 
-		a multi-line item.
-		]]>
+
 		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>截圖介紹</description>
+			<description></description>
 			<image>ella.JPG</image>
 		</screenshot>		
 		<screenshot>
-			<description>第二張截圖介紹</description>
+			<description></description>
 			<image>截圖名字.jpg</image>
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
 	</changelog>
 	<links>
 		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
-			<iconclass>fa fa-reddit</iconclass>
+			<name>/r/Discord</name>
+			<url>https://discord.gg/azYJZve</url>
+			<iconclass>fa fa-Discord</iconclass>
 		</link>
 	</links>
 </package>
