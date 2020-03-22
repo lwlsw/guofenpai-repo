@@ -1,3 +1,36 @@
+Package: com.gfp.frame
+Version: 2.0.0-beta2
+Architecture: iphoneos-arm
+Maintainer: Zerui Chen <chenzerui2002@gmail.com>
+Depends: mobilesubstrate,preferenceloader,firmware (>= 12.1.99)
+Filename: debs/com.gfp.frame_2.0.0-beta2_iphoneos-arm.deb
+Size: 1744110
+MD5sum: 2c43b7324504cd7f82a1d6e1bc637bfb
+SHA1: 960c124ca15b7859f678ac25cc13d56e137de46f
+SHA256: 6d4b5b0b7ba5480f62de55189baea08880f251967bf9e9f8083b86be665c634b
+Section: Wallpaper
+Description: Bring your iDevice to life with true video wallpapers.
+Author: Zerui Chen <chenzerui2002@gmail.com>
+Name: Frame
+
+Package: com.gfp.lynx
+Version: 1.1.9-1
+Architecture: iphoneos-arm
+Maintainer: MTAC <mtactheming@gmail.com>
+Installed-Size: 2216
+Depends: mobilesubstrate, ws.hbang.common, org.thebigboss.libcolorpicker, firmware (>= 13.0), com.rpetrich.rocketbootstrap, applist
+Filename: debs/com.gfp.lynx_1.1.9-1_iphoneos-arm.deb
+Size: 543048
+MD5sum: 34c94d4978ac114ae5171abb9a6ec1a2
+SHA1: 0d83ce305005215cb5f9fd60a8e28983449dbfc9
+SHA256: 626a79ab87673c4dead508872ffa92fc5758aa6c20d715b42000ec46b9761cc8
+Section: Tweaks
+Description: Ultimate device customization
+Tag: purpose::extension, cydia::commercial, compatible_min::ios13.0, compatible_max::ios13.3
+Author: MTAC <mtactheming@gmail.com>
+Depiction: https://repo.twickd.com/package/com.twickd.mtac.lynx
+Name: Lynx
+
 Package: com.gfp.dleasy
 Version: 2.8.6-2
 Architecture: iphoneos-arm
@@ -12,21 +45,6 @@ Section: Tweaks
 Author: AhmedBafkir <prooxy0@gmail.com>
 Icon: file:///Library/PreferenceBundles/DLEasy.bundle/icon@3x.png
 Name: DLEasy
-
-Package: com.gfp.frame
-Version: 2.0.0-beta2
-Architecture: iphoneos-arm
-Maintainer: Zerui Chen <chenzerui2002@gmail.com>
-Depends: mobilesubstrate,preferenceloader,firmware (>= 12.1.99)
-Filename: debs/com.gfp.frame_2.0.0-beta2_iphoneos-arm.deb
-Size: 1744110
-MD5sum: 399ad95424cd61502264319265236672
-SHA1: 17b91d3535bd7762b97dca1f0a6d382ba80bb15d
-SHA256: a87049cc0ab59f2c9cf78ccfe61232cc0422258b926626e84c09b02610d282fa
-Section: Wallpaper
-Description: Bring your iDevice to life with true video wallpapers.
-Author: Zerui Chen <chenzerui2002@gmail.com>
-Name: Frame
 
 Package: com.gfp.wicellswitcher
 Version: 1.1
@@ -1410,23 +1428,6 @@ Section: Tweaks
 Description: Grouped Notifications for iOS 11 ~ iOS 13
 Author: Soongyu Kwon & Timeloop
 Name: Grupi
-
-Package: com.gfp.lynx
-Version: 1.1.8-6
-Architecture: iphoneos-arm
-Maintainer: MTAC <mtactheming@gmail.com>
-Installed-Size: 2140
-Depends: mobilesubstrate, ws.hbang.common, org.thebigboss.libcolorpicker, firmware (>= 13.0), com.rpetrich.rocketbootstrap, applist
-Filename: debs/com.gfp.lynx_1.1.8-6_iphoneos-arm.deb
-Size: 504478
-MD5sum: 9a7f5bda96d87ccd83b2a1bb3614b9f9
-SHA1: f6ae00c00322a10614324fa1def66c89b580df1e
-SHA256: c38f1114e8edebee74a5071f45cd1c1fd014f1b346937d8950f6a56cd902debd
-Section: Tweaks
-Description: Ultimate device customization
-Tag: purpose::extension, cydia::commercial, compatible_min::ios13.0, compatible_max::ios13.3
-Author: MTAC <mtactheming@gmail.com>
-Name: Lynx
 
 Package: com.gfp.switcher
 Version: 1.0.2
