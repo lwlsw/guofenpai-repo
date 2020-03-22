@@ -1,3 +1,35 @@
+Package: com.gfp.coolfolder
+Version: 2.7-2
+Architecture: iphoneos-arm
+Maintainer: 4nni3 <4nni3.14@gmail.com>
+Installed-Size: 448
+Depends: mobilesubstrate,com.creaturesurvive.libcscolorpicker
+Filename: debs/com.gfp.coolfolder_2.7-2_iphoneos-arm.deb
+Size: 57728
+MD5sum: 0598d78d2d7b14c701bc973e50bdf4ae
+SHA1: 26ef9fafadc4f80538f35581a50c838fb3c2d751
+SHA256: b2a36c23fd107832d6796b03d46274a6a81f5fbcbe257e274bf246a6ee8b0bdf
+Section: Tweaks
+Description: Makes folder icon cool.
+Author: 4nni3 <4nni3.14@gmail.com>
+Name: CoolFolder
+
+Package: com.gfp.notivibe
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Installed-Size: 1300
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 11.0)
+Filename: debs/com.gfp.notivibe_1.0_iphoneos-arm.deb
+Size: 856386
+MD5sum: 0bbb772736d368f2e07faf853d5eec5e
+SHA1: 73c5cf9faf69cdc31efe88e809553a7217f18983
+SHA256: 48d95d5f409e55e065ea5df0214b31295fbd7e5a5b87849cb7bc07e9c5b23a20
+Section: Tweaks
+Description: Know if you have a notification without looking at your phone!
+Author: AnthoPak <anthopakdev@gmail.com>
+Name: NotiVibe
+
 Package: com.gfp.photoresplus
 Version: 1.4.2
 Architecture: iphoneos-arm
