@@ -10,9 +10,9 @@
 	<dependencies>
 		<package></package>
 	</dependencies>
-	<shortDescription>FruitCC</shortDescription>
+	<shortDescription>Prysm FruitCC</shortDescription>
 	<descriptionlist>
-		<description> 
+		<description>
 FruitCC
 為控制中心帶來美化
 也適用於常規控制中心
@@ -34,19 +34,25 @@ https://julioverne.github.io/
  
 https://repo.thuthuatjb.com
 （此回購用於Snowboard UI擴展，或從Sparks Discord下載）
-然後從Julioverne repo安裝Flipconvert（它也會自動安裝flipswitch）
-</description>
-      <screenshots>
+然後從Julioverne repo安裝Flipconvert（它也會自動安裝flipswitch)</description>
+		<description>It has more description lines.</description>
+		<description><>
+		</description>
+	</descriptionlist>
+	<screenshots>
 		<screenshot>
 			<description></description>
 			<image>FruitCC.png</image>
 		</screenshot>		
 		<screenshot>
 			<description></description>
-			<image>截圖名字.jpg</image>
+			<image></image>
 		</screenshot>		
 	</screenshots>
-   <changelog>
+	<changelog>
+		<change></change>
+		<change></change>
+		<change></change>
 	</changelog>
 	<links>
 		<link>
