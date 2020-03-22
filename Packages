@@ -1,3 +1,21 @@
+Package: com.gfp.airpay
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Dylan West <iosthemem0d@gmail.com>
+Installed-Size: 808
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, ws.hbang.common (>= 1.14)
+Filename: debs/com.gfp.airpay_1.0_iphoneos-arm.deb
+Size: 457822
+MD5sum: eaf6f3052fe1bb6ac91b3db1f6e2d017
+SHA1: 3ea96fc3571c98cc2d9e43890983eaa75fdb1e6a
+SHA256: 73145602000c3098327971679d6ca074b9e2cb9fb5d635bdc06cf879e58a8651
+Section: Tweaks
+Description: Reimagined your Apple Pay
+Tag: purpose::extension, cydia::commercial, compatible_min::ios13.0, compatible_max::ios13.3
+Author: Dylan West <iosthemem0d@gmail.com>
+Depiction: https://repo.twickd.com/package/com.twickd.dylan-west.airpay
+Name: AirPay 
+
 Package: com.gfp.frame
 Version: 2.0.0-beta2
 Architecture: iphoneos-arm
