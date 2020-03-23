@@ -1,3 +1,20 @@
+Package: com.gfp.fullmusic11paid
+Version: 3.0
+Architecture: iphoneos-arm
+Maintainer: 果粉派
+Installed-Size: 448
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: debs/com.gfp.fullmusic11paid_3.0_iphoneos-arm.deb
+Size: 138160
+MD5sum: ca632fe4e6e5675868d61291b73cc21e
+SHA1: 28a43f389447991fa2aeb8f72c8511db94d49810
+SHA256: d5c87f7f562ea5e05513d6d1ef9995f643c9430484e3d87e0192ed1f56183962
+Section: Tweaks
+Description: 音樂應用全屏顯示並使用選項進行自定義
+Author: Soh Satoh
+Depiction: https://guofenpai.github.io/repo/depictions/?p=com.gfp.fullmusic11paid
+Name: FullMusic11
+
 Package: com.gfp.flyjb
 Version: 0.2.4~beta2
 Architecture: iphoneos-arm
