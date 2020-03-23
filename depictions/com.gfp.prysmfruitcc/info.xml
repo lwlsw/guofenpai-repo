@@ -8,9 +8,10 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate</package>
+		<package></package>
 	</dependencies>
-	<shortDescription>FruitCC
+	<shortDescription>
+FruitCC
 為控制中心帶來美化
 也適用於常規控制中心
 為MagmaEVO添加了5個Presents（安裝時自動安裝在Preset目錄中）
@@ -31,7 +32,8 @@ https://julioverne.github.io/
  
 https://repo.thuthuatjb.com
 （此回購用於Snowboard UI擴展，或從Sparks Discord下載）
-然後從Julioverne repo安裝Flipconvert（它也會自動安裝flipswitch) </shortDescription>
+然後從Julioverne repo安裝Flipconvert（它也會自動安裝flipswitch)
+   </shortDescription>
 	<descriptionlist>
 		<description>This is an package will full depictions.</description>
 		<description>It has more description lines.</description>
@@ -46,16 +48,7 @@ https://repo.thuthuatjb.com
 			<description></description>
 			<image>FruitCC.png</image>
 		</screenshot>		
-		<screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
-			<image>png</image>
-		</screenshot>		
 	</screenshots>
-	<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
-	</changelog>
 	<links>
 		<link>
 			<name>Discord</name>
