@@ -39,7 +39,6 @@ https://julioverne.github.io/
 https://repo.thuthuatjb.com
 （此回購用於Snowboard UI擴展，或從Sparks Discord下載）
 然後從Julioverne repo安裝Flipconvert（它也會自動安裝flipswitch)</description>
-		<description>It has more description lines.</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
@@ -52,15 +51,12 @@ https://repo.thuthuatjb.com
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
 	</changelog>
 	<links>
 		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
-			<iconclass>fa fa-reddit</iconclass>
+			<name>Discord</name>
+			<url>https://discord.gg/azYJZve</url> </url>
+			<iconclass>fa fa-discord</iconclass>
 		</link>
 	</links>
 </package>
