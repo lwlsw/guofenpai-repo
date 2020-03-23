@@ -1,3 +1,18 @@
+Package: com.gfp.resolutionsetter
+Version: 0.3.2
+Architecture: iphoneos-arm
+Maintainer: 果粉派
+Filename: debs/com.gfp.resolutionsetter_0.3.2_iphoneos-arm.deb
+Size: 7966
+MD5sum: b0a7a77ea2a5c0e3eacb437b8a776576
+SHA1: e824b9e1019cd0f5ae711c0d442931190166dbb3
+SHA256: ce7c3542309751a2b4c5a4feef5296862a70ceb977a3530292cdeea09de3a534
+Section: Tweaks
+Description: Change your device resolution via Terminal! Usage: res|resolution [height] [width] [OPTIONS...]. Please type "res|resolution -h" on Terminal to get more messages.
+Author: halo_michael <yc992147156@me.com>
+Depiction: https://guofenpai.github.io/repo/depictions/?p=com.gfp.resolutionsetter
+Name: Resolution Setter
+
 Package: com.gfp.graphite
 Version: 1.1.1
 Architecture: iphoneos-arm
@@ -14,20 +29,6 @@ Section: Development
 Description: powerful library for iOS development
 Author: Geometric Software
 Name: Graphite Library
-
-Package: com.gfp.resolutionsetter
-Version: 0.3.2
-Architecture: iphoneos-arm
-Maintainer: 果粉派
-Filename: debs/com.gfp.resolutionsetter_0.3.2_iphoneos-arm.deb
-Size: 7930
-MD5sum: 8f5bbeea34b06913e59602ec7ff1df5f
-SHA1: 9291cf7bf8af985950760e93c00d4f226e5a663b
-SHA256: 12aac43ce29eb0d4a10eb32101cf79ce01a50afdad426d518f6cdf411fc8659d
-Section: Tweaks
-Author: halo_michael <yc992147156@me.com>
-Depiction: https://guofenpai.github.io/repo/depictions/?p= com.gfp.resolutionsetter
-Name: Resolution Setter
 
 Package: com.gfp.modernalerts2
 Version: 1.0.1
