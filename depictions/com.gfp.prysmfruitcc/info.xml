@@ -1,6 +1,6 @@
 <package>
 	<id>com.gfp.prysmfruitcc</id>
-	<name>Prysm FruitCC</name>
+	<name>Full Package</name>
 	<version>1.1</version>
 	<compatibility>
 		<firmware>
@@ -34,9 +34,14 @@ https://julioverne.github.io/
  
 https://repo.thuthuatjb.com
 （此回購用於Snowboard UI擴展，或從Sparks Discord下載）
-然後從Julioverne repo安裝Flipconvert（它也會自動安裝flipswitch)
+然後從Julioverne repo安裝Flipconvert（它也會自動安裝flipswitch) 
        </description>
-		<description>
+		<description>It has more description lines.</description>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
@@ -44,11 +49,20 @@ https://repo.thuthuatjb.com
 			<image>FruitCC.png</image>
 		</screenshot>		
 		<screenshot>
+			<description></description>
+			<image></image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Second release</change>
+		<change>It has feature 1</change>
+		<change>It has feature 2</change>
+	</changelog>
 	<links>
 		<link>
-			<name>Discord</name>
-			<url>https://discord.gg/azYJZve</url>
-			<iconclass>fa fa-discord</iconclass>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
 		</link>
 	</links>
 </package>
