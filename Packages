@@ -1,3 +1,36 @@
+Package: com.gfp.graphite
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: 果粉派
+Installed-Size: 1013
+Depends: firmware(>=13.0)
+Conflicts: com.muris.libgraphite
+Filename: debs/com.gfp.graphite_1.1.1_iphoneos-arm.deb
+Size: 251692
+MD5sum: 87ce9486a9422e6e4a89e3d9a09dc0f3
+SHA1: ea79d04c5a360055fb335a31042b8f15387d0195
+SHA256: 3902889ccaf5f3cabcb07197bd332591916e4a8e91d5347a3b67560563476caf
+Section: Development
+Description: powerful library for iOS development
+Author: Geometric Software
+Name: Graphite Library
+
+Package: com.gfp.modernalerts2
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 果粉派
+Installed-Size: 359
+Depends: mobilesubstrate, preferenceloader, com.gfp.graphite, firmware(>=13.0), firmware(<<14.0)
+Filename: debs/com.gfp.modernalerts2_1.0.1_iphoneos-arm.deb
+Size: 115164
+MD5sum: bbc9ce353b4c59f5e089b6be1646cd3b
+SHA1: 926a1a5c9369022f0dec2b8dd5d367da08a52166
+SHA256: 7d4dddff662171ec8c39ae7a0acf1ca46f3cac02a8a19fb6de6559f087c07a14
+Section: Tweaks
+Author: Geometric Software
+Icon: file:///Library/PreferenceBundles/ModernAlerts.bundle/store.png
+Name: ModernAlerts 2
+
 Package: com.gfp.dynawall
 Version: 2.0
 Architecture: iphoneos-arm
