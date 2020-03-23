@@ -1,3 +1,34 @@
+Package: com.gfp.resolutionautosetter
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: 果粉派
+Depends: firmware (>= 13.0), mobilesubstrate, sed, sudo, com.gfp.resolutionsetter
+Filename: debs/com.gfp.resolutionautosetter_0.1.1_iphoneos-arm.deb
+Size: 16874
+MD5sum: 93e1fbe23dd6e05f1b1a01f6c5369706
+SHA1: 0fed6147046f03fb8b2a61da9f54251dcf215654
+SHA256: 78835279086fc2b06b49c039e8b770a81fa10e068c6c6bf34e747f5b2af37ce7
+Section: Tweaks
+Description: 越獄時自動設置分辨率，僅支持Checkra1n越獄！使用Resolutio Setter設置後，Resolution Auto Setter將起作用
+Author: halo_michael <yc992147156@me.com>
+Name: Resolution Auto Setter
+
+Package: com.gfp.resolutionsetter
+Version: 0.4.1-1
+Architecture: iphoneos-arm
+Maintainer: 果粉派
+Depends: firmware (>= 9.0), com.gfp.resolutionautosetter
+Filename: debs/com.gfp.resolutionsetter_0.4.1-1_iphoneos-arm.deb
+Size: 16908
+MD5sum: 3c6f5363973a13cd0bc561558f9add4b
+SHA1: ab54b0fc6ac000ce59913c3f5b881f65059731ce
+SHA256: 0f66c97cbe7bbe0eba83d8913bfc955052a4e6d161c815a2810e2d62de6721b0
+Section: Tweaks
+Description: Change your device resolution via Terminal! Usage: res|resolution [height] [width] [OPTIONS...]. Please type "res|resolution -h" on Terminal to get more messages.
+Author: halo_michael <yc992147156@me.com>
+Depiction: https://guofenpai.github.io/repo/depictions/?p=com.gfp.resolutionsetter
+Name: Resolution Setter
+
 Package: com.gfp.fullmusic11paid
 Version: 3.0
 Architecture: iphoneos-arm
@@ -32,22 +63,6 @@ Author: XsF1re
 Depiction: https://guofenpai.github.io/repo/depictions/?p=com.gfp.flyjb
 Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
 Name: FlyJB
-
-Package: com.gfp.resolutionsetter
-Version: 0.4.1-1
-Architecture: iphoneos-arm
-Maintainer: 果粉派
-Depends: firmware (>= 9.0)
-Filename: debs/com.gfp.resolutionsetter_0.4.1-1_iphoneos-arm.deb
-Size: 16926
-MD5sum: a1c0acfc4a8887746f2220d4e44fd906
-SHA1: cabbe1bf1b3c85adf2ca9add311980377c08ce21
-SHA256: 90385b2f1718a78b7cdc41b32b23cdd1550611c31c85b1c59894d1f9f74e8f5a
-Section: Tweaks
-Description: Change your device resolution via Terminal! Usage: res|resolution [height] [width] [OPTIONS...]. Please type "res|resolution -h" on Terminal to get more messages.
-Author: halo_michael <yc992147156@me.com>
-Depiction: https://guofenpai.github.io/repo/depictions/?p=com.gfp.resolutionsetter
-Name: Resolution Setter
 
 Package: com.gfp.graphite
 Version: 1.1.1
