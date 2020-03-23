@@ -1,3 +1,36 @@
+Package: com.gfp.nomoresmallapps
+Version: 2.0.1
+Architecture: iphoneos-arm
+Maintainer: Spark
+Installed-Size: 484
+Depends: mobilesubstrate, com.spark.libsparkapplist
+Filename: debs/com.gfp.nomoresmallapps_2.0.1_iphoneos-arm.deb
+Size: 138742
+MD5sum: ba5f6ae7521477be0c1ebc34c7a38e30
+SHA1: 7701517c0c0ed34465e375fdbe59c15a72fe664b
+SHA256: 17d12a77adb59c11c9e80846ae7b1c732b81420376b28d76d05c3ca54c33663b
+Section: Tweaks
+Description: 使所有應用程序在帶劉海的設備上全屏顯示
+Author: Spark
+Name: NoMoreSmallApps
+
+Package: com.gfp.rose
+Version: 5.2.1
+Architecture: iphoneos-arm
+Maintainer: Litten <hello@litten.sh>
+Installed-Size: 3544
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 12.0)
+Filename: debs/com.gfp.rose_5.2.1_iphoneos-arm.deb
+Size: 677208
+MD5sum: e24e4c87cee25c747a87b18c88b934a4
+SHA1: 6d8cb66f568098d36386b1a756fc55c8a46f0f34
+SHA256: 962f9423aad55bf6648172d8ca1fb3b7d22385ca963dc44bf53a70f66a98436f
+Section: Tweaks
+Description: 被玫瑰偷窺的感覺並不好，是時候改變它了!更改觸感和聲音
+Author: Litten <hello@litten.sh>
+Icon: https://repo.litten.sh/depictions/rse/assets/icon.png
+Name: Rose 🌹
+
 Package: com.gfp.resolutionautosetter
 Version: 0.1.1
 Architecture: iphoneos-arm
@@ -1323,23 +1356,6 @@ Section: Tweaks
 Description: An iOS 13 inspired Ringer HUD
 Author: KingPuffdaddi
 Name: Ringer13
-
-Package: com.gfp.rose
-Version: 5.1
-Architecture: iphoneos-arm
-Maintainer: Litten <hello@litten.sh>
-Installed-Size: 1208
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
-Filename: debs/com.gfp.rose_5.1_iphoneos-arm.deb
-Size: 489774
-MD5sum: 02894915cb2518655064145f900ef27f
-SHA1: 7c143039b2878ee1682fff4f8db9357c333bd741
-SHA256: 8ed686570420db4f00b60d979c6fff9a4c901025a7e9d430e731586ab99dc525
-Section: Tweaks
-Description: Getting peeped by a Rose doesn't feel that good, it's time to change that
-Author: Litten <hello@litten.sh>
-Icon: https://repo.litten.sh/depictions/rse/assets/icon.png
-Name: Rose 🌹
 
 Package: com.gfp.roundprefs
 Version: 1.0.3
@@ -3913,22 +3929,6 @@ Section: Tweaks
 Description: Dark mode, your way.
 Author: LaughingQuoll <me@laughingquoll.net>
 Name: Noctis Neo
-
-Package: com.gfp.nomoresmallapps
-Version: 0.0.2
-Architecture: iphoneos-arm
-Maintainer: Spark
-Installed-Size: 208
-Depends: mobilesubstrate, com.spark.libsparkapplist
-Filename: debs/com.gfp.nomoresmallapps_0.0.2_iphoneos-arm.deb
-Size: 22816
-MD5sum: d889daf26fc95f28f1d0f258d0b8c163
-SHA1: e50999e3b06309d556d057b35a885d0a3ab3585c
-SHA256: 0532155f0d9dd3f3ad00403b426f54ee2aca5b2e8cdb048824bedd8e903b775b
-Section: Tweaks
-Description: Make all apps full screen on iPhone X
-Author: Spark
-Name: NoMoreSmallApps
 
 Package: com.gfp.nosimalert
 Version: 1.0.0
