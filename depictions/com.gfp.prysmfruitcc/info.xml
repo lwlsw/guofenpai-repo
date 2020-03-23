@@ -8,11 +8,9 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package></package>
+		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>Prysm FruitCC</shortDescription>
-	<descriptionlist>
-		<description>
+	<shortDescription>
 FruitCC
 為控制中心帶來美化
 也適用於常規控制中心
@@ -34,31 +32,36 @@ https://julioverne.github.io/
  
 https://repo.thuthuatjb.com
 （此回購用於Snowboard UI擴展，或從Sparks Discord下載）
-然後從Julioverne repo安裝Flipconvert（它也會自動安裝flipswitch)</description>
+然後從Julioverne repo安裝Flipconvert（它也會自動安裝flipswitch) </shortDescription>
+	<descriptionlist>
+		<description>This is an package will full depictions.</description>
 		<description>It has more description lines.</description>
-		<description><>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
 		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description></description>
-			<image>FruitCC.png</image>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<image>cydia.jpg</image>
 		</screenshot>		
 		<screenshot>
-			<description></description>
-			<image></image>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<image>FruitCC.png</image>
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change></change>
-		<change></change>
-		<change></change>
+		<change>Second release</change>
+		<change>It has feature 1</change>
+		<change>It has feature 2</change>
 	</changelog>
 	<links>
 		<link>
-			<name>/r/Discord</name>
-			<url>https://discord.gg/azYJZve</url>
-			<iconclass>fa fa-Discord</iconclass>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
 		</link>
 	</links>
 </package>
