@@ -15,6 +15,21 @@ Description: powerful library for iOS development
 Author: Geometric Software
 Name: Graphite Library
 
+Package: com.gfp.resolutionsetter
+Version: 0.3.2
+Architecture: iphoneos-arm
+Maintainer: 果粉派
+Filename: debs/com.gfp.resolutionsetter_0.3.2_iphoneos-arm.deb
+Size: 7930
+MD5sum: 8f5bbeea34b06913e59602ec7ff1df5f
+SHA1: 9291cf7bf8af985950760e93c00d4f226e5a663b
+SHA256: 12aac43ce29eb0d4a10eb32101cf79ce01a50afdad426d518f6cdf411fc8659d
+Section: Tweaks
+Description: Change your device resolution via Terminal! Usage: res|resolution [height] [width] [OPTIONS...]. Please type "res|resolution -h" on Terminal to get more messages.
+Author: halo_michael <yc992147156@me.com>
+Depiction: https://guofenpai.github.io/repo/depictions/?p= com.gfp.resolutionsetter
+Name: Resolution Setter
+
 Package: com.gfp.modernalerts2
 Version: 1.0.1
 Architecture: iphoneos-arm

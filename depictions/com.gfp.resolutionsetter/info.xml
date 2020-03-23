@@ -1,0 +1,42 @@
+<package>
+	<id>com.gfp.resolutionsetter</id>
+	<name>Resolution Setter</name>
+	<version>0.3.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package></package>
+	</dependencies>
+	<shortDescription>Resolution Setter</shortDescription>
+	<descriptionlist>
+		<description>僅支持CheckRa1n設備，打開NewTerm終端，輸入：su 密碼：默認無修改請輸入alpine
+設置分辨率：resolution 2688 1242
+還原分辨率：res 原本分辨率即可，假設iPhone X請輸入res 2436 1125
+輸入以後點擊回車，輸入y</description>
+		<description>果粉派</description>
+		<description><![CDATA[
+		查看截圖請點擊下方screenshots]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Resolution Setter</description>
+			<image>.png</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>果粉派</change>
+		<change>美化、定製、共享、交流</change>
+		<change>❤️❤️❤️</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Discord</name>
+			<url>https://discord.gg/azYJZve</url>
+			<iconclass>fa fa-discord</iconclass>
+		</link>
+	</links>
+</package>
