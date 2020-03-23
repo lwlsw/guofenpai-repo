@@ -10,7 +10,9 @@
 	<dependencies>
 		<package></package>
 	</dependencies>
-	<shortDescription>
+	<shortDescription>Prysm FruitCC</shortDescription>
+	<descriptionlist>
+		<description>
 FruitCC
 為控制中心帶來美化
 也適用於常規控制中心
@@ -32,28 +34,20 @@ https://julioverne.github.io/
  
 https://repo.thuthuatjb.com
 （此回購用於Snowboard UI擴展，或從Sparks Discord下載）
-然後從Julioverne repo安裝Flipconvert（它也會自動安裝flipswitch)
-   </shortDescription>
-	<descriptionlist>
-		<description>This is an package will full depictions.</description>
-		<description>It has more description lines.</description>
-		<description><![CDATA[
-		You can also have<br/> 
-		a multi-line item.
-		]]>
-		</description>
+然後從Julioverne repo安裝Flipconvert（它也會自動安裝flipswitch)</description>
+		<description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
 			<description></description>
 			<image>FruitCC.png</image>
 		</screenshot>		
-	</screenshots>
+		<screenshot>
 	<links>
 		<link>
 			<name>Discord</name>
 			<url>https://discord.gg/azYJZve</url>
-			<iconclass>fa fa-Discord</iconclass>
+			<iconclass>fa fa-discord</iconclass>
 		</link>
 	</links>
 </package>
