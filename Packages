@@ -1,3 +1,22 @@
+Package: com.gfp.dyadic
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: nicho1asdev <nicholasmusumeci@icloud.com>
+Installed-Size: 548
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), preferenceloader
+Filename: debs/com.gfp.dyadic_1.0.1_iphoneos-arm.deb
+Size: 123792
+MD5sum: 05ba092f42bdcb1bd6673d7aec91d9cf
+SHA1: c1a79c53c73dfc14b7c285cc65d2cf65bef1540a
+SHA256: 45e189e7fa1c6813c08120c88856310e16881d9a977b0001b0427405ecb1f4d4
+Section: Tweaks
+Description: 將今天頁面和控制中心結合使用新手勢以打開控制中心
+Tag: purpose::extension, cydia::commercial, compatible_min::ios13.0, compatible_max::ios13.3
+Author: nicho1asdev <nicholasmusumeci@icloud.com>
+Depiction: https://repo.twickd.com/package/com.twickd.nicho1asdev.dyadic
+Icon: file:///Library/PreferenceBundles/DyadicPrefs.bundle/icon@2x.png
+Name: Dyadic
+
 Package: com.gfp.nomoresmallapps
 Version: 2.0.1
 Architecture: iphoneos-arm
