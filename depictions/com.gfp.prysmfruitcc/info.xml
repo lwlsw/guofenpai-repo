@@ -10,8 +10,7 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>
-FruitCC
+	<shortDescription>FruitCC
 為控制中心帶來美化
 也適用於常規控制中心
 為MagmaEVO添加了5個Presents（安裝時自動安裝在Preset目錄中）
