@@ -2,8 +2,10 @@
 	"name": "Prysm EllaCC",
 	"desc_short": "",
 	"desc_long": "一款適用於Prysm的控制中心主題",
-	"compatitle": "iOS 11",
+	"compatitle": "iOS 13",
 	"changelog": "<strong>1.2</strong><br>- Initial Release.<br>",
-	"screenshot": "<div style='text-align:center;'><a href='https://imgur.com/a/XJjDQup'</a><br></div>"
+	"screenshot": "<div style='text-align:center;'><a href='href='https://imgur.com/a/XJjDQup'/></a><br></div>",
+	"notes": "一款適用於Prysm的控制中心主題",
+	"warning": "一款適用於Prysm的控制中心主題<br>",
 	"open": true,
 }
