@@ -13,6 +13,42 @@ Author: miracOZ <ozd.mirac@gmail.com>
 Depiction: https://guofenpai.github.io/repo/depictions/?p=com.gfp.kindastock
 Name: kindaStock [beta]
 
+Package: com.gfp.accent
+Version: 1.4.0
+Architecture: iphoneos-arm
+Maintainer: 果粉派
+Installed-Size: 427
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader, ws.hbang.common, applist
+Filename: debs/com.gfp.accent_1.4.0_iphoneos-arm.deb
+Size: 55068
+MD5sum: 657c7bcaac4790aa9a1318be82441d46
+SHA1: 54b5b598030a1c32aaff6d7cfad8ade64a7ed3ba
+SHA256: 4b82f3615e51fbe8405da0219f3fb0cbc648415ea9a7b80ecd5a7ab9c94e73fe
+Section: Tweaks
+Priority: optional
+Description: macOS風格的iOS強調色！iOS accent colors in macOS style!
+Tag: purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Author: Ivan Cristina <ivancristina5@gmail.com>
+Dev: ivancristina
+Icon: file:///Library/PreferenceBundles/AccentPreferences.bundle/icon@2x.png
+Name: Accent
+
+Package: com.gfp.situm
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: R0wDrunner & MegaDev
+Installed-Size: 364
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: debs/com.gfp.situm_1.0.3_iphoneos-arm.deb
+Size: 186910
+MD5sum: 0f9fa1218b89123845f43a389f4f0941
+SHA1: 26808a3f881a7783c8f5c40c27f2a7b30de1d6a9
+SHA256: dbebc47ea0e7305338ddc0104815cad2b09c45abe71913b799968eeb39b91478
+Section: Tweaks
+Description: 在任何地方搜索文本選擇
+Author: R0wDrunner & MegaDev
+Name: SITUM
+
 Package: com.gfp.darkmessenger
 Version: 2.1.3
 Architecture: iphoneos-arm
