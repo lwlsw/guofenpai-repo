@@ -13,6 +13,72 @@ Author: miracOZ <ozd.mirac@gmail.com>
 Depiction: https://guofenpai.github.io/repo/depictions/?p=com.gfp.kindastock
 Name: kindaStock [beta]
 
+Package: com.gfp.darkmessenger
+Version: 2.1.3
+Architecture: iphoneos-arm
+Maintainer: FoxfortMobile
+Installed-Size: 852
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, preferenceloader, com.foxfort.foxforttools, com.foxfort.libfoxfortutils, com.foxfort.libfoxfortsplash
+Filename: debs/com.gfp.darkmessenger_2.1.3_iphoneos-arm.deb
+Size: 172156
+MD5sum: 92e8c0d4702f5e4de1b380e41f9931cf
+SHA1: 3bddd35af2ee0f024b646b98bb23bd96bef7068e
+SHA256: 1d6ad7e2760ad9660cac3ff940b92c6b046eb5ede639be2123a3744d61643191
+Section: Tweaks
+Description: Dark mode for Messenger
+Author: FoxfortMobile
+Icon: file:///Library/PreferenceBundles/darkmessengersettings.bundle/icon@3x.png
+Name: Dark Messenger
+
+Package: com.gfp.ringer13
+Version: 1.2.5
+Architecture: iphoneos-arm
+Maintainer: KingPuffdaddi
+Installed-Size: 436
+Depends: mobilesubstrate
+Filename: debs/com.gfp.ringer13_1.2.5_iphoneos-arm.deb
+Size: 64840
+MD5sum: 040e03c1c1752520766165142f31b0ed
+SHA1: 4d4fbce130267bee7f63061f9ca7ac3a7ec2cfac
+SHA256: 794ec882099cdd4c60ebb8d066122710d4d1e252dc7cad2f14e383c33dfe0ecb
+Section: Tweaks
+Description: 受iOS 13啟發的Ringer HUD!An iOS 13 inspired Ringer HUD
+Author: KingPuffdaddi
+Name: Ringer13
+
+Package: com.gfp.rose
+Version: 5.2.3
+Architecture: iphoneos-arm
+Maintainer: Litten <hello@litten.sh>
+Installed-Size: 3772
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 12.0)
+Filename: debs/com.gfp.rose_5.2.3_iphoneos-arm.deb
+Size: 704874
+MD5sum: 7d0a8adaaf68463c6dd5aa9293083fcf
+SHA1: 58ad347bb49e1ffee09bde6ef9e192ce704ce4d8
+SHA256: 56a81a6cc3d15a6a4caa6195803d5333ce70315d6c54757e7487f3954a4da60d
+Section: Tweaks
+Description: 被玫瑰偷窺的感覺並不好，是時候改變它了!Getting peeped by a Rose doesn't feel that good, it's time to change that
+Author: Litten <hello@litten.sh>
+Icon: https://repo.litten.sh/depictions/rse/assets/icon.png
+Name: Rose 🌹
+
+Package: com.gfp.spy
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: elias
+Installed-Size: 1592
+Depends: mobilesubstrate, com.spark.libsparkapplist, com.opa334.ccsupport
+Filename: debs/com.gfp.spy_1.1_iphoneos-arm.deb
+Size: 464470
+MD5sum: f496251d541fae8abb25c6d5ac17ef52
+SHA1: 028edd13efd9ee079ea8b0fa68370d9278f24cc5
+SHA256: e0e8cf9c7ed78f2679fd587c1c614ebf1aafdf1e1a902b694e25a7241a48d1a4
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: elias
+Name: Spy
+
 Package: com.gfp.wxfix
 Version: 0.0.2-1+debug
 Architecture: iphoneos-arm
@@ -116,23 +182,6 @@ Section: Tweaks
 Description: 使所有應用程序在帶劉海的設備上全屏顯示
 Author: Spark
 Name: NoMoreSmallApps
-
-Package: com.gfp.rose
-Version: 5.2.1
-Architecture: iphoneos-arm
-Maintainer: Litten <hello@litten.sh>
-Installed-Size: 3544
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 12.0)
-Filename: debs/com.gfp.rose_5.2.1_iphoneos-arm.deb
-Size: 677208
-MD5sum: e24e4c87cee25c747a87b18c88b934a4
-SHA1: 6d8cb66f568098d36386b1a756fc55c8a46f0f34
-SHA256: 962f9423aad55bf6648172d8ca1fb3b7d22385ca963dc44bf53a70f66a98436f
-Section: Tweaks
-Description: 被玫瑰偷窺的感覺並不好，是時候改變它了!更改觸感和聲音
-Author: Litten <hello@litten.sh>
-Icon: https://repo.litten.sh/depictions/rse/assets/icon.png
-Name: Rose 🌹
 
 Package: com.gfp.resolutionautosetter
 Version: 0.1.1
@@ -312,22 +361,6 @@ Section: Tweaks
 Description: A smarter low power mode !!
 Author: smokin1337 <smokin1337@gmail.com>
 Name: SmarterLPM
-
-Package: com.gfp.spy
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: elias
-Installed-Size: 1592
-Depends: mobilesubstrate, com.spark.libsparkapplist, com.opa334.ccsupport
-Filename: debs/com.gfp.spy_1.0_iphoneos-arm.deb
-Size: 456306
-MD5sum: d9a0117a2359e67b673237db14ebf026
-SHA1: 4e7b5bfc8ba64f5a17223781b9ee951492ffbf36
-SHA256: 6267e7cf691c2dddd885e6fc34dc4a1cb238637282089972186325efa44a8086
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: elias
-Name: Spy
 
 Package: com.gfp.prysmfruitcc
 Version: 1.1
@@ -1426,22 +1459,6 @@ Description: Mute Notifications for Time Periods
 Author: Skitty
 Icon: https://skitty.xyz/repo/icons/xyz.skitty.quietdown.png
 Name: QuietDown
-
-Package: com.gfp.ringer13
-Version: 1.2.4
-Architecture: iphoneos-arm
-Maintainer: KingPuffdaddi
-Installed-Size: 420
-Depends: mobilesubstrate
-Filename: debs/com.gfp.ringer13_1.2.4_iphoneos-arm.deb
-Size: 64150
-MD5sum: d4a27ea3d7b2cf0f5001eb81896bb9b8
-SHA1: 88e931db257c05ba05fc7c81261c48486969e570
-SHA256: c20c1ab6056079917c9e1c657880b1606238df3d7dc945028bafb5234fdb33e6
-Section: Tweaks
-Description: An iOS 13 inspired Ringer HUD
-Author: KingPuffdaddi
-Name: Ringer13
 
 Package: com.gfp.roundprefs
 Version: 1.0.3
