@@ -1,3 +1,38 @@
+Package: com.gfp.lynx
+Version: 1.1.9-2
+Architecture: iphoneos-arm
+Maintainer: MTAC <mtactheming@gmail.com>
+Installed-Size: 2212
+Depends: mobilesubstrate, ws.hbang.common, ws.hbang.Alderis, firmware (>= 13.0), com.rpetrich.rocketbootstrap, applist
+Filename: debs/com.gfp.lynx_1.1.9-2_iphoneos-arm.deb
+Size: 543754
+MD5sum: 1a53ea2ed23a59629f02510530a38df1
+SHA1: 02b7f5244bc1aaf153a0d047e04b9199d0698255
+SHA256: a7c8e33ed1729964a08d918f9eeb236dec91704dcabd2a23dc211a315ba2032e
+Section: Tweaks
+Description: Ultimate device customization
+Tag: purpose::extension, cydia::commercial, compatible_min::ios13.0, compatible_max::ios13.3
+Author: MTAC <mtactheming@gmail.com>
+Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.lynx
+Name: Lynx
+
+Package: com.gfp.lynxapplication
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: MTAC <mtactheming@gmail.com>
+Depends: com.twickd.mtac.lynx
+Filename: debs/com.gfp.lynxapplication_1.0.0_iphoneos-arm.deb
+Size: 114438
+MD5sum: 5341ce5b56b6a04bea7692c2893ee82f
+SHA1: 3b040f1012fb4db67c07695e6c64474badf114f4
+SHA256: 2bb40f56da233b942ad42c184a1d76e4ae571d3f58e002df77e179bf9c0beae2
+Section: Utilities
+Description: Application for Lynx
+Tag: compatible_min::ios13.0, compatible_max::ios13.3
+Author: MTAC <mtactheming@gmail.com>
+Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.lynxapplication
+Name: Lynx Application
+
 Package: com.gfp.3dbadgeclear
 Version: 1.6.1
 Architecture: iphoneos-arm
@@ -773,24 +808,6 @@ Section: Wallpaper
 Description: Bring your iDevice to life with true video wallpapers.
 Author: Zerui Chen <chenzerui2002@gmail.com>
 Name: Frame
-
-Package: com.gfp.lynx
-Version: 1.1.9-1
-Architecture: iphoneos-arm
-Maintainer: MTAC <mtactheming@gmail.com>
-Installed-Size: 2216
-Depends: mobilesubstrate, ws.hbang.common, org.thebigboss.libcolorpicker, firmware (>= 13.0), com.rpetrich.rocketbootstrap, applist
-Filename: debs/com.gfp.lynx_1.1.9-1_iphoneos-arm.deb
-Size: 543048
-MD5sum: 34c94d4978ac114ae5171abb9a6ec1a2
-SHA1: 0d83ce305005215cb5f9fd60a8e28983449dbfc9
-SHA256: 626a79ab87673c4dead508872ffa92fc5758aa6c20d715b42000ec46b9761cc8
-Section: Tweaks
-Description: Ultimate device customization
-Tag: purpose::extension, cydia::commercial, compatible_min::ios13.0, compatible_max::ios13.3
-Author: MTAC <mtactheming@gmail.com>
-Depiction: https://repo.twickd.com/package/com.twickd.mtac.lynx
-Name: Lynx
 
 Package: com.gfp.dleasy
 Version: 2.8.6-2
