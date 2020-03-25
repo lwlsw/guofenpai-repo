@@ -1,3 +1,35 @@
+Package: com.gfp.bottomtoolbarlite
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: XCXiao
+Installed-Size: 5040
+Depends: mobilesubstrate
+Filename: debs/com.gfp.bottomtoolbarlite_1.2.1_iphoneos-arm.deb
+Size: 4113194
+MD5sum: 6e3ffcc8a640179c866a11dd382ceef5
+SHA1: 36b607f436764d07a202dc1012c5b082bdf845dc
+SHA256: 78c12de73611d62f9b1fbeb147e0f0fc5975d5cfde4f2af1e14ac1600521a351
+Section: Tweaks
+Description: A useful and beautiful tool bar for your devices.
+Author: XCXiao
+Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.bottomtoolbarlite
+Name: BottomToolBar-Lite
+
+Package: com.gfp.devystatusbar
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Devy_Design <idrainmax@gmail.com>
+Filename: debs/com.gfp.devystatusbar_1.0_iphoneos-arm.deb
+Size: 161564
+MD5sum: a0adf5b48c05b459edf412442bc9d6fa
+SHA1: 0f09db058f9456201373223eff34ede52b392496
+SHA256: ce12d1bf3d2de51dcdfb43bb23139496193c2a88a5dcc609e382162081f19b82
+Section: Themes
+Description: 真正完美的狀態欄設計
+Author: Devy_Design <idrainmax@gmail.com>
+Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.devystatusbar
+Name: Devy Status Bar
+
 Package: com.gfp.prysm
 Version: 1.4.1
 Architecture: iphoneos-arm
