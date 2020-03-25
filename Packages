@@ -1,3 +1,20 @@
+Package: com.gfp.springtomize5
+Version: 5.1.1
+Architecture: iphoneos-arm
+Maintainer: sharedRoutine
+Installed-Size: 2688
+Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.rocketbootstrap
+Filename: debs/com.gfp.springtomize5_5.1.1_iphoneos-arm.deb
+Size: 844334
+MD5sum: a94fa46d90159a08aab7ae9a1a442ff6
+SHA1: c20de99114671bf13d93b51139315ae95312b0dc
+SHA256: 184b161465b57e365d8b36c5943f699515d766329051b49d7c24551df4d1836f
+Section: Tweaks
+Description: 前所未有地自定義設備
+Author: sharedRoutine
+Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.springtomize5
+Name: Springtomize 5
+
 Package: com.gfp.bottomtoolbarlite
 Version: 1.2.1-1
 Architecture: iphoneos-arm
@@ -1273,22 +1290,6 @@ Description: Use your Dock like a PRO!
 Author: P2KDev <p2kdev@gmail.com>
 Icon: file:///Library/Application Support/FloatingDockPlus13/icon.png
 Name: FloatingDockPlus13
-
-Package: com.gfp.springtomize5
-Version: 5.1.0
-Architecture: iphoneos-arm
-Maintainer: sharedRoutine
-Installed-Size: 2688
-Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.rocketbootstrap
-Filename: debs/com.gfp.springtomize5_5.1.0_iphoneos-arm.deb
-Size: 842012
-MD5sum: 7728821ffb4049fae938ac5a60059daa
-SHA1: 943b95001509c0cced042678172dcbdb586941fd
-SHA256: eadf52f12ff992ae47361f6d5bc01794da14100d96d80dfef9157c3cea89110b
-Section: Tweaks
-Description: Customize your device like never before.
-Author: sharedRoutine
-Name: Springtomize 5
 
 Package: com.gfp.volvibes
 Version: 2.1
