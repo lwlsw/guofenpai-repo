@@ -540,19 +540,21 @@ Author: Spark
 Name: NoMoreSmallApps
 
 Package: com.gfp.resolutionautosetter
-Version: 0.1.1
+Version: 0.2.0
 Architecture: iphoneos-arm
-Maintainer: 果粉派
-Depends: firmware (>= 13.0), mobilesubstrate, sed, sudo, com.gfp.resolutionsetter
-Filename: debs/com.gfp.resolutionautosetter_0.1.1_iphoneos-arm.deb
-Size: 16874
-MD5sum: 93e1fbe23dd6e05f1b1a01f6c5369706
-SHA1: 0fed6147046f03fb8b2a61da9f54251dcf215654
-SHA256: 78835279086fc2b06b49c039e8b770a81fa10e068c6c6bf34e747f5b2af37ce7
+Maintainer: halo_michael <yc992147156@me.com>
+Depends: com.gfp.resolutionsetter (>= 0.4.1), firmware (>= 11.0), mobilesubstrate, sed, sudo
+Filename: debs/com.gfp.resolutionautosetter_0.2.0_iphoneos-arm.deb
+Size: 20822
+MD5sum: f233104e748902c000977f44a38745db
+SHA1: c0adf43ea96c34ed8a8dd0c2a027ab36ed322063
+SHA256: c55cad05d67ec75d9d7cd51de254e257e03a7ea288c9870338c1a7b90b19a446
 Section: Tweaks
-Description: 越獄時自動設置分辨率，僅支持Checkra1n越獄！使用Resolutio Setter設置後，Resolution Auto Setter將起作用
+Description: 越獄時自動設置分辨率,一次使用“分辨率設置器”，越獄後此將起作用
 Author: halo_michael <yc992147156@me.com>
+Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.resolutionautosetter
 Name: Resolution Auto Setter
+Sponsor: halo_michael <yc992147156@me.com>
 
 Package: com.gfp.resolutionsetter
 Version: 0.4.1-1
