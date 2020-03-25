@@ -1,3 +1,73 @@
+Package: com.gfp.fluide
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: maximehip
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: debs/com.gfp.fluide_0.0.1_iphoneos-arm.deb
+Size: 31556
+MD5sum: d9ffb974cb0a8799be91ac26f506547f
+SHA1: 617f61500c3bfd42ad9d48b96b91b54d9beec715
+SHA256: bbeea0fc890558ec100433c90c46d69a365fc801ddd6f14f3b5c9c61e3b8ba9d
+Section: Tweaks
+Description: Fluide允許您在HUD音量的右側添加漂亮的音樂播放器！An awesome MobileSubstrate tweak!
+Author: maximehip
+Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.fluide
+Name: Fluide
+
+Package: com.gfp.flyjb
+Version: 0.2.4~beta3
+Architecture: iphoneos-arm
+Maintainer: XsF1re
+Installed-Size: 1160
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1), preferenceloader
+Filename: debs/com.gfp.flyjb_0.2.4~beta3_iphoneos-arm.deb
+Size: 576714
+MD5sum: f761ec0089419018c7b0382ccbf1c70a
+SHA1: 3e449d6cf7cb1f58a9f8a4331702e53a51ee83e4
+SHA256: f76c50aa3743f886cfe204815001802ddb5611a81385e135fd891626688671c6
+Section: Tweaks
+Description: 屏蔽越獄狀態以及停止注入！You can HIDE Doing jailbreak your iDevice.
+Author: XsF1re
+Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.flyjb
+Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
+Name: FlyJB
+
+Package: com.gfp.resolutionautosetter
+Version: 0.2.1
+Architecture: iphoneos-arm
+Maintainer: halo_michael <yc992147156@me.com>
+Depends: com.gfp.resolutionsetter (>= 0.4.1), firmware (>= 11.0), mobilesubstrate, sed, sudo
+Filename: debs/com.gfp.resolutionautosetter_0.2.1_iphoneos-arm.deb
+Size: 20934
+MD5sum: 8a4cf0db82ba4a84a6381976124988c5
+SHA1: 4afaedd921539170417557d0f4b058520351b97e
+SHA256: d3acd5ac21b6093e7fb2df589e5f423cd25512b502cdf5b96b36ce1082e921be
+Section: Tweaks
+Description: 越獄時自動設置分辨率,一次使用“分辨率設置器”，越獄後此將起作用
+Author: halo_michael <yc992147156@me.com>
+Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.resolutionautosetter
+Name: Resolution Auto Setter
+Sponsor: halo_michael <yc992147156@me.com>
+
+Package: com.gfp.rose
+Version: 5.3
+Architecture: iphoneos-arm
+Maintainer: Litten <hello@litten.sh>
+Installed-Size: 4872
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 12.0)
+Filename: debs/com.gfp.rose_5.3_iphoneos-arm.deb
+Size: 731212
+MD5sum: 686b4647ba9ba2e218bc9f73680e234a
+SHA1: 1bd672100fb4f3edf53f9a944c5561ef0c667278
+SHA256: 3cd091143af6674b87a48118e71cfbf6d27365d766076129390b7fe5d0664eed
+Section: Tweaks
+Description: 被玫瑰偷窺的感覺並不好，是時候改變它了！Getting peeped by a Rose doesn't feel that good, it's time to change that
+Author: Litten <hello@litten.sh>
+Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.rose
+Icon: https://repo.litten.sh/depictions/rse/assets/icon.png
+Name: Rose 🌹
+
 Package: com.gfp.igg
 Version: 8.0-1
 Architecture: iphoneos-arm
@@ -417,23 +487,6 @@ Description: 受iOS 13啟發的Ringer HUD!An iOS 13 inspired Ringer HUD
 Author: KingPuffdaddi
 Name: Ringer13
 
-Package: com.gfp.rose
-Version: 5.2.3
-Architecture: iphoneos-arm
-Maintainer: Litten <hello@litten.sh>
-Installed-Size: 3772
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 12.0)
-Filename: debs/com.gfp.rose_5.2.3_iphoneos-arm.deb
-Size: 704874
-MD5sum: 7d0a8adaaf68463c6dd5aa9293083fcf
-SHA1: 58ad347bb49e1ffee09bde6ef9e192ce704ce4d8
-SHA256: 56a81a6cc3d15a6a4caa6195803d5333ce70315d6c54757e7487f3954a4da60d
-Section: Tweaks
-Description: 被玫瑰偷窺的感覺並不好，是時候改變它了!Getting peeped by a Rose doesn't feel that good, it's time to change that
-Author: Litten <hello@litten.sh>
-Icon: https://repo.litten.sh/depictions/rse/assets/icon.png
-Name: Rose 🌹
-
 Package: com.gfp.spy
 Version: 1.1
 Architecture: iphoneos-arm
@@ -554,23 +607,6 @@ Description: 使所有應用程序在帶劉海的設備上全屏顯示
 Author: Spark
 Name: NoMoreSmallApps
 
-Package: com.gfp.resolutionautosetter
-Version: 0.2.0
-Architecture: iphoneos-arm
-Maintainer: halo_michael <yc992147156@me.com>
-Depends: com.gfp.resolutionsetter (>= 0.4.1), firmware (>= 11.0), mobilesubstrate, sed, sudo
-Filename: debs/com.gfp.resolutionautosetter_0.2.0_iphoneos-arm.deb
-Size: 20822
-MD5sum: f233104e748902c000977f44a38745db
-SHA1: c0adf43ea96c34ed8a8dd0c2a027ab36ed322063
-SHA256: c55cad05d67ec75d9d7cd51de254e257e03a7ea288c9870338c1a7b90b19a446
-Section: Tweaks
-Description: 越獄時自動設置分辨率,一次使用“分辨率設置器”，越獄後此將起作用
-Author: halo_michael <yc992147156@me.com>
-Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.resolutionautosetter
-Name: Resolution Auto Setter
-Sponsor: halo_michael <yc992147156@me.com>
-
 Package: com.gfp.resolutionsetter
 Version: 0.4.1-1
 Architecture: iphoneos-arm
@@ -586,24 +622,6 @@ Description: Change your device resolution via Terminal! Usage: res|resolution [
 Author: halo_michael <yc992147156@me.com>
 Depiction: https://guofenpai.github.io/repo/depictions/?p=com.gfp.resolutionsetter
 Name: Resolution Setter
-
-Package: com.gfp.flyjb
-Version: 0.2.4~beta2
-Architecture: iphoneos-arm
-Maintainer: 果粉派
-Installed-Size: 1172
-Depends: mobilesubstrate, applist (>= 1.5.15~beta1), preferenceloader
-Filename: debs/com.gfp.flyjb_0.2.4~beta2_iphoneos-arm.deb
-Size: 576952
-MD5sum: 15362aa1e3a3ba0e630d3dbcac2b1e9e
-SHA1: 4ce4580d7e4b4c9d9a770f63d7d2298305fe582f
-SHA256: f7616f4597bfef9a67f223e3dc9a4b2ed89bb7a0452aa50e3e2ce193a273fea9
-Section: Tweaks
-Description: You can HIDE Doing jailbreak your iDevice.
-Author: XsF1re
-Depiction: https://guofenpai.github.io/repo/depictions/?p=com.gfp.flyjb
-Icon: file:///Library/PreferenceBundles/flyjbprefs.bundle/icon@2x.png
-Name: FlyJB
 
 Package: com.gfp.graphite
 Version: 1.1.1
