@@ -5,7 +5,7 @@
 	"compatitle": "iOS 13",
 	"changelog": "<strong>1.0-beta-4</strong><br>- Initial Release.<br>",
 
-	"screenshot": "<div style='text-align:center;'><a href='https://i.imgur.com/nOxibuH.png' target='_blank'><img width=95% src='https://i.imgur.com/2gFxQoh.png'/></a></div><div style='text-align:center;'><a href='https://i.imgur.com/hvNbnKT.png' target='_blank'><img width=95% src='https://i.imgur.com/VbrGPQ8.png'/></a><br></div>",
+	"screenshot": "<div style='text-align:center;'><a href='https://i.imgur.com/nOxibuH.png' target='_blank'>" "<img width=95% src='https://i.imgur.com/2gFxQoh.png'/>" "</a></div>" "<div style='text-align:center;'>" "<a href='https://i.imgur.com/hvNbnKT.png' target='_blank'>" "<img width=95% src='https://i.imgur.com/VbrGPQ8.png'/></a><br></div>",
 	"notes": "果粉派集美化、原創、破解、搬運、共享以及交流的新型團體",
 	"open": true,
 }
