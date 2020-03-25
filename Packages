@@ -1,20 +1,140 @@
+Package: com.gfp.bottomtoolbarlite
+Version: 1.2.1-1
+Architecture: iphoneos-arm
+Maintainer: XCXiao
+Installed-Size: 5040
+Depends: mobilesubstrate
+Filename: debs/com.gfp.bottomtoolbarlite_1.2.1-1_iphoneos-arm.deb
+Size: 4113916
+MD5sum: 3d134fcea1a53e6644bb2ca359fd090f
+SHA1: 394abb2ac5f028ed564f438935955be5a36de4db
+SHA256: 454be30ebc6a385d5e3a958cf0b209b75af98bfabebd2ea7e574802d155bd35d
+Section: Tweaks
+Description: A useful and beautiful tool bar for your devices.
+Author: XCXiao
+Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.bottomtoolbarlite
+Name: BottomToolBar-Lite
+
 Package: com.gfp.lynx
-Version: 1.1.9-2
+Version: 1.1.9-3
 Architecture: iphoneos-arm
 Maintainer: MTAC <mtactheming@gmail.com>
 Installed-Size: 2212
-Depends: mobilesubstrate, ws.hbang.common, ws.hbang.Alderis, firmware (>= 13.0), com.rpetrich.rocketbootstrap, applist
-Filename: debs/com.gfp.lynx_1.1.9-2_iphoneos-arm.deb
-Size: 543754
-MD5sum: 1a53ea2ed23a59629f02510530a38df1
-SHA1: 02b7f5244bc1aaf153a0d047e04b9199d0698255
-SHA256: a7c8e33ed1729964a08d918f9eeb236dec91704dcabd2a23dc211a315ba2032e
+Depends: mobilesubstrate, ws.hbang.common, ws.hbang.alderis, firmware (>= 13.0), com.rpetrich.rocketbootstrap, applist
+Filename: debs/com.gfp.lynx_1.1.9-3_iphoneos-arm.deb
+Size: 543820
+MD5sum: 04bd30c423c1800f4f3cd8caa8eba6b7
+SHA1: f0a59c54f03abe4532d2e4469986ae04d683354c
+SHA256: ed9de33685586475e974232e12605f50435beb44116c9e93ddc53a6999d1ad04
 Section: Tweaks
 Description: Ultimate device customization
 Tag: purpose::extension, cydia::commercial, compatible_min::ios13.0, compatible_max::ios13.3
 Author: MTAC <mtactheming@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.lynx
 Name: Lynx
+
+Package: com.gfp.bottomtoolbar
+Version: 1.2.1-1
+Architecture: iphoneos-arm
+Maintainer: XCXiao <Kpwn0@outlook.com>
+Installed-Size: 5496
+Depends: mobilesubstrate
+Filename: debs/com.gfp.bottomtoolbar_1.2.1-1_iphoneos-arm.deb
+Size: 4217286
+MD5sum: c5a03723c844eaeef0b34b004f15330b
+SHA1: 05abeb5d8b964b588a41d6390eeb2ccc9a96aef3
+SHA256: 9f666cf88bd3ebe03a82957b515fec6f6ccfe0c17607e8bfb96a6a194168ee3b
+Section: Tweaks
+Description: A useful and beautiful tool bar for your devices.
+Tag: purpose::extension, cydia::commercial, compatible_min::ios12.2, compatible_max::ios13.3
+Author: XCXiao <Kpwn0@outlook.com>
+Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.bottomtoolbar
+Name: BottomToolBar
+
+Package: com.gfp.fingal
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: mobilesubstrate, firmware (>=8.0), preferenceloader
+Filename: debs/com.gfp.fingal_1.0.0_iphoneos-arm.deb
+Size: 64718
+MD5sum: 2c0b1be9faf608c928b1e8ad784aae74
+SHA1: bdd04fcf1539364cba7a87faab49dd7dfb607cdb
+SHA256: 51eb8e0e224d0d173ec0974910c17e0ccc5fc603caa4ee459b327dec33d10a79
+Section: Tweaks
+Description: 適用於iOS 8和9的動畫圖標主題平台 Animated icon theming platform for iOS 8 & 9
+Author: Charlie Hewitt <contact@chewitt.me>
+Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.fingal
+Icon: file:///Library/PreferenceBundles/FingalPrefs.bundle/icon_big.png
+Name: Fingal
+
+Package: com.gfp.notivibe
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Installed-Size: 1344
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 11.0)
+Filename: debs/com.gfp.notivibe_1.1_iphoneos-arm.deb
+Size: 869224
+MD5sum: 344006033e2e3bf60969817197c9846f
+SHA1: df7180fdf6d17848ec3310eeac8e24b23bfe3358
+SHA256: be99f0cae5e1d9552231fac73f1b56639225abdbc5d152da7721c787675d3c9e
+Section: Tweaks
+Description: 不看手機就知道是否有通知！Know if you have a notification without looking at your phone!
+Author: AnthoPak <anthopakdev@gmail.com>
+Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.notivibe
+Name: NotiVibe
+
+Package: com.gfp.screenshotx
+Version: 0.3
+Architecture: iphoneos-arm
+Maintainer: June <junesgraphics@gmail.com>
+Filename: debs/com.gfp.screenshotx_0.3_iphoneos-arm.deb
+Size: 29695040
+MD5sum: 5cd0c3f5a5bec00cfcf33dc2c66af7bf
+SHA1: 991ba399feaebe0a16425f28a498847055989b55
+SHA256: 75b2ae06b2846a17e121ba33ef0f873e63e2f71f378802f6c75159947bd93aeb
+Section: Addons (Apps)
+Description: Put screenshots in phones.
+Tag: cydia::paid
+Author: JunesiPhone <junesgraphics@gmail.com>
+Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.screenshotx
+Name: ScreenshotX
+
+Package: com.gfp.toonsy
+Version: 1.1.4-1
+Architecture: iphoneos-arm
+Maintainer: va2ron1
+Installed-Size: 652
+Depends: mobilesubstrate
+Filename: debs/com.gfp.toonsy_1.1.4-1_iphoneos-arm.deb
+Size: 303732
+MD5sum: 1414a59aa7dbda2ea2e7673be585e764
+SHA1: 405d6d5e7b0029eb76d285844a6bfe40923aafe0
+SHA256: 0312dba620115ae84082a724341069d832dda99327e3dcd50ae64e61a18e514d
+Section: Tweaks
+Description: 適用於iOS 11的動畫圖標主題平台 Animated icon theming platform for iOS 11
+Author: va2ron1
+Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.toonsy
+Name: Toonsy
+
+Package: com.gfp.twinkling
+Version: 2.61
+Architecture: iphoneos-arm
+Maintainer: Remark <workplace.2015@gmail.com>
+Depends: firmware (>= 7.0), me.chewitt.fingal
+Filename: debs/com.gfp.twinkling_2.61_iphoneos-arm.deb
+Size: 24255092
+MD5sum: cef560546fe4a580bf7142d4a6811878
+SHA1: 0c5bdb9b359643f2e88ee32dcb3b08479f1e0cfe
+SHA256: 7134b69811adf8e72ead34094c83eac1668bd66a784cb59ee726a74892793207
+Section: Themes (Toonsy or Fingal)
+Priority: optional
+Description: Twinkling - this is a super bomb theme with a large set of colorful animation icons.
+Author: Remark <workplace.2015@gmail.com>
+Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.twinkling
+Dev: Remark
+Name: ❤️Twinkling❤️Animation Theme❤️
 
 Package: com.gfp.lynxapplication
 Version: 1.0.0
@@ -119,23 +239,6 @@ Description: Customize the App Switcher like never before !
 Author: SynnyG <synnyg.devjb@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.switchus
 Name: Switchus
-
-Package: com.gfp.bottomtoolbarlite
-Version: 1.2.1
-Architecture: iphoneos-arm
-Maintainer: XCXiao
-Installed-Size: 5040
-Depends: mobilesubstrate
-Filename: debs/com.gfp.bottomtoolbarlite_1.2.1_iphoneos-arm.deb
-Size: 4113194
-MD5sum: 6e3ffcc8a640179c866a11dd382ceef5
-SHA1: 36b607f436764d07a202dc1012c5b082bdf845dc
-SHA256: 78c12de73611d62f9b1fbeb147e0f0fc5975d5cfde4f2af1e14ac1600521a351
-Section: Tweaks
-Description: A useful and beautiful tool bar for your devices.
-Author: XCXiao
-Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.bottomtoolbarlite
-Name: BottomToolBar-Lite
 
 Package: com.gfp.devystatusbar
 Version: 1.0
@@ -714,22 +817,6 @@ Section: Tweaks
 Description: Makes folder icon cool.
 Author: 4nni3 <4nni3.14@gmail.com>
 Name: CoolFolder
-
-Package: com.gfp.notivibe
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: AnthoPak <anthopakdev@gmail.com>
-Installed-Size: 1300
-Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 11.0)
-Filename: debs/com.gfp.notivibe_1.0_iphoneos-arm.deb
-Size: 856386
-MD5sum: 0bbb772736d368f2e07faf853d5eec5e
-SHA1: 73c5cf9faf69cdc31efe88e809553a7217f18983
-SHA256: 48d95d5f409e55e065ea5df0214b31295fbd7e5a5b87849cb7bc07e9c5b23a20
-Section: Tweaks
-Description: Know if you have a notification without looking at your phone!
-Author: AnthoPak <anthopakdev@gmail.com>
-Name: NotiVibe
 
 Package: com.gfp.photoresplus
 Version: 1.4.2
@@ -1999,23 +2086,6 @@ Section: Tweaks
 Description: Garena 傳說對決 iGMM Cheats by DanYal for
 Author: 果粉派
 Name: Garena 傳說對決 全圖
-
-Package: com.gfp.bottomtoolbar
-Version: 1.2.0-3
-Architecture: iphoneos-arm
-Maintainer: XCXiao <Kpwn0@outlook.com>
-Installed-Size: 5476
-Depends: mobilesubstrate
-Filename: debs/com.gfp.bottomtoolbar_1.2.0-3_iphoneos-arm.deb
-Size: 4216076
-MD5sum: e8a3676c9e57762b1cb01185a0931c2d
-SHA1: 2ae83fe26190c1db5b797083570e6c98a7cb3e88
-SHA256: 9d91d2ffd39f9473f74eeca7fa50903241d2162c899f2f0ef8a476e3a4dd87ec
-Section: Tweaks
-Description: A useful and beautiful tool bar for your devices.
-Tag: purpose::extension, cydia::commercial, compatible_min::ios12.2, compatible_max::ios13.3
-Author: XCXiao <Kpwn0@outlook.com>
-Name: BottomToolBar
 
 Package: com.gfp.callblocker
 Version: 2.0.3
