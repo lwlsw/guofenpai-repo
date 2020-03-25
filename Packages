@@ -1,3 +1,22 @@
+Package: com.gfp.tsssaver2
+Version: 1.0-beta-4
+Architecture: iphoneos-arm
+Maintainer: IArrays <support@iarrays.com>
+Pre-Depends: firmware (>=8.0)
+Depends: mobilesubstrate, net.limneos.libbulletin
+Filename: debs/com.gfp.tsssaver2_1.0-beta-4_iphoneos-arm.deb
+Size: 423584
+MD5sum: e52dfb380e2842829b376c36f92073cd
+SHA1: 21948e4ef569bf382eb1615eeb6641f7a0ed0369
+SHA256: 871ccaece153a728568efff16bf239a1718c6705c674a73699ea6f60db63f057
+Section: Utilities
+Description: A one-click tool to save blobs using TSSsaver.1conan.com, idea from @nullpixel's TSS Saver but entirely rewritten in Objective-C to support more features. Just install and leave the rest, this tool automatically saves SHSH blobs to TSSsaver.1conan.com.
+Author: IArrays <support@iarrays.com>
+Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.tsssaver2
+Icon: file://Applications/TSSSaver.app/AppIcon40x40@2x.png
+Name: TSSSaver 2
+Sponsor: IArrays
+
 Package: com.gfp.switchus
 Version: 1.5.1
 Architecture: iphoneos-arm
