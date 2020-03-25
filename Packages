@@ -1,3 +1,19 @@
+Package: com.gfp.switchus
+Version: 1.5.1
+Architecture: iphoneos-arm
+Maintainer: SynnyG <synnyg.devjb@gmail.com>
+Depends: mobilesubstrate, firmware (>= 11.0), applist, ws.hbang.common (>= 1.11), preferenceloader
+Filename: debs/com.gfp.switchus_1.5.1_iphoneos-arm.deb
+Size: 314656
+MD5sum: e8879b84042413d129b0e55dae8fab78
+SHA1: 08e5ffb90b3510d0f059c4b2b47a4a3b054944f0
+SHA256: 552f79887dee5d6e4f27df45b79baec3860dbabe561c6855ef47254d72b7c4f4
+Section: Tweaks
+Description: Customize the App Switcher like never before !
+Author: SynnyG <synnyg.devjb@gmail.com>
+Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.switchus
+Name: Switchus
+
 Package: com.gfp.bottomtoolbarlite
 Version: 1.2.1
 Architecture: iphoneos-arm
