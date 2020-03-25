@@ -4,7 +4,7 @@
 	"desc_long": "一鍵式工具，使用@nullpixel的TSS Saver提供的TSSsaver.1conan.com保存shsh，已完全用Objective-C重寫以支持更多功能。 只需安裝，此工具會自動將SHSH Blob保存到TSSsaver.1conan.com",
 	"compatitle": "iOS 13",
 	"changelog": "<strong>1.0-beta-4</strong><br>- Initial Release.<br>",
-	"screenshot": "<div style='text-align: left;'><a href='https://i.imgur.com/nOxibuH.png'><a href='https://i.imgur.com/2gFxQoh.png'><a href='https://i.imgur.com/hvNbnKT.png'><a href='https://i.imgur.com/VbrGPQ8.png'/></a><br></div>",
+	"screenshot": "<div style='text-align: left;'><a href='https://i.imgur.com/nOxibuH.png;'><a href='https://i.imgur.com/2gFxQoh.png;'><a href='https://i.imgur.com/hvNbnKT.png;'><a href='https://i.imgur.com/VbrGPQ8.png;'/></a><br></div>",
 	"notes": "果粉派集美化、原創、破解、搬運、共享以及交流的新型團體",
 	"open": true,
 }
