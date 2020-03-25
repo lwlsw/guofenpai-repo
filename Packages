@@ -1,3 +1,18 @@
+Package: com.gfp.igg
+Version: 8.0-1
+Architecture: iphoneos-arm
+Maintainer: gfp
+Filename: debs/com.gfp.igg_8.0-1_iphoneos-arm.deb
+Size: 411434
+MD5sum: 473e620de36a94344d4e5a6eee6b52c1
+SHA1: d5d9a9599c44615e2c4d73969567390656c3309b
+SHA256: 6fd584deaa7cd26a7a9fba206554972f0967ef0eeebb28806ed6c8763c13d54c
+Section: Tweaks
+Description: iGG破解
+Author: gfp
+Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.igg
+Name: iGG
+
 Package: com.gfp.springtomize5
 Version: 5.1.1
 Architecture: iphoneos-arm
