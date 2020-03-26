@@ -1,3 +1,57 @@
+Package: com.gfp.frontpage
+Version: 1.5.3
+Architecture: iphoneos-arm
+Maintainer: June <junesgraphics@gmail.com>
+Installed-Size: 2272
+Depends: mobilesubstrate
+Filename: debs/com.gfp.frontpage_1.5.3_iphoneos-arm.deb
+Size: 861518
+MD5sum: c787361714ef7314a4de253a06b08e5d
+SHA1: 31fcdf0342c9d48c525ce6bc5443b9140051b97c
+SHA256: 4e9a8e0f138b06637cc054db1a065b637f2462152fbd7241507d1d5945f0cf39
+Section: Addons (Tweaks)
+Description: Powerful html for the springboard.
+Tag: cydia::paid
+Author: JunesiPhone <junesgraphics@gmail.com>
+Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.frontpage
+Name: FrontPage
+
+Package: com.gfp.lockpluspro
+Version: 1.8.5
+Architecture: iphoneos-arm
+Maintainer: June <junesgraphics@gmail.com>
+Installed-Size: 43960
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.d11z.textyle, jp.akusio.milkyway, jp.akusio.milkyway2
+Filename: debs/com.gfp.lockpluspro_1.8.5_iphoneos-arm.deb
+Size: 19266376
+MD5sum: 9fbb902502155038cc69bf8d3656fee2
+SHA1: bd842c28b2ae43af1a2424cdbf6d607b121e0f2a
+SHA256: c29359118af02419660084eda58b3b49089da2d8b2ae5fc4ffedfff6b201caaa
+Section: Addons (Tweaks)
+Description: The ultimate lock screen tweak!
+Tag: cydia::paid
+Author: JunesiPhone <junesgraphics@gmail.com>
+Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.lockpluspro
+Name: LockPlus Pro
+
+Package: com.gfp.mysb
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: June <junesgraphics@gmail.com>
+Depends: mobilesubstrate, com.gfp.frontpage
+Filename: debs/com.gfp.mysb_1.2_iphoneos-arm.deb
+Size: 445850
+MD5sum: 1e9a2c9ce4ca5b2a50890ff16c90f6a0
+SHA1: d43843126f8b0721da464c2b17877b9f3aa9b0a6
+SHA256: 04d76225b077db874134e15582cd3adfc5ff60e5aa93272a4ee4930af9cd370b
+Section: Addons (FrontPage)
+Description: mySB for FrontPage
+Tag: cydia::paid
+Author: JunesiPhone <junesgraphics@gmail.com>
+Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.mysb
+Name: mySB
+
 Package: com.gfp.lynx
 Version: 1.1.9-5
 Architecture: iphoneos-arm
