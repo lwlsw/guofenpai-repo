@@ -1,3 +1,20 @@
+Package: com.gfp.frontpagethrmes
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: June <junesgraphics@gmail.com>
+Depends: mobilesubstrate, com.gfp.frontpage
+Filename: debs/com.gfp.frontpagethrmes_1.0_iphoneos-arm.deb
+Size: 18741646
+MD5sum: 032211ad883e1ed0773ee3d082189c43
+SHA1: f9b53897bd7c9aec3b4d2eec52bd192c58a346d0
+SHA256: 28bade855f96ca6d634e556a6837588c8042927007f06dc182c975cd75c64014
+Section: Addons (FrontPage)
+Description: FrontPage主題集包，一共17個主題
+Tag: cydia::paid
+Author: gfp <email@gmail.com>
+Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.frontpagethrmes
+Name: FrontPage主題集包
+
 Package: com.gfp.adblockplus
 Version: 1.2-2
 Architecture: iphoneos-arm
