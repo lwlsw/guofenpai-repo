@@ -1,0 +1,10 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "越獄時自動固定shsh<br>用法：setgenerator [generator]
+  如果您沒有更改數值，Generator Auto Setter會將0x1111111111111111設置為默認數值<br>僅支持Checkra1n，其它越獄工具不需要",
+	"compatitle": "iOS 13",
+	"changelog": "<strong>0.2.0</strong><br>- Initial Release.<br>",
+	"notes": "果粉派集美化、原創、破解、搬運、共享以及交流的新型團體",
+	"open": true,
+}
