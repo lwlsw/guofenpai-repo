@@ -1,3 +1,39 @@
+Package: com.gfp.himiko
+Version: 1.5.3
+Architecture: iphoneos-arm
+Maintainer: plat-ykor <plat-ykor@libero.it>
+Installed-Size: 332
+Depends: mobilesubstrate, ws.hbang.common (>= 1.13)
+Filename: debs/com.gfp.himiko_1.5.3_iphoneos-arm.deb
+Size: 49688
+MD5sum: 85946404f79a8c586d6bd2e79c7949b0
+SHA1: 1b42c078fdbbb2feae675d3eeea7da102ed3f2ba
+SHA256: 3a828023e8b51dd604d716a5395093374af7fb2fdf0254236ebcc79cb992a1b8
+Section: Tweaks
+Description: 點擊即可關閉所有應用程序！Close all Apps with a tap❣️
+Author: plat-ykor <plat-ykor@libero.it>
+Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.himiko
+Icon: file:///Library/PreferenceBundles/himikoprefs.bundle/icon@2x.png
+Name: Himiko
+
+Package: com.gfp.himiko13
+Version: 1.4.7
+Architecture: iphoneos-arm
+Maintainer: Plat-Ykor <plat-ykor@libero.it>
+Installed-Size: 480
+Depends: mobilesubstrate, ws.hbang.common (>= 1.13)
+Filename: debs/com.gfp.himiko13_1.4.7_iphoneos-arm.deb
+Size: 170958
+MD5sum: f10c60eb8d7e3856c6fc3a4d9f626677
+SHA1: d9588df509061bbbda03f5fdd0a165530c01455b
+SHA256: b6dc6bb43fa7a495e2f3eb449a122fd59af2af3fad9541f6c7cc0dae96cc15a0
+Section: Tweaks
+Description: 用兩根手指終止所有應用程序！ Teminate all apps with two fingers!
+Author: Plat-Ykor <plat-ykor@libero.it>
+Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.himiko13
+Icon: file:///Library/PreferenceBundles/himikoprefs.bundle/icon@2x.png
+Name: Himiko 13
+
 Package: com.gfp.Hot-Tub
 Version: 0.0.3-2
 Architecture: iphoneos-arm
