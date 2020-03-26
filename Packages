@@ -53,16 +53,16 @@ Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.mysb
 Name: mySB
 
 Package: com.gfp.lynx
-Version: 1.1.9-5
+Version: 1.1.9-6
 Architecture: iphoneos-arm
 Maintainer: MTAC <mtactheming@gmail.com>
 Installed-Size: 2228
 Depends: mobilesubstrate, ws.hbang.common, firmware (>= 13.0), com.rpetrich.rocketbootstrap, applist
-Filename: debs/com.gfp.lynx_1.1.9-5_iphoneos-arm.deb
-Size: 547462
-MD5sum: 36b91a0ebd74de221e27143179d11211
-SHA1: 2c3f291f936dd8e89daa3f6de49f7bb71563119b
-SHA256: 7190bcb1f8b4b2dd226524ca1262cdb9f089757bc31fb2880b6c48ec14cc37f2
+Filename: debs/com.gfp.lynx_1.1.9-6_iphoneos-arm.deb
+Size: 548330
+MD5sum: 56410cbc62a370faf6e9c9ce31741da7
+SHA1: 4160837d5799fc6b02c1be21f5fb516e6b78b1a8
+SHA256: aa729c681d339023ca6e9b4f9c3f676a097f617e21c1aea8126ee4954bf67c54
 Section: Tweaks
 Description: 終極設備定制
 Tag: purpose::extension, cydia::commercial, compatible_min::ios13.0, compatible_max::ios13.3
