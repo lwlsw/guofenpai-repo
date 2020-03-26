@@ -1,3 +1,22 @@
+Package: com.gfp.lynx
+Version: 1.1.9-5
+Architecture: iphoneos-arm
+Maintainer: MTAC <mtactheming@gmail.com>
+Installed-Size: 2228
+Depends: mobilesubstrate, ws.hbang.common, firmware (>= 13.0), com.rpetrich.rocketbootstrap, applist
+Filename: debs/com.gfp.lynx_1.1.9-5_iphoneos-arm.deb
+Size: 547462
+MD5sum: 36b91a0ebd74de221e27143179d11211
+SHA1: 2c3f291f936dd8e89daa3f6de49f7bb71563119b
+SHA256: 7190bcb1f8b4b2dd226524ca1262cdb9f089757bc31fb2880b6c48ec14cc37f2
+Section: Tweaks
+Description: 終極設備定制
+Tag: purpose::extension, cydia::commercial, compatible_min::ios13.0, compatible_max::ios13.3
+Author: MTAC <mtactheming@gmail.com>
+Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.lynx
+Icon: file:///Library/PreferenceBundles/lynxprefs.bundle/lynx.png
+Name: Lynx
+
 Package: com.gfp.himiko
 Version: 1.5.3
 Architecture: iphoneos-arm
@@ -203,24 +222,6 @@ Description: A useful and beautiful tool bar for your devices.
 Author: XCXiao
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.bottomtoolbarlite
 Name: BottomToolBar-Lite
-
-Package: com.gfp.lynx
-Version: 1.1.9-3
-Architecture: iphoneos-arm
-Maintainer: MTAC <mtactheming@gmail.com>
-Installed-Size: 2212
-Depends: mobilesubstrate, ws.hbang.common, ws.hbang.alderis, firmware (>= 13.0), com.rpetrich.rocketbootstrap, applist
-Filename: debs/com.gfp.lynx_1.1.9-3_iphoneos-arm.deb
-Size: 543820
-MD5sum: 04bd30c423c1800f4f3cd8caa8eba6b7
-SHA1: f0a59c54f03abe4532d2e4469986ae04d683354c
-SHA256: ed9de33685586475e974232e12605f50435beb44116c9e93ddc53a6999d1ad04
-Section: Tweaks
-Description: Ultimate device customization
-Tag: purpose::extension, cydia::commercial, compatible_min::ios13.0, compatible_max::ios13.3
-Author: MTAC <mtactheming@gmail.com>
-Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.lynx
-Name: Lynx
 
 Package: com.gfp.bottomtoolbar
 Version: 1.2.1-1
