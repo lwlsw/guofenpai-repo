@@ -650,18 +650,18 @@ Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.springto
 Name: Springtomize 5
 
 Package: com.gfp.bottomtoolbarlite
-Version: 1.2.1-1
+Version: 1.2.1-2
 Architecture: iphoneos-arm
 Maintainer: XCXiao
 Installed-Size: 5040
 Depends: mobilesubstrate
-Filename: debs/com.gfp.bottomtoolbarlite_1.2.1-1_iphoneos-arm.deb
-Size: 4113916
-MD5sum: 3d134fcea1a53e6644bb2ca359fd090f
-SHA1: 394abb2ac5f028ed564f438935955be5a36de4db
-SHA256: 454be30ebc6a385d5e3a958cf0b209b75af98bfabebd2ea7e574802d155bd35d
+Filename: debs/com.gfp.bottomtoolbarlite_1.2.1-2_iphoneos-arm.deb
+Size: 4120850
+MD5sum: 68f0ecb7f24b8a7f585493001d8c0900
+SHA1: 50691f24fe8d0f88222f0c7e8e67d34e616d19ce
+SHA256: c594de6b6a518d7f04986524c9d620f71619d9507e7561ab265d0df58ef3b0c1
 Section: Tweaks
-Description: A useful and beautiful tool bar for your devices.
+Description: 適用於您設備的實用且美觀的工具欄 A useful and beautiful tool bar for your devices.
 Author: XCXiao
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.bottomtoolbarlite
 Name: BottomToolBar-Lite
