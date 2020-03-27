@@ -1,3 +1,37 @@
+Package: com.gfp.camerAlts
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Lo7
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: debs/com.gfp.camerAlts_1.1_iphoneos-arm.deb
+Size: 815050
+MD5sum: d0bdd8855f09d0cd6249315922cbdba1
+SHA1: a9808def4fc7344f9a651ac837fe522960a810d4
+SHA256: 9907eb84b4906844556a67d8150db8b65369b5a1c81a0f6acdf983bc8f35abde
+Section: Themes
+Description: 幾乎所有的iPhone相機都是一個主題。 請享用！ A theme with almost every iPhone camera. Enjoy!
+Author: Lo7
+Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.camerAlts
+Name: camerAlts
+
+Package: com.gfp.twinkling
+Version: 2.61
+Architecture: iphoneos-arm
+Maintainer: Remark <workplace.2015@gmail.com>
+Depends: firmware (>= 7.0), me.chewitt.fingal
+Filename: debs/com.gfp.twinkling_2.61_iphoneos-arm.deb
+Size: 24255092
+MD5sum: a9a6d348f09e7f64d6210d003c2d5151
+SHA1: 1e2d1312bb970a22bf3a714f7dc45cc134c340a7
+SHA256: 3dabf43d2a73a4fd136addb04eaff7376ee14d2b54819b6606f4360885cab91c
+Section: Themes (Toonsy or Fingal)
+Priority: optional
+Description: Twinkling - this is a super bomb theme with a large set of colorful animation icons.
+Author: Remark <workplace.2015@gmail.com>
+Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.twinkling
+Dev: Remark
+Name: ❤️Twinkling❤️Animation Theme❤️
+
 Package: com.gfp.handprint
 Version: 0.5.3-1
 Architecture: iphoneos-arm
@@ -224,22 +258,6 @@ Description: 狀態欄擴展 StatusBar for SnowBoard
 Author: Spark
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.snowboard.statusbar
 Name: SnowBoard StatusBar Extension
-
-Package: com.gfp.camerAlts
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Lo7
-Depends: com.anemonetheming.anemone | com.spark.snowboard
-Filename: debs/com.gfp.camerAlts_1.0_iphoneos-arm.deb
-Size: 895870
-MD5sum: dc026757064bf9f95261aec0065c8809
-SHA1: c7b71f5e6cf9566ba722c25c1d92327ae729b7fb
-SHA256: 067ac7ca7b66eed78fe296bcfa2befbf0f9051f3f55480cb8b76e32962c68601
-Section: Themes
-Description: 幾乎所有的iPhone相機都是一個主題。 請享用！ A theme with almost every iPhone camera. Enjoy!
-Author: Lo7
-Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.camerAlts
-Name: camerAlts
 
 Package: com.gfp.magmaevo
 Version: 1.2.3
@@ -713,24 +731,6 @@ Description: 適用於iOS 11的動畫圖標主題平台 Animated icon theming pl
 Author: va2ron1
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.toonsy
 Name: Toonsy
-
-Package: com.gfp.twinkling
-Version: 2.61
-Architecture: iphoneos-arm
-Maintainer: Remark <workplace.2015@gmail.com>
-Depends: firmware (>= 7.0), me.chewitt.fingal
-Filename: debs/com.gfp.twinkling_2.61_iphoneos-arm.deb
-Size: 24255092
-MD5sum: cef560546fe4a580bf7142d4a6811878
-SHA1: 0c5bdb9b359643f2e88ee32dcb3b08479f1e0cfe
-SHA256: 7134b69811adf8e72ead34094c83eac1668bd66a784cb59ee726a74892793207
-Section: Themes (Toonsy or Fingal)
-Priority: optional
-Description: Twinkling - this is a super bomb theme with a large set of colorful animation icons.
-Author: Remark <workplace.2015@gmail.com>
-Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.twinkling
-Dev: Remark
-Name: ❤️Twinkling❤️Animation Theme❤️
 
 Package: com.gfp.lynxapplication
 Version: 1.0.0
