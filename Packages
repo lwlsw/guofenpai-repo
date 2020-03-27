@@ -4,11 +4,11 @@ Architecture: iphoneos-arm
 Maintainer: Plat-Ykor <plat-ykor@libero.it>
 Installed-Size: 624
 Depends: mobilesubstrate
-Filename: debs/com.platykor.yobunpro_1.8_iphoneos-arm.deb
+Filename: debs/com.gfp.yobunpro_1.8_iphoneos-arm.deb
 Size: 283710
-MD5sum: b6e555bb33773a143c81647a66d5f470
-SHA1: 067ad060e40a5fc8f63940012778ee00bb58ba7c
-SHA256: ba85a8d25facf88a16400f326fb2341637a3b04ba4cffd3c8ce4b74e04f6b08e
+MD5sum: 6d288fe72e94de6a6a1883f9faddb486
+SHA1: 5af47be40950ed774bcf79407e971819d1b7fbb4
+SHA256: ab40fc1dd4dc1e014ebbd11b3d78bf8a76964c15b241ed961a32ad2b57bbb8c5
 Section: Tweaks
 Description: Clean,Respring & more in your SpringBoard ♥
 Author: Plat-Ykor <plat-ykor@libero.it>
