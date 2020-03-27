@@ -53,12 +53,12 @@ Package: com.gfp.shortlook
 Version: 1.0.17
 Architecture: iphoneos-arm
 Maintainer: gfp
-Depends: mobilesubstrate
+Depends: mobilesubstrate, com.gfp.shortlook.plugin.contact-photo.all
 Filename: debs/com.gfp.shortlook_1.0.17_iphoneos-arm.deb
-Size: 1731006
-MD5sum: a04710d9df1492623146360cf157527a
-SHA1: 81981a1c4df218604c7d85c3729137767d07ab47
-SHA256: 3300e182ac510d6ff191f45ed7cc7710dc3222169c8a859f65709fafa6a7b948
+Size: 1731034
+MD5sum: 432f6d0302a031d4c2667b5b5ef79b57
+SHA1: 1c47850cc263e5da4affef0a6bffef4a5fd2ae2c
+SHA256: 4325415dc2d1af01dbde052db24484e016311903ed8290b6bdf11650b6308584
 Section: System
 Description: 熄屏大頭通知
 Author: gfp
