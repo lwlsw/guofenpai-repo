@@ -1,3 +1,20 @@
+Package: com.gfp.handprint
+Version: 0.5.3-1
+Architecture: iphoneos-arm
+Maintainer: Halo_Michael <yc992147156@me.com>
+Installed-Size: 176
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: debs/com.gfp.handprint_0.5.3-1_iphoneos-arm.deb
+Size: 5268
+MD5sum: 738411ffc7e74ee44666b19095ae2c8b
+SHA1: 908b594c0fe15f83341031d6b88ab7dc51734124
+SHA256: 72b7ca50236260de39e0a68d8fdb4c17d7e01d41c3b4899da67116973d3ca275
+Section: Tweaks
+Description: 為您的iPhone啟用本機X手勢！ Enable native X gesture for your iPhone!
+Author: Halo_Michael <yc992147156@me.com>
+Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.handprint
+Name: HandPrint
+
 Package: com.gfp.snowboard
 Version: 1.2.87~Beta2
 Architecture: iphoneos-arm
