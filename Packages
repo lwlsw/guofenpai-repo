@@ -5,14 +5,14 @@ Maintainer: Plat-Ykor <plat-ykor@libero.it>
 Installed-Size: 624
 Depends: mobilesubstrate
 Filename: debs/com.gfp.yobunpro_1.8_iphoneos-arm.deb
-Size: 283710
-MD5sum: 6d288fe72e94de6a6a1883f9faddb486
-SHA1: 5af47be40950ed774bcf79407e971819d1b7fbb4
-SHA256: ab40fc1dd4dc1e014ebbd11b3d78bf8a76964c15b241ed961a32ad2b57bbb8c5
+Size: 283714
+MD5sum: bd2d1295e11918428fcfd6a9e021cd7a
+SHA1: de09db91c4113ca74fadc93ba8ef2016f0b57ce7
+SHA256: d43ff602192475e5c7b412724513eb82aad76524af2455fdaab60eb6368204b6
 Section: Tweaks
 Description: Clean,Respring & more in your SpringBoard ♥
 Author: Plat-Ykor <plat-ykor@libero.it>
-Depiction: https://guofenpai.github.io/repo/description.html?id=com.platykor.yobunpro
+Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.yobunpro
 Name: Yobun Pro
 
 Package: com.gfp.camerAlts
