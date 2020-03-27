@@ -1,3 +1,70 @@
+Package: com.gfp.camerAlts
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Lo7
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: debs/com.gfp.camerAlts_1.0_iphoneos-arm.deb
+Size: 895870
+MD5sum: dc026757064bf9f95261aec0065c8809
+SHA1: c7b71f5e6cf9566ba722c25c1d92327ae729b7fb
+SHA256: 067ac7ca7b66eed78fe296bcfa2befbf0f9051f3f55480cb8b76e32962c68601
+Section: Themes
+Description: 幾乎所有的iPhone相機都是一個主題。 請享用！ A theme with almost every iPhone camera. Enjoy!
+Author: Lo7
+Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.camerAlts
+Name: camerAlts
+
+Package: com.gfp.magmaevo
+Version: 1.2.3
+Architecture: iphoneos-arm
+Maintainer: NoisyFlake
+Installed-Size: 596
+Depends: mobilesubstrate, firmware (>= 12.0), preferenceloader, com.opa334.ccsupport, org.thebigboss.libcolorpicker (>= 1.6.7)
+Conflicts: com.noisyflake.magma, com.noisyflake.magmapro
+Filename: debs/com.gfp.magmaevo_1.2.3_iphoneos-arm.deb
+Size: 153030
+MD5sum: 55e9fa5eec9d66c8dee26ca6ae3b03ec
+SHA1: 45d6c20a19adca4e16a159a94a4c7bef32b3f1bc
+SHA256: b5f774fc55ede179c60b5dbf80f3749517c07d69d03eb9d0ca2e7a3aa41e36b4
+Section: Tweaks
+Description: 重新定義您的控制中心 Redefine your Control Center
+Author: NoisyFlake
+Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.magmaevo
+Name: Magma Evo
+
+Package: com.gfp.shortlook
+Version: 1.0.17
+Architecture: iphoneos-arm
+Maintainer: gfp
+Depends: mobilesubstrate
+Filename: debs/com.gfp.shortlook_1.0.17_iphoneos-arm.deb
+Size: 1731006
+MD5sum: a04710d9df1492623146360cf157527a
+SHA1: 81981a1c4df218604c7d85c3729137767d07ab47
+SHA256: 3300e182ac510d6ff191f45ed7cc7710dc3222169c8a859f65709fafa6a7b948
+Section: System
+Description: 熄屏大頭通知
+Author: gfp
+Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.shortlook
+Icon: https://guofenpai.github.io/repo/icon/shortlook@2x.png
+Name: ShortLook
+
+Package: com.gfp.shortlook.plugin.contact-photo.all
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 果粉派
+Depends: mobilesubstrate, com.gfp.shortlook
+Filename: debs/com.gfp.shortlook.plugin.contact-photo.all_1.0_iphoneos-arm.deb
+Size: 179890
+MD5sum: af566e8056ac9a3f3787c961013d17e4
+SHA1: e3218d155cb5e7a565d679f6ae3be6a2dbd1798b
+SHA256: 49f08af6b9b940fc1a2f2fda8cbfa00e2da397f1f15f1894fa44f5291d984ed7
+Section: Tweaks (ShortLook)
+Description: ShortLook熄屏顯示通知Apps圖標集合包，一共20個應用！Show All Profile Pictures users' profile pictures in ShortLook when you receive a all notification!
+Author: Marco Roth
+Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.shortlook.plugin.contact-photo.all
+Name: All Profile Pictures for ShortLook 
+
 Package: com.gfp.frontpagethrmes
 Version: 1.0
 Architecture: iphoneos-arm
@@ -923,22 +990,6 @@ Author: Devy_Design <idrainmax@gmail.com>
 Depiction: https://guofenpai.github.io/repo/depictions/?p=com.gfp.prysmfruitcc
 Name: Prysm FruitCC
 
-Package: com.gfp.yobunpro
-Version: 1.5.5
-Architecture: iphoneos-arm
-Maintainer: Plat-Ykor <plat-ykor@libero.it>
-Installed-Size: 588
-Depends: mobilesubstrate
-Filename: debs/com.gfp.yobunpro_1.5.5_iphoneos-arm.deb
-Size: 265176
-MD5sum: d98ea53ab4d3882e6fe54fdafcb5286a
-SHA1: 684cdfc4abf162e141653a7b2d8c164005df135a
-SHA256: 87bf67389ce36cb4b3f40f1ff30643389fec47f75db356702623656272a361ba
-Section: Tweaks
-Description: 主屏快捷開關(Homescreen雙指上滑觸發)
-Author: Plat-Ykor <plat-ykor@libero.it>
-Name: Yobun Pro
-
 Package: com.gfp.dots2
 Version: 0.3.2
 Architecture: iphoneos-arm
@@ -1150,23 +1201,6 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wicellswit
 Dev: brunonfl
 Icon: file:///Library/PreferenceBundles/WiCellSwitcherPrefs.bundle/WiCellSwitcher.png
 Name: WiCellSwitcher
-
-Package: com.gfp.magmaevo
-Version: 1.2.2
-Architecture: iphoneos-arm
-Maintainer: NoisyFlake
-Installed-Size: 596
-Depends: mobilesubstrate, firmware (>= 12.0), preferenceloader, com.opa334.ccsupport, org.thebigboss.libcolorpicker (>= 1.6.7)
-Conflicts: com.noisyflake.magma, com.noisyflake.magmapro
-Filename: debs/com.gfp.magmaevo_1.2.2_iphoneos-arm.deb
-Size: 148288
-MD5sum: 813b1aa7731192ae0be83de9a133f0da
-SHA1: db2bdbb9d41d1de71db5fe4ca89816042e09d80f
-SHA256: 724fc8352977319cfca8925d417b6718c538eff69ee51080de3f8bee6722915c
-Section: Tweaks
-Description: Redefine your Control Center
-Author: NoisyFlake
-Name: Magma Evo
 
 Package: com.gfp.meltedcrayons
 Version: 1.0.3b1-71+debug
