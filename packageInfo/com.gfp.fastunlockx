@@ -1,0 +1,9 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "與iOS 11和12上的FaceID設備兼容<br>當存在有效的面部識別匹配項時，FastUnlockX通過自動解除鎖定屏幕來幫助解鎖設備",
+	"compatitle": "iOS 12.1.2, iOS 13",
+	"changelog": "<strong>1.4.5</strong><br>- Initial Release.<br>",
+	"notes": "果粉派集美化、原創、破解、搬運、共享以及交流的新型團體",
+	"open": true,
+}
