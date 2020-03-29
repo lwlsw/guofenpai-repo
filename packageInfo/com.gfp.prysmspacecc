@@ -1,0 +1,10 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "前衛的控制中心<br>為MagmaEVO添加了4個新的Special SpaceCC附加件（安裝時自動安裝在Preset目錄中）<br>安裝過程-只需5分鐘<br>1）安裝Prysm SpaceCC後，使用filza Library / Themes / PrysmSpaceCC.theme / bundle進入“文件夾”位置，您會發現prysm文件夾並複製該文件夾<br>2）將該文件夾粘貼到Library / Application Support文件夾中<br>3）使用SnowBoard或iThemer加載Prysm SpaceCC，然後再註銷<br>4）從帶有黑色背景圖標的控制中心設置中調整切換<br>5）現在重新註銷一下<br>重要提醒：<br>此主題需要Snowboard UI擴展，然後從Julioverne repo安裝Flipconvert（它也會自動安裝flipswitch）",
+	"compatitle": "iOS 13",
+	"changelog": "<strong>1.2</strong><br>- Initial Release.<br>",
+	"screenshot": "<div style='text-align:center;'><img width=95% src='https://i.imgur.com/EoehrUD.jpg;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/fmN0a5d.jpg;'/></a><br></div>",
+	"notes": "果粉派集美化、原創、破解、搬運、共享以及交流的新型團體",
+	"open": true,
+}
