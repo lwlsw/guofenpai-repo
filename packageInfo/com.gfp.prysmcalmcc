@@ -1,0 +1,11 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "Prysm CalmCC<br>為MagmaEVO添加了5個Presents（安裝時自動安裝在Preset目錄中）<br>安裝過程<br>1）安裝CalmCC後，使用filza Library/Themes/PrysmCalmCC.theme/bundle進入文件夾位置，您會發現prysm文件夾，複製該文件夾<br>2）將該文件夾粘貼到Library/Application Support文件夾中<br>3）使用SnowBoard或iThemer應用CalmCC，然後再註銷<br>4）從帶有黑色背景圖標的控制中心設置中調整切換<br>5）現在重新註銷您的設備<br>必須要Snowboard UI擴展（源裡有），然後從Julioverne repo安裝Flipconvert（它也會自動安裝flipswitch）如有不懂的請看下方視頻",
+	"compatitle": "iOS 13",
+	"changelog": "<strong>1.2</strong><br>- Initial Release.<br>",
+	"screenshot": "<div style='text-align:center;'><img width=95% src='https://i.imgur.com/hBJ4thC.mp4;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/aqHS8R6.mp4;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/1qHfRIF.png;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/ph9QV0y.png;'/></a><br></div>",
+	"notes": "果粉派集美化、原創、破解、搬運、共享以及交流的新型團體",
+	"open": true,
+}
+
