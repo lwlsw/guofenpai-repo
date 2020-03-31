@@ -1,0 +1,12 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "完全重寫以提高效率和直觀性，完全控制Apple的低功耗模式<br><br>功能包括：<br>屏幕關閉時啟用LPM<br>充電時啟用LPM<br>在不打擾的情況下啟用LPM<br>隱藏煩人的低電量警報<br>使用LPM啟用暗模式<br>設置電池百分比以自動啟用LPM<br>創建並提醒特定的電池電量（不充電時）<br>在設備充電時創建並提醒特定的電池百分比
+為每個選擇自定義警報聲音<br>使用指定的應用程序時啟用LPM",
+	"compatitle": "iOS 13 or later",
+	"changelog": "<strong>1.0.2</strong><br>- Initial Release.<br>",
+	"screenshot": "<div style='text-align:center;'><img width=95% src='https://i.imgur.com/3fv7Zs3.jpg;'/></a><br></div>",
+	"notes": "果粉派集美化、原創、破解、搬運、共享以及交流的新型團體",
+	"open": true,
+}
+
