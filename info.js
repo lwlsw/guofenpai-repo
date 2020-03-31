@@ -25,13 +25,6 @@ function loadPackageInfo() {
 		cache: false,
 		crossDomain: true,
 		success: function (returnhtml) {
-   var form_url = urlSelfParts[0]+"捐贈"+urlSelfParts[1];
-	$.ajax({
-		url: form_url,
-		type: "GET",
-		cache: false,
-		crossDomain: true,
-		success: function (returnhtml) {
 			$("#tweakStatusInfo").hide();
 			var decodeResp = eval('('+returnhtml+')');
 			if(decodeResp.name) {
