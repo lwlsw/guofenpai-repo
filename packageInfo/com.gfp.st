@@ -8,4 +8,3 @@
 	"notes": "果粉派集美化、原創、破解、搬運、共享以及交流的新型團體",
 	"open": true,
 }
-											<li><a href="https://i.imgur.com/SnstRUf.jpg" class="button">WeChat捐贈</a></li>
