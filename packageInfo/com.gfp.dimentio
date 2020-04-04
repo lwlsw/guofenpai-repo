@@ -1,0 +1,9 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "PoC工具,用於設置隨機數而不觸發KPP/KTRR/PAC（需要tfp0）PoC tool for setting nonce without triggering KPP/KTRR/PAC. (requires tfp0)",
+	"compatitle": "iOS 13",
+	"changelog": "<strong>0.5.3</strong><br>- Initial Release.<br>",
+	"notes": "果粉派集美化、原創、破解、搬運、共享以及交流的新型團體",
+	"open": true,
+}

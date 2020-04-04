@@ -1,0 +1,9 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "通過終端更改設備分辨率！ 用法：res|resolution [高度] [寬度] [OPTIONS...]。 請在終端上鍵入“ res | resolution -h”以獲取更多消息",
+	"compatitle": "iOS 13",
+	"changelog": "<strong>0.4.2</strong><br>- Initial Release.<br>",
+	"notes": "果粉派集美化、原創、破解、搬運、共享以及交流的新型團體",
+	"open": true,
+}
