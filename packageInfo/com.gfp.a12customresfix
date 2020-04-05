@@ -4,7 +4,7 @@
 	"desc_long": "安裝以後，resolution.sh和reset.sh在/var/mobile/裡面，reset.sh為還原默認分辨率，resolution.sh為XS Max分辨率！每次重啟越獄後請先reset.sh，否則會閃屏！如白蘋果概不負責！需要搭配System info！Fixes custom resolutions on A12 by forcing the UIStatusBarVisualProvider to choose the one for notched devices. Warning! When setting a custom resolution always set it to default once SpringBoard is loaded. Otherwise you can not get into SafeMode and will have to restore in case of a reboot! Based on iPadStatusBar by NoisyFlake",
 	"compatitle": "iOS 13",
 	"changelog": "<strong>3.0-1+debug</strong><br>- Initial Release.<br>",
-	"notes": "果粉派集美化、原創、破解、搬運、共享以及交流的新型團體",
+	"notes": "如您在本源下載任何插件提示收費或遇到收費才能下載，請先安裝本源的SwipeForMore插件，然後找到你要下載的插件，左滑安裝即可，不要點進去下載！或點擊鏈接查看下載方法，由於本源大部分插件為正版，所以會提示這種現象！",
 	"open": true,
 }
 
