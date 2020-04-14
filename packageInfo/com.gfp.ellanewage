@@ -3,7 +3,7 @@
 	"desc_short": null,
 	"desc_long": "它是prysm CC主題和respring徽標和statusbar主題，因此3合1<br>圖標和音樂播放器的12種顏色的prysm主題<br>在安裝軟件包打開filza之後應用Stebs，然後轉到/ Library / Themes / Prysm NewAgeCC icons.theme / Bundles / Prysm，您將找到文件名Icons將其複制並替換到/ Library / Application Support / Prysm中，然後註銷<br>對於顏色，您需要安裝Magma Evo，並且您會在Magma Evo中找到12種顏色。在“管理預設”中，“首選項”將其應用然後註銷<br>您可以從SnowBoard，Anemone或iThemer應用註銷Logo，您可以從snowboard statusbar EX或Anemone或iThemer應用狀態欄主題",
 	"compatitle": "iOS 13",
-	"changelog": "<strong>1.0.5</strong><br>- Initial Release.<br>",
+	"changelog": "<strong>1.0.6</strong><br>- Initial Release.<br>",
 	"screenshot": "<div style='text-align:center;'><img width=95% src='https://i.imgur.com/KJ9jePn.jpg;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/kJyb1wq.jpg;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/V2Z49FA.jpg;'/></a><br></div>",
 	"notes": "如您在本源下載任何插件提示收費或遇到收費才能下載，請先安裝本源的SwipeForMore插件，然後找到你要下載的插件，左滑安裝即可，不要點進去下載！或點擊鏈接查看下載方法，由於本源大部分插件為正版，所以會提示這種現象！",
 	"open": true,
