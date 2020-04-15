@@ -3,7 +3,7 @@
 	"desc_short": null,
 	"desc_long": "高度詳細，但簡單！Peek提供了一些具有洞察力的圖標，同時又忠於其設計。圖標經過精心設計，注重細節！Peek目前處於測試階段，帶有170個圖標",
 	"compatitle": "iOS 13",
-	"changelog": "<strong>0.9</strong><br>- Initial Release.<br>",
+	"changelog": "<strong>1.0</strong><br>- Initial Release.<br>",
 	"screenshot": "<div style='text-align:center;'><img width=95% src='https://i.imgur.com/C3rZTCZ.png;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/KCPgzX0.jpg;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/npAO5Bc.jpg;'/></a><br></div>",
 	"notes": "如您在本源下載任何插件提示收費或遇到收費才能下載，請先安裝本源的SwipeForMore插件，然後找到你要下載的插件，左滑安裝即可，不要點進去下載！由於本源大部分插件為正版，所以會提示這種現象！",
 	"open": true,
