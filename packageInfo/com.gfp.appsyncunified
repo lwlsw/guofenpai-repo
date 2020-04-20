@@ -1,0 +1,9 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "啟用安裝未簽名/偽簽名的iOS應用程序的功能 Enables the ability to install unsigned/fakesigned iOS applications",
+	"compatitle": "iOS 13.4.1",
+	"changelog": "<strong>74.0</strong><br>- Initial Release.<br>",
+	"notes": "如您在本源下載任何插件提示收費或遇到收費才能下載，請先安裝本源的SwipeForMore插件，然後找到你要下載的插件，左滑安裝即可，不要點進去下載！由於本源大部分插件為正版，所以會提示這種現象！",
+	"open": true,
+}

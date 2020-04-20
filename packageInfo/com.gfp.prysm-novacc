@@ -1,0 +1,10 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "控制中心的主題<br>重要<br>使用iThemer或SnowBoard擴展程序激活<br>該軟件包需要Tweaks Prysm和Magma Evo以及Filza<br>1）安裝Prysm NovaCC後，使用filza打開Library / Themes / PrysmNovaCC.theme / bundle進入“文件夾”位置，您會發現prysm文件夾複製該文件夾<br>2）將該文件夾粘貼到Library / Application Support文件夾中<br>3）使用SnowBoard或Ithemer加載Prysm NovaCC，然後註銷裝置<br>4）從帶有黑色背景圖標的控制中心設置中調整切換<br>5）現在重新註銷您的設備",
+	"compatitle": "iOS 13",
+	"changelog": "<strong>1.2-2</strong><br>- Initial Release.<br>",
+	"screenshot": "<div style='text-align:center;'><img width=95% src='https://i.imgur.com/6tYBBFS.png;'/></a><br></div>",
+	"notes": "如您在本源下載任何插件提示收費或遇到收費才能下載，請先安裝本源的SwipeForMore插件，然後找到你要下載的插件，左滑安裝即可，不要點進去下載！由於本源大部分插件為正版，所以會提示這種現象！",
+	"open": true,
+}
