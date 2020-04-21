@@ -3,7 +3,7 @@
 	“desc_short”: null,
 	“desc_long”: “與所有設備上的iOS 13兼容<br><br>功能：<br>-iPhone X手勢<br>-iPhone 11 Zoom UI<br>-默認鍵盤<br>-鎖屏快捷方式<br>-現代Dock欄<br>-非常輕巧，無電池消耗<br>通過設置配置選項”,
 	“compatitle”: “iOS 13”,
-	“changelog”: “<strong>3.2.0</strong><br>- Initial Release.<br>”,
+	“changelog”: “<strong>3.2.1</strong><br>- Initial Release.<br>”,
 	“screenshot”: “<div style=‘text-align:center;’><img width=95% src=‘https://i.imgur.com/gxB64Cc.jpg;’><div style=‘text-align:center;’><img width=95% src=‘https://i.imgur.com/IFhoNV5.jpg;’><div style=‘text-align:center;’><img width=95% src=‘https://i.imgur.com/cPPw9Ll.jpg;’/></a><br></div>”,
 	“notes”: “如您在本源下载任何插件提示收费或遇到收费才能下载，请先安装本源的SwipeForMore插件，然后找到你要下载的插件，左滑安装即可，不要点进去下载！由于本源大部分插件为正版，所以会提示这种现象！”,
 	“open”: true,
