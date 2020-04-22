@@ -1,0 +1,9 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "激活Limneos的NFCWriter XS，無需下載任何其它源的破解版，只需下載此插件以及作者源的NFCWriter XS正版插件即可進行破解，此版本不適用於除了NFCwriter的其它插件，此版本為NFCWriter XS專用版",
+	"compatitle": "iOS 13",
+	"changelog": "<strong>3.2</strong><br>- Initial Release.<br>",
+	"notes": "如您在本源下載任何插件提示收費或遇到收費才能下載，請先安裝本源的SwipeForMore插件，然後找到你要下載的插件，左滑安裝即可，不要點進去下載！由於本源大部分插件為正版，所以會提示這種現象！",
+	"open": true,
+}
