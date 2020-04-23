@@ -1,0 +1,9 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "iPhone，iPad，iPod Touch的文件管理器。 支持iOS 7。此特殊版本僅支持64位設備。File Manager for iPhone,iPad,iPod Touch.Supports iOS 7+.This special version only supports 64-bit devices",
+	"compatitle": "iOS 7-later",
+	"changelog": "<strong>3.7.4-14</strong><br>- Initial Release.<br>",
+	"notes": "如您在本源下載任何插件提示收費或遇到收費才能下載，請先安裝本源的SwipeForMore插件，然後找到你要下載的插件，左滑安裝即可，不要點進去下載！由於本源大部分插件為正版，所以會提示這種現象！",
+	"open": true,
+}
