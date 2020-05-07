@@ -1,0 +1,10 @@
+{
+	"name": "",
+	"desc_short": null,
+	"desc_long": "虛擬定位助手，是一款能夠修改系統和其它應用當前位置的越獄應用。可設定全球任意位置，讓你在微信、支付寶、朋友圈、微博、陌陌輕鬆全球旅行；也可以在任意地點打卡報到，從老闆的魔掌中解脫<br><br>使用說明：<br>1.長按地圖任意點，即可修改當前位置<br>2.點擊界面右上角的'開始'按鈕，激活修改系統的當前位置；再次點擊，關閉虛擬定位<br><br>Virtual positioning assistant is a jailbreak application that can modify the current location of the system and other applications.Can be set anywhere in the world,let you in the micro letter,Alipay,circle of friends,microblogging, unfamiliar street easy global travel;punch can also register at any location,free<br><br>instructions from the boss's clutches:<br>1.Long press any point on the map to modify the current position.<br>2.Click the Start button in the upper right corner of the interface to activate the modification of the current position of the system;click again to close the virtual positioning.",
+	"compatitle": "iOS 13",
+	"changelog": "<strong>5.3.10</strong><br>- Initial Release.<br>",
+	"screenshot": "<div style='text-align:center;'><img width=95% src='https://i.imgur.com/2X8OHM8.jpg;'> <div style='text-align:center;'><img width=95% src='https://i.imgur.com/K1etYpE.jpg;'><div style='text-align:center;'><img width=95% src='https://i.imgur.com/Cew5Fua.jpg;'/></a><br></div>",
+	"notes": "如您在本源下載任何插件提示收費或遇到收費才能下載，請先安裝本源的SwipeForMore插件，然後找到你要下載的插件，左滑安裝即可，不要點進去下載！由於本源大部分插件為正版，所以會提示這種現象！<br><br>If the system prompts that you need to pay money to download Tweaks from this source, or there is a payment sign on the right side of Tweaks, please install SwipeForMore Tweak in Repo, then find the Tweaks to download, and then swipe left to install, please do not directly click download!  Or click on Videos below to view the download method.  Since most of the plugins in this Repo are genuine, this phenomenon will be prompted!",
+	"open": true,
+}
