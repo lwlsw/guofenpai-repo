@@ -1,0 +1,10 @@
+
+    entry = {
+	bundle = ScorpionPrefs;
+	cell = PSLinkCell;
+	detail = LSPRootListController;
+	isController = 1;
+	label = Scorpion;
+	icon = icon.png;
+    };
+}

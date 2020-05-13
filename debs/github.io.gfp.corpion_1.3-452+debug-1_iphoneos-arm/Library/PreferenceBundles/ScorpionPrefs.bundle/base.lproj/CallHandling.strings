@@ -1,0 +1,14 @@
+{
+  "CALL_HANDLING_DISMISS_BEHAVIOR" = "Dismiss Behavior";
+
+  "CALL_HANDLING_LOCK" = "Allow UI lock during call";
+  "CALL_HANDLING_AUTO_AN" = "Auto answer";
+  "CALL_HANDLING_AUTO" = "Auto answer call";
+  "CALL_HANDLING_PICK" = "Pick contact";
+  "CALL_HANDLING_PLACE" = "Contact name or phone number";
+  "CALL_HANDLING_CONTACT" = "Contact: ";
+
+  "CALL_HANDLING_BLACKLIST" = "Blacklist apps";
+  "CALL_HANDLING_APP_BL" = "Select apps to blacklist...";
+  "CALL_HANDLING_BLACKLIST_FOOTER" = "Scorpion will not activate for blacklisted apps. You will get the stock call UI.";
+}

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+	<!-- Behavior -->
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>CALL_HANDLING_DISMISS_BEHAVIOR</string>
+			<key>footerText</key>
+			<string></string>
+			<key>isStaticText</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSegmentCell</string>
+			<key>default</key>
+			<integer>2</integer>
+			<key>defaults</key>
+			<string>com.esquilli.scorpion</string>
+			<key>key</key>
+			<string>CallHandligDismissBehavior</string>
+			<key>validValues</key>
+			<array>
+				<integer>1</integer>
+				<integer>2</integer>
+				<integer>3</integer>
+			</array>
+			<key>validTitles</key>
+			<array>
+				<string>None</string>
+				<string>Suppress ringtone</string>
+				<string>Decline</string>
+			</array>
+			<key>alignment</key>
+			<string>3</string>
+			<key>PostNotification</key>
+			<string>com.esquilli.scorpion/ReloadPrefs</string>
+		</dict>
+
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>CALL_HANDLING_AUTO_AN</string>
+			<key>footerText</key>
+			<string></string>
+			<key>isStaticText</key>
+			<true/>
+		</dict>
+		<!--
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.esquilli.scorpion</string>
+			<key>key</key>
+			<string>CallHandlingLock</string>
+			<key>label</key>
+			<string>CALL_HANDLING_LOCK</string>
+			<key>PostNotification</key>
+			<string>com.esquilli.scorpion/ReloadPrefs</string>
+		</dict> -->
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.esquilli.scorpion</string>
+			<key>key</key>
+			<string>CallHandlingAuto</string>
+			<key>label</key>
+			<string>CALL_HANDLING_AUTO</string>
+			<key>PostNotification</key>
+			<string>com.esquilli.scorpion/ReloadPrefs</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>CALL_HANDLING_PICK</string>
+			<key>action</key>
+			<string>contactPicker</string>
+		</dict>
+
+		<!--
+		<dict>
+			<key>alignment</key>
+			<integer>0</integer>
+			<key>cell</key>
+			<string>PSStaticTextCell</string>
+			<key>label</key>
+			<string>Contact: Not selected</string>
+			<key>id</key>
+ 			<string>300</string>
+		</dict>
+		-->
+
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>CALL_HANDLING_BLACKLIST</string>
+			<key>footerText</key>
+			<string>CALL_HANDLING_BLACKLIST_FOOTER</string>
+			<key>isStaticText</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>CALL_HANDLING_APP_BL</string>
+			<key>action</key>
+			<string>selectExcludeApps</string>
+		</dict>
+
+	</array>
+	<key>title</key>
+	<string>Call Handling</string>
+</dict>
+</plist>

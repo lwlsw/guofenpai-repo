@@ -1,0 +1,31 @@
+{
+  "MISC_BANNERS_INVOKE" = "Banners";
+  "MISC_BANNERS_FOOTER" = "Gesture to bring back incoming or in-call banners. \n\nIf swipe or long press is selected you must respring to apply changes.";
+  "MISC_BANNER_GESTURE" = "Gesture";
+
+  "MISC_QM" = "Quick actions";
+  "MISC_QM_ENABLED" = "Enabled";
+  "MISC_QUICK_MENU_GESTURE" = "Gesture";
+  "MISC_FOOTER" = "Gesture to bring up the quick actions menu. \n\nIf swipe or long press is selected you must respring to apply changes.";
+
+  "MISC_FEEDBACK" = "Taptic Configuration";
+  "MISC_TAPTIC" = "Taptic/Haptic touch";
+  "MISC_TAPTIC_TEST" = "Test taptic";
+
+  "MISC_OTHER" = "Other";
+  "MISC_OTHER_FOOTER" = "SIM localizer will show the SIM card being used. This feature is intended for dual SIM users.";
+  "MISC_USE_LS" = "Use at LockScreen";
+  "MISC_LOCAL" = "Show SIM localizer";
+  "MISC_VIBRATE_CONNECTED" = "Vibrate on connected call";
+  "MISC_VIBRATE_DISCONNECTED" = "Vibrate on disconnected call";
+  "MISC_WA_SYNC" = "Use WhatsApp contact photo";
+
+  "MISC_AUTO" = "Auto";
+  "MISC_AUTO_FOOTER" = "Auto show audio routes will automatically display audio routes when incoming or outgoing calls.";
+  "MISC_ROUTES" = "Auto show audio routes";
+  "MISC_EXIT" = "Auto exit Phone.app (outgoing)";
+
+  "MISC_PHONE_CALLER" = "PhoneCaller settings";
+  "MISC_PHONE_FOOTER" = "Incoming call > swipe left to bring PhoneCaller interface. \n\nOutgoing or in-call > tap contact thumbnail to bring PhoneCaller interface.";
+  "MISC_PHONE_CALLER_SHOW" = "Show PhoneCaller in Scorpion";
+}

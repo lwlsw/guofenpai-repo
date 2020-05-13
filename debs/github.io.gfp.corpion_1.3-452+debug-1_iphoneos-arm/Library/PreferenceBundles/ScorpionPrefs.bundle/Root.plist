@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<!-- Twitter -->
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>      </string>
+			<key>footerText</key>
+			<string></string>
+			<key>isStaticText</key>
+			<true/>
+		</dict>
+		<dict>
+            <key>cell</key>
+            <string>PSButtonCell</string>
+            <key>label</key>
+            <string>@Esquilli</string>
+            <key>cellClass</key>
+            <string>HBTwitterCell</string>
+            <key>label</key>
+            <string>Esquilli</string>
+            <key>user</key>
+            <string>Esquilli</string>
+        </dict>
+
+		<!-- Submenus -->
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>ROOT_GENERAL_SETTINGS</string>
+			<key>footerText</key>
+			<string></string>
+			<key>isStaticText</key>
+			<true/>
+		</dict>
+		<dict>
+ 			<key>cell</key>
+ 			<string>PSLinkCell</string>
+ 			<key>label</key>
+ 			<string>ROOT_CUSTOMIZATION</string>
+			<key>icon</key>
+			<string>assets/RootIcons/customization.png</string>
+ 			<key>detail</key>
+ 			<string>SSubPrefsListController</string>
+ 			<key>SSub</key>
+ 			<string>Customization</string>
+ 		</dict>
+		<dict>
+ 			<key>cell</key>
+ 			<string>PSLinkCell</string>
+ 			<key>label</key>
+ 			<string>ROOT_CALL_HANDLING</string>
+			<key>icon</key>
+			<string>assets/RootIcons/handling.png</string>
+ 			<key>detail</key>
+ 			<string>SSubPrefsListController</string>
+ 			<key>SSub</key>
+ 			<string>CallHandling</string>
+ 		</dict>
+		<dict>
+ 			<key>cell</key>
+ 			<string>PSLinkCell</string>
+ 			<key>label</key>
+ 			<string>ROOT_MISCEALLANOUS</string>
+			<key>icon</key>
+			<string>assets/RootIcons/misc.png</string>
+ 			<key>detail</key>
+ 			<string>SSubPrefsListController</string>
+ 			<key>SSub</key>
+ 			<string>Miscellaneous</string>
+			<key>id</key>
+ 			<string>404</string>
+ 		</dict>
+		<dict>
+ 			<key>cell</key>
+ 			<string>PSLinkCell</string>
+ 			<key>label</key>
+ 			<string>ROOT_SECRET</string>
+			<key>icon</key>
+			<string>assets/RootIcons/secret.png</string>
+ 			<key>detail</key>
+ 			<string>SSubPrefsListController</string>
+ 			<key>SSub</key>
+ 			<string>SecretMenu</string>
+			<key>id</key>
+ 			<string>420</string>
+ 		</dict>
+
+		 <!-- Tools -->
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>ROOT_TOOLS</string>
+			<key>footerText</key>
+			<string></string>
+			<key>isStaticText</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>ROOT_RESET</string>
+			<key>action</key>
+			<string>resetPrefs:</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>ROOT_RESPRING</string>
+			<key>action</key>
+			<string>respring</string>
+		</dict>
+
+		 <!-- Support -->
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>ROOT_SUPPORT</string>
+			<key>footerText</key>
+			<string></string>
+			<key>isStaticText</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+			<key>label</key>
+			<string>Discord</string>
+			<key>subtitle</key>
+			<string>For submitting bugs, request, etc.</string>
+			<key>url</key>
+			<string>https://discord.gg/ayJzYQb</string>
+
+		</dict>
+		<dict>
+			<key>cellClass</key>
+			<string>HBLinkTableCell</string>
+            <key>label</key>
+            <string>Paypal</string>
+			<key>subtitle</key>
+			<string>Buy me a pizza? 🍕</string>
+			<key>url</key>
+			<string>https://www.paypal.me/Esquilli</string>
+		</dict>
+		<dict>
+			<key>alignment</key>
+			<integer>0</integer>
+			<key>cell</key>
+			<string>PSStaticTextCell</string>
+			<key>label</key>
+			<string>Version: 1.3 (BETA)</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Scorpion</string>
+</dict>
+</plist>
