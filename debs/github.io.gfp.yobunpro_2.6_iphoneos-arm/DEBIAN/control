@@ -1,0 +1,12 @@
+Package: github.io.gfp.yobunpro
+Name: Yobun Pro
+Version: 2.6
+Description: SpringBoard中的實用工具。Awesome utilities in your SpringBoard ♥
+Author: Plat-Ykor <plat-ykor@libero.it>
+Depends: mobilesubstrate
+Installed-Size: 920
+Section: Tweaks
+Architecture: iphoneos-arm
+Maintainer: 果粉派
+Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.yobunpro
+Icon: https://guofenpai.github.io/repo/icon/yobunpro.jpg
