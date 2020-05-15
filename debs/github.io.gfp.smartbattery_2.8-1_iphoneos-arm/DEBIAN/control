@@ -1,0 +1,12 @@
+Package: github.io.gfp.smartbattery
+Name: SmartBattery
+Version: 2.8-1
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, ws.hbang.common, net.limneos.libbulletin, com.spark.libsparkcolourpicker, com.opa334.ccsupport
+Installed-Size: 2012
+Author: elias
+Maintainer: elias
+Description: An awesome MobileSubstrate tweak!
+Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.smartbattery
+Icon: https://guofenpai.github.io/repo/icon/smartbattery.png
