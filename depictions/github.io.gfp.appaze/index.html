@@ -1,0 +1,296 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title> Appaze </title>
+<link rel="stylesheet" href="../assets/css/headers.css">
+<meta keep-classes="cydia-body">
+<style>
+p{
+  text-align: justify;
+}
+hr {
+  border-radius: 25px;
+  border: 0;
+  clear:both;
+  display:block;
+  width: 100%;               
+  background-color:#f2f2f2;
+  height: 4px;
+}
+		ins {
+    	background-color: transparent !important;
+		}
+</style>
+</head>
+<body class="min-h-screen flex flex-col CYDIA_IS_PRESENT_CLASS">
+<main class="flex-grow flex-no-shrink">
+<link rel="stylesheet" href="../assets/css/body.css">
+<panel class="modern">
+<img src="./banner.png" style="width: 100%; border-radius: 4%; margin-bottom: 15px;" />
+<panel-body style="font-size: 14px;">
+<div class="package-header">
+<div style="justify-items: stretch;" class="w-full lg:min-w-1/2 justify-between items-center flex-wrap -mt-1 pt-px flex cydia-hide lg:w-1/2 lg:flex-grow">
+<div class="labels cydia-hide">
+</div>
+</div>
+</div>
+
+<style>
+			#list_elemtns {
+				width: 100%;
+				overflow: auto;
+				white-space: nowrap;
+				overflow-y: scroll;
+				-webkit-overflow-scrolling: touch;
+			}
+
+			#list_elemtns li {
+				list-style: none;
+				display: inline-block;
+				margin-left: 3px;
+				vertical-align: top;
+				width: 131px;
+				vertical-align: sub;
+				font-weight: 700
+			}
+
+			#package {
+				display: block;
+				max-width: 94%;
+				font-size: 16px;
+				color: #000;
+				overflow: hidden;
+				text-overflow: ellipsis
+			}
+
+			#version {
+				font-size: 16px;
+				display: block;
+				color: #000;
+				overflow: hidden
+			}
+
+			#category {
+				max-width: 94%;
+				font-size: 16px;
+				color: rgba(0, 0, 0, 0.41);
+				display: block;
+				float: left;
+				overflow: hidden;
+				text-overflow: ellipsis
+			}
+
+			.skiptranslate {
+				visibility: hidden
+			}
+
+			#\:0\.targetLanguage {
+				visibility: visible;
+				margin: 3px auto -5px
+			}
+
+			.goog-te-combo {
+				height: 30px;
+				border: 1px solid #c8c7cc
+			}
+
+			#\:1\.container,
+			#goog-gt-tt {
+				display: none !important
+			}
+
+			.goog-tooltip {
+				display: none !important
+			}
+
+			.goog-tooltip:hover {
+				display: none !important
+			}
+
+			.goog-text-highlight {
+				background-color: transparent !important;
+				border: none !important;
+				box-shadow: none !important
+			}
+
+			body {
+				top: auto !important
+			}
+		</style>
+</head>
+<body>
+<nav class="navbar navbar-default" role="navigation">
+<div class="container">
+<div class="navbar-header">
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+</button>
+</ul>
+</div>
+</div>
+</nav>
+<div class="container">
+<center>
+<div id="google_translate_element"></div>
+</center>
+<script type="text/javascript">
+			function googleTranslateElementInit() {
+				new google.translate.TranslateElement({
+					multilanguagePage: true,
+					gaTrack: true
+				}, 'google_translate_element');
+			}
+		</script>
+<script type="text/javascript" async src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+<panel class="modern">
+<panel-body style="font-size: 14px;">
+<div class="package-header">
+<div style="justify-items: stretch;" class="w-full lg:min-w-1/2 justify-between items-center flex-wrap -mt-1 pt-px flex cydia-hide sileo-hide lg:w-1/2 lg:flex-grow">
+<div class="labels cydia-hide sileo-hide">
+<div class="icon-container" style="width: 50px; height: 50px; border-radius: 20%; margin-right: 10px; overflow:hidden;">
+<img src="https://repo.packix.com/api/Packages/5d4d8ef2ac71d6001a9c981a/icon/download?size=medium" style="height: 100%;" />
+</div>
+<div class="info-container">
+<div class="name">Appaze</div>
+<div class="identifier">Tweaks</div>
+</div>
+</div>
+</div>
+<div class="flex flex-grow min-w-full lg:min-w-0 flex-wrap cydia-show sileo-show download-restrictions-list-container mt-1">
+<div class="pt-4 lg:pr-6 lg:min-w-1/2 lg:w-1/2 lg:flex-grow text-grey-darker flex items-center justify-between bg-white flex-grow w-full flex-wrap sileo-hide">
+<div class="flex flex-col">
+<div class="text-lg font-semibold pb-1 text-grey-darkest leading-none">
+</div>
+<span class="text-xss font-bold uppercase text-grey-darkest opacity-75" style="font-size: 11px;">
+Payment
+</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="package-description" keep-classes="br ul ol img li p h1 h2 h3 h4 h5 h6 small">
+<h4><a href="https://guofenpai.github.io/repo/depictions/github.io.gfp.appaze2/" target="_blank"><strong>If you're a iOS 13 user, or if you're between iOS 11 and 13 and would like a bunch of new features, check out Appaze 2 here!</strong></a></h4><p><strong>Set custom volume/brightness/toggles per app, directly from 3D Touch menu!</strong><br />This tweak allows you to customize volume, brightness, and a bunch of toggles (WiFi, Cellular, Orientation Lock, VPN, …) for a specific app, directly using its 3D Touch menu!<br />Every time the customized apps are in foreground (open from Home Screen, App Switcher, ...) it will set the chosen values. And there is an option to restore previous values every time you exit the app.<br /><strong>Basic use case:</strong> when using a GPS app, you want both volume and brightness to be at 100%, and WiFi to be disabled (so that it doesn't stay connected to your home WiFi). You can even enable Do Not Disturb for safe driving! And when exiting the GPS, you want your previous values to be restored.<br />It is designed to look as stock and as convenient as possible, so that you can customize it in a matter of seconds.<br /><strong>The settings pane allows you to:</strong></p><ul><li>Disable volume, brightness or toggles item (if you're not interested in one of these)</li><li>Enable/disable each toggles (<strong>Orientation Lock, Bluetooth, Cellular, WiFi, Airplane, DND, Auto Brightness, Location, VPN, Night Shift, Low Power Mode, Auto Screen Lock</strong>)</li><li>Enable restoring volume and/or brightness values on app exit (meaning the custom values are applied only when the app is in foreground)</li><li>Enable restoring previous values for each toggle on app exit</li><li>Show HUD for volume and/or brightness</li><li>Show items before stock items in 3D Touch menu</li><li>Enable smooth brightness change animation</li></ul><p><strong>Languages:</strong> if you want me to add your language, so that the tweak looks even more native, just contact me and I'll add it.<br /><strong>It's compatible from iOS 11.0 to iOS 12.4 and it supports A12 devices!</strong><br />It's also fully compatible with dark mode tweaks (Noctis, Dune, Carbon Dark Mode), and with other tweaks which add items to 3D Touch menus, such as Unsub or QuickPrefs. <br /><strong>If your iPhone doesn't have Force Touch</strong>, just install the great <a href="https://dgh0st.github.io/Files/?p=com.dgh0st.force3dappshortcuts" target="_blank">Force3DAppShortcuts</a> tweak from DGh0st repo (<a href="https://DGh0st.github.io/" target="_blank">https://DGh0st.github.io/</a>). Don't install version from BigBoss since it hasn't been updated.<br /><strong style="color:#e60000">NOTE:</strong><span style="color:#e60000"> volume is changed for whole system, it's the same as if you change it in the Control Center. It means </span><strong style="color:#e60000">you can't</strong><span style="color:#e60000"> for example set Spotify to 100% and a game to 20% and expect Appaze to do the balance. If you're playing the game, system volume will be set to 20% (so for both Spotify and the game).</span><br />If you encounter any issue with it, please contact me and I'll do my best to fix it. And if I can't do anything to fix it, I will have no problem to refund your purchase.<br /><a href="https://twitter.com/AnthoPak" target="_blank">Feel free to follow me on my Twitter @AnthoPak to get live updates about my tweaks :)</a></p><iframe class="ql-video" frameborder="0" allowfullscreen="true" src="https://www.youtube.com/embed/zc8lFJxBId4?showinfo=0"></iframe><p></p>
+</div>
+<ul class="screenshot-viewer" style="margin-top:1.25rem;">
+<li>
+<a target="_blank" href="https://repo.packix.com/api/Packages/5d4d8ef2ac71d6001a9c981a/screenshots/5d814de3a2155b001a161910/download?size=full">
+<img src="https://repo.packix.com/api/Packages/5d4d8ef2ac71d6001a9c981a/screenshots/5d814de3a2155b001a161910/download?size=medium" />
+</a>
+</li>
+<li>
+<a target="_blank" href="https://repo.packix.com/api/Packages/5d4d8ef2ac71d6001a9c981a/screenshots/5d814deb1bdd82001aaaa940/download?size=full">
+<img src="https://repo.packix.com/api/Packages/5d4d8ef2ac71d6001a9c981a/screenshots/5d814deb1bdd82001aaaa940/download?size=medium" />
+</a>
+</li>
+<li>
+<a target="_blank" href="https://repo.packix.com/api/Packages/5d4d8ef2ac71d6001a9c981a/screenshots/5d814df212954e001a517ad1/download?size=full">
+<img src="https://repo.packix.com/api/Packages/5d4d8ef2ac71d6001a9c981a/screenshots/5d814df212954e001a517ad1/download?size=medium" />
+</a>
+</li>
+<li>
+<a target="_blank" href="https://repo.packix.com/api/Packages/5d4d8ef2ac71d6001a9c981a/screenshots/5d814df91bdd82001aaaa952/download?size=full">
+<img src="https://repo.packix.com/api/Packages/5d4d8ef2ac71d6001a9c981a/screenshots/5d814df91bdd82001aaaa952/download?size=medium" />
+</a>
+</li>
+<li>
+<a target="_blank" href="https://repo.packix.com/api/Packages/5d4d8ef2ac71d6001a9c981a/screenshots/5d814dfe1bdd82001aaaa963/download?size=full">
+<img src="https://repo.packix.com/api/Packages/5d4d8ef2ac71d6001a9c981a/screenshots/5d814dfe1bdd82001aaaa963/download?size=medium" />
+</a>
+</li>
+<li>
+<a target="_blank" href="https://repo.packix.com/api/Packages/5d4d8ef2ac71d6001a9c981a/screenshots/5d814e0512954e001a517ae3/download?size=full">
+<img src="https://repo.packix.com/api/Packages/5d4d8ef2ac71d6001a9c981a/screenshots/5d814e0512954e001a517ae3/download?size=medium" />
+</a>
+</li>
+<li>
+<a target="_blank" href="https://repo.packix.com/api/Packages/5d4d8ef2ac71d6001a9c981a/screenshots/5d814e061bdd82001aaaa973/download?size=full">
+<img src="https://repo.packix.com/api/Packages/5d4d8ef2ac71d6001a9c981a/screenshots/5d814e061bdd82001aaaa973/download?size=medium" />
+</a>
+</li>
+<li>
+<a target="_blank" href="https://repo.packix.com/api/Packages/5d4d8ef2ac71d6001a9c981a/screenshots/5d814e08a2155b001a161928/download?size=full">
+<img src="https://repo.packix.com/api/Packages/5d4d8ef2ac71d6001a9c981a/screenshots/5d814e08a2155b001a161928/download?size=medium" />
+</a>
+</li>
+<li>
+<a target="_blank" href="https://repo.packix.com/api/Packages/5d4d8ef2ac71d6001a9c981a/screenshots/5d814e09d116bc001b3065fa/download?size=full">
+<img src="https://repo.packix.com/api/Packages/5d4d8ef2ac71d6001a9c981a/screenshots/5d814e09d116bc001b3065fa/download?size=medium" />
+</a>
+</li>
+<li>
+<a target="_blank" href="https://repo.packix.com/api/Packages/5d4d8ef2ac71d6001a9c981a/screenshots/5d814e0bd116bc001b306607/download?size=full">
+<img src="https://repo.packix.com/api/Packages/5d4d8ef2ac71d6001a9c981a/screenshots/5d814e0bd116bc001b306607/download?size=medium" />
+</a>
+</li>
+<li>
+<a target="_blank" href="https://repo.packix.com/api/Packages/5d4d8ef2ac71d6001a9c981a/screenshots/5d814e0d1bdd82001aaaa981/download?size=full">
+<img src="https://repo.packix.com/api/Packages/5d4d8ef2ac71d6001a9c981a/screenshots/5d814e0d1bdd82001aaaa981/download?size=medium" />
+</a>
+</li>
+</ul>
+</panel-body>
+</panel>
+<panel class="modern changes-panel">
+<panel-header>
+<label>What's New</label>
+<a href="https://repo.packix.com/package/com.anthopak.appaze/changes" class="sub-header cydia-hide sileo-hide">Version History</a>
+<a href="https://repo.packix.com/package/com.anthopak.appaze/changes" target="_blank" class="sub-header cydia-show sileo-show">Version History</a>
+</panel-header>
+<panel-body style="margin-top: 6px;">
+<ul>
+<li>
+<span class="change-content">Fix issue some people had with Bluetooth toggle since 2.1 version</span>
+</li>
+</ul>
+</panel-body>
+</panel> <panel class="modern info-panel">
+<panel-header>
+<label>Information</label>
+</panel-header>
+<panel-body class="pb-0">
+<table class="information mt-1" cols="2" border="0">
+<tbody>
+<tr>
+<td>Version</td>
+<td>2.1.1</td>
+</tr>
+<tr>
+<td>Updated</td>
+<td>
+October 16, 2019
+</td>
+</tr>
+<tr>
+<td>Restriction(s)</td>
+<td>Free</td>
+</tr>
+<tr>
+<td>iOS Version(s)</td>
+<td>11.0 - 12.4</td>
+</tr>
+</tbody>
+</table> </panel-body>
+
+</main>
+<br>
+<footer class="bg-grey-lightest flex-shrink flex-no-grow text-left">
+<div class="container m-auto py-3 px-4">
+<div class="w-full flex flex-wrap justify-between mt-4 cydia-hide">
+<div class="w-full md:w-1/2 inline-flex flex-wrap md:pr-4 split-2-md mb-4 md:mb-0" style="align-content: flex-start;">
+<h3 class="mb-2 font-semibold text-lg text-grey-dark leading-tight w-full">Repository</h3>
+<a href="https://guofenpai.github.io/sileo/" class="mr-4 block leading-normal mb-2 text-sm no-underline text-blue-dark font-medium split-2-md split-2-all w-1/2">https://guofenpai.github.io/repo/</a>
+<p class="text-xs mt-0 text-grey font-medium">A new group that integrates beautification, cracking, handling, sharing, and communication together.</p>
+</div>
+</div>
+</footer>
+<div class="bg-grey-lightest">
+<a href="https://discord.gg/w7zsmNT" style="text-align: center; font-size: 12px;" class="no-underline text-blue-dark bg-grey-lightest">Discord Group<br> <img class="mr-3" src="../assets/icons/code.svg" style="width: 1% margin-top: -5px; margin-bottom: -5px;"/> <br> GuoFenPai  ©  2020 </a>
+<br>
+<br>
+<br>
+</div>
+</body>
+</html>
